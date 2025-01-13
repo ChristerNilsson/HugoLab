@@ -20,7 +20,7 @@ HugoLabServer publicerar.
 
 # TODO
 
-Man kan tänka siga att publicera.sh även commitar till HugoLab.  
+Man kan tänka sig att publicera.sh även commitar till HugoLab.  
 Detta för att få med allt i samma skript.  
 
 # Tips
@@ -31,7 +31,7 @@ Detta för att få med allt i samma skript.
 	* lagturneringar
 	* meddelanden
 	* turneringar
-	
+
 * VS Code Go Live används inte!
 * Ändra ALDRIG i public-katalogen!
 
