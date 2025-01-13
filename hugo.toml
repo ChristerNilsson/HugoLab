@@ -1,4 +1,4 @@
-baseURL = 'https://christernilsson.github.io/HugoLab/'
+baseURL = 'https://christernilsson.github.io/HugoLabServer/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 default_auto = false

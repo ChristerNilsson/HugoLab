@@ -1,5 +1,5 @@
 ---
-title: Christer Nilsson
+title: Jan-Christer Nilsson
 auto: true
 ---
 
