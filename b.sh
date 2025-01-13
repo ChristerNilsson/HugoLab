@@ -1,19 +1,19 @@
 # Spara nuvarande katalog
-SOURCE=$(pwd)
+A=$(pwd)
 
 # Katalogen där repo B ligger
-SERVER="C:/github/HugoLabServer"
+B="C:/github/HugoLabServer"
 
 hugo
 
-cp -r public/* "$SERVER"
+cp -r public/* "$B"
 
 git add .
 git commit -m "Publicerade $(date '+%Y-%m-%d %H:%M:%S')"
 git push origin
 
 # Byt till repo B
-cd "$SERVER" || { echo "Kunde inte byta till repo $SERVER"; exit 1; }
+cd "$B" || { echo "Kunde inte byta till repo $B"; exit 1; }
 
 # Lägg till ändringar, commit och push
 git add . > /dev/null 2>&1
@@ -21,6 +21,6 @@ git commit -m "Publicerade $(date '+%Y-%m-%d %H:%M:%S')"
 git push origin
 
 # Gå tillbaka till ursprungskatalogen (repo A)
-cd "$SOURCE" || { echo "Kunde inte byta tillbaka till $SOURCE"; exit 1; }
+cd "$A" || { echo "Kunde inte byta tillbaka till $A"; exit 1; }
 
-echo "Publicering till $SERVER är klart."
+echo "Publicering till $B är klart."
