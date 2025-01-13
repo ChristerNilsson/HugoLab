@@ -25,7 +25,13 @@ Detta för att få med allt i samma skript.
 
 # Tips
 
-* Meddelanden redigeras i data/meddelanden.yaml
+* data-katalogen innehåller 
+	* föreläsningar
+	* inbjudningar
+	* lagturneringar
+	* meddelanden
+	* turneringar
+	
 * VS Code Go Live används inte!
 * Ändra ALDRIG i public-katalogen!
 
