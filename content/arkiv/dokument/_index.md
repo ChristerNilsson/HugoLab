@@ -1,4 +1,0 @@
----
-title: Dokument
-auto: true
----
