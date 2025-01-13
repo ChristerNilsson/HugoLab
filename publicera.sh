@@ -13,8 +13,11 @@ cp -r public/* "$SERVER"
 # Byt till repo B
 cd "$SERVER" || { echo "Kunde inte byta till repo $SERVER"; exit 1; }
 
+echo "---"
 # Lägg till ändringar, commit och push
-git add .
+git add . > /dev/null 2>&1
+echo "==="
+
 git commit -m "Publicerade $(date '+%Y-%m-%d %H:%M:%S')"
 git push origin
 

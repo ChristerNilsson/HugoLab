@@ -1,0 +1,4 @@
+# Exempel: Lägg till i `.gitattributes`
+*.html text eol=crlf
+*.xml text eol=crlf
+*.css text eol=crlf
