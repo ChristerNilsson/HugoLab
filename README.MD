@@ -1,9 +1,10 @@
 # Arbetsflöde
 
 Istället för att brancha till gh-pages, använder jag två repos.  
-Det första innehåller källkoden.  
-Det andra publicerar.  
+HugoLab innehåller källkoden.  
+HugoLabServer publicerar.  
 VS Code Go Live används inte!
+Ändra ALDRIG i public-katalogen!
 
 * Visa lokalt
 	* hugo server
@@ -21,5 +22,6 @@ VS Code Go Live används inte!
 
 # Tester
 
-* Ändra i sass, kontrollera att det slår igenom
+* Ändra i assets/styles.sass, kontrollera att det slår igenom på public.styles.css
+	* OK!
 * LF vs CRLF
