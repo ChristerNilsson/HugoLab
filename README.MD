@@ -3,8 +3,6 @@
 Istället för att brancha till gh-pages, använder jag två repos.  
 HugoLab innehåller källkoden.  
 HugoLabServer publicerar.  
-VS Code Go Live används inte!
-Ändra ALDRIG i public-katalogen!
 
 * Visa lokalt
 	* hugo server
@@ -20,8 +18,19 @@ VS Code Go Live används inte!
 	* HugoLabServer commitas
 * [Länk](https://christernilsson.github.io/HugoLabServer)
 
+# TODO
+
+Man kan tänka siga att publicera.sh även commitar till HugoLab.  
+Detta för att få med allt i samma skript.  
+
+# Tips
+
+* Meddelanden redigeras i data/meddelanden.yaml
+* VS Code Go Live används inte!
+* Ändra ALDRIG i public-katalogen!
+
 # Tester
 
-* Ändra i assets/styles.sass, kontrollera att det slår igenom på public.styles.css
+* Ändra i assets/styles.sass, kontrollera att det slår igenom på public/styles.css
 	* OK!
 * LF vs CRLF
