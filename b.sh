@@ -9,7 +9,7 @@ hugo
 cp -r public/* "$B"
 
 git add .
-git commit -m "Publicerade $(date '+%Y-%m-%d %H:%M:%S')"
+git commit -m "Publicerad $(date '+%Y-%m-%d %H:%M:%S')"
 git push origin
 
 # Byt till repo B
@@ -17,7 +17,7 @@ cd "$B" || { echo "Kunde inte byta till repo $B"; exit 1; }
 
 # Lägg till ändringar, commit och push
 git add . > /dev/null 2>&1
-git commit -m "Publicerade $(date '+%Y-%m-%d %H:%M:%S')"
+git commit -m "Publicerad $(date '+%Y-%m-%d %H:%M:%S')"
 git push origin
 
 # Gå tillbaka till ursprungskatalogen (repo A)
