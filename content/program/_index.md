@@ -11,7 +11,7 @@ title: Program
 | Fre |     |                                         | 09.00-15.15 |
 
 Schacksalongerna:
-[Ringvägen 9C](https://goo.gl/maps/QvjjjhTWNoS3iQt66) **T-bana Zinkensdamm**
+[Ringvägen 9B](https://goo.gl/maps/QvjjjhTWNoS3iQt66) **T-bana Zinkensdamm**
 
 Rioträffen:
 [Sandhamnsgatan 4](https://maps.app.goo.gl/QcKuataRc74koJP39) **T-bana Gärdet** 
