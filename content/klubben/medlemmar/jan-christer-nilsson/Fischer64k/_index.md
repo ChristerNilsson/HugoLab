@@ -1,0 +1,25 @@
+Detta är en generalisering av Fischer960.  
+
+Schackklockan startas, vit börjar med att placera ut kungarna.
+Därefter turas spelarna om att placera ut par av pjäserna Q, R, B och N, en av varje färg.
+Lämpligen har man fyra schackspel tillgängliga plus tre extra damer.
+
+Om spelarna så vill kan de hamna i en av Fischer960:s utgångsställningar eller t o m den vanliga missionärsställningen, 
+den sönderteoretiserade nummer 518.
+
+Men, de kan även välja t ex sju löpare, sju springare, sju torn eller sju damer.
+Kungen placeras på den lediga rutan.
+
+Andra exempel:
+
+QQRRBBNK  
+RQRQKNNN  
+NKNNNNNN  
+BBBKBBBB  
+RRRRRKRR  
+QQQQQQQK  
+
+Totalt bör det bli 4**7 varianter av QRBN * åtta placeringar av kungen / 2   
+Tvåan pga speglingar  
+
+Uträknat blir detta 64k = 64536 varianter.
