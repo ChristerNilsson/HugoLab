@@ -12,7 +12,6 @@ Om spelarna så vill kan de hamna i en av Fischer960:s utgångsställningar elle
 den sönderteoretiserade nummer 518.
 
 Men, de kan även välja t ex sju löpare, sju springare, sju torn eller sju damer.  
-Kungen placeras på den lediga rutan.
 
 Andra exempel:
 
