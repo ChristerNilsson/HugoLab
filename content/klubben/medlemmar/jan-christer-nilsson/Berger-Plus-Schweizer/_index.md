@@ -2,7 +2,8 @@
 title: Berger Plus Schweizer
 ---
 
-Sällskapet har med framgång kombinerat Berger-grupper med en Schweizer i botten sedan 2015.
+Sällskapet har med framgång kombinerat Berger-grupper med en Schweizer i botten sedan 2015.  
+Kanske detta även kan fungera i Seniorschack Stockholm?  
 
 Referenser:
 * Christian Hammerman
@@ -17,6 +18,10 @@ Referenser:
 [D Berger](https://chess-results.com/tnr997900.aspx?lan=1&art=4)  
 [E Berger](https://chess-results.com/tnr997901.aspx?lan=1&art=4)  
 [F Schweizer](https://chess-results.com/tnr997911.aspx?lan=1&art=4)  
+
+[Livesändning från A-gruppen](https://lichess.org/broadcast/sallskapets-hostturnering-2024/rond-1/eWJ5FUmP)
+[Hemsidan](https://www.schacksallskapet.se/hostturneringen-ar-igang/)
+[Chess-Results](https://chess-results.com/tnr997893.aspx?lan=6)
 
 ### 2015 elva ronder
 12 + 12 + 12 + 12 + 20 = 60 deltagare  
