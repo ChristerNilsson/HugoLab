@@ -19,14 +19,14 @@ Detta upprepas tills partiet spelats klart.
 # Uppdrag
 
 Fyra partier pågår samtidigt, precis som i en vanlig lagmatch.  
-Dock utförs inte dragen förrän start och slutruta besökts boots on the ground.
+Dock utförs inte dragen förrän start och slutruta besökts boots on the ground.  
 Varje drag delas upp i två uppdrag: startruta och slutruta.  
 Därefter fördelas de till en eller två kvadranter.  
 Spelare C kan t ex bestämma sig för ett drag, t ex löparen a1-h8, som sedan utförs av spelare A och D, kanske parallellt.  
 Då båda uppdragen utförts, skickas draget till motståndaren.  
 Spelarna lämnar inte sina kvadranter, utan står kvar och väntar på nya uppdrag.
 
-||a|b|c|d|e|f|g|h|
+|•|a|b|c|d|e|f|g|h|
 |-|-|-|-|-|-|-|-|-|
 |8|C|C|C|C|D|D|D|D|
 |7|C|C|C|C|D|D|D|D|
@@ -72,9 +72,11 @@ Detta är en primitiv algoritm för att approximativt hitta en bra lösning.
 (Den perfekta lösningen kan vara svår att finna, man har ju inte alla dragen i verkligheten)  
 
 Det egna lagets deltagare är markerade med A-D, motståndarna E-H.  
-Den ruta man ska gå till är markerad med ett streck.  
-Andra drag är markerade med röda punkter.  
+Den ruta man ska gå till är markerad med ett streck mellan den egna bokstaven och rutan.  
+Pågående/köade drag är markerade med röda punkter.  
 Start och slutruta är hopkopplade med ett streck.  
+
+I simulatorn kan man även se motståndarlagets drag. Detta är ej möjligt i appen.
 
 ### Optimeringsmöjlighet
 Man kan se var spelarna i det egna laget befinner sig.  
