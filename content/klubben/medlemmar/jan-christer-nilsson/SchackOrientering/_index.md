@@ -13,7 +13,7 @@ Då alla anlänt, startas partierna.
 De fyra vitspelarna utför sina drag och svartspelarna ger sig iväg mot sina mål.  
 Då någon bestämt sig för ett drag, delas detta ut som två uppdrag (startruta och slutruta).  
 Startruta och slutruta kommer att ligga i samma kvadranter för det första draget.  
-Spelarna kommer att tilldelas dessa uppdrag direkt om dessa är de närmaste, annars kommer de att bli aktiva mål längre fram.
+Spelarna kommer att tilldelas dessa uppdrag direkt om dessa är de närmaste, annars kommer de att bli aktiva mål längre fram.  
 När både startruta och slutruta besökts, skickas draget till motståndaren och det plingar till i hans mobil.  
 
 Detta upprepas tills partiet spelats klart.
@@ -51,7 +51,7 @@ Vissa deltagare kommer att få fler uppdrag än andra.
 [Prova simulatorn!](https://christernilsson.github.io/2025/007-SchackOrientering/)  
 
 Vid start samlas alla åtta deltagarna i brädets mittpunkt.  
-Eftersom alla står i samma punkt, syns bara en spelaren.  
+Eftersom alla står i samma punkt, syns bara en spelare.  
 Därefter sätter man igång ett eller flera partier genom att klicka A, B, C, och/eller D.  
 Tips: Börja med A. När du förstått hur det fungerar, titta på B. B är roterat. Först därefter A och B samtidigt.  
 Det blir ganska rörigt, pga att flera roterade partier pågår samtidigt.  
@@ -104,7 +104,7 @@ I varje lag finns spelarna N, S, E och W. Som i bridge.
 
 De fyra brädena är orienterade som nedan.  
 Tänk er brädena staplade på höjden.  
-N:g1 delar ruta med W:h7, E:b8 samt S:a2.  
+N:g1 delar ruta med W:h7, E:a2 samt S:b8.  
 *Det behöver inte vara Fischer 960*  
 En spelare ser bara sitt eget bräde (oroterat).  
 |||
