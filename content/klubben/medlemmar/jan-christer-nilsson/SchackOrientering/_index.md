@@ -8,11 +8,13 @@ Man skapar ett virtuellt schackbräde, t ex i skogen och där det gärna får fi
 
 Varje schackruta är 100 x 100 meter. Hela brädet blir då 800 x 800 meter.
 
-Spelarna startar appen och beger sig till sina överenskomna startpunkter.  
-Då någon bestämt sig för ett drag, publicerar han detta som två uppdrag (startruta och slutruta).  
-Bara det egna laget, med fyra medlemmar, kan se dessa uppdrag.  
-Åtta uppdrag kan ligga på denna lista, fyra startrutor och fyra slutrutor.  
-När både startruta och slutruta besökts, skickas draget till motståndaren och det plingar till i hans mobil.
+Spelarna startar appen och beger sig till brädets mittpunkt.  
+Då alla anlänt, startas partierna.  
+De fyra vitspelarna utför sina drag och svartspelarna ger sig iväg mot sina mål.  
+Då någon bestämt sig för ett drag, delas detta ut som två uppdrag (startruta och slutruta).  
+Startruta och slutruta kommer att ligga i samma kvadranter för det första draget.  
+Spelarna kommer att tilldelas dessa uppdrag direkt om dessa är de närmaste, annars kommer de att bli aktiva mål längre fram.
+När både startruta och slutruta besökts, skickas draget till motståndaren och det plingar till i hans mobil.  
 
 Detta upprepas tills partiet spelats klart.
 
@@ -22,9 +24,10 @@ Fyra partier pågår samtidigt, precis som i en vanlig lagmatch.
 Dock utförs inte dragen förrän start och slutruta besökts boots on the ground.  
 Varje drag delas upp i två uppdrag: startruta och slutruta.  
 Därefter fördelas de till en eller två kvadranter.  
-Spelare C kan t ex bestämma sig för ett drag, t ex löparen a1-h8, som sedan utförs av spelare A och D, kanske parallellt.  
+Spelare C kan t ex bestämma sig för ett drag, t ex löparen a1-h8, som sedan utförs av spelare A och D, kanske samtidigt.  
+Om spelarna redan befinner sig på dessa rutor, genomförs draget omedelbart.  
 Då båda uppdragen utförts, skickas draget till motståndaren.  
-Spelarna lämnar inte sina kvadranter, utan står kvar och väntar på nya uppdrag.
+Spelarna lämnar inte sina kvadranter, utan står kvar och väntar på nya uppdrag.  
 
 |•|a|b|c|d|e|f|g|h|
 |-|-|-|-|-|-|-|-|-|
@@ -37,18 +40,25 @@ Spelarna lämnar inte sina kvadranter, utan står kvar och väntar på nya uppdr
 |2|A|A|A|A|B|B|B|B|
 |1|A|A|A|A|B|B|B|B|
 
-I början av partiet ovan, kan det tyckas som om spelare C och D inte får några uppdrag.  
+I början av partiet, kan det tyckas som om spelare C och D inte får några uppdrag.  
 Dock pågår fyra partier samtidigt, och dessa är roterade.  
-Detta innebär att uppdragen kommer att fördelas någorlunda jämnt.  
+Detta innebär att uppdragen kommer att spridas ut på olika deltagare.  
 Eftersom det handlar om schack, vet man inte var striderna kommer att äga rum.  
+Vissa deltagare kommer att få fler uppdrag än andra.
 
 # Simulator
 
 [Prova simulatorn!](https://christernilsson.github.io/2025/007-SchackOrientering/)  
 
 Vid start samlas alla åtta deltagarna i brädets mittpunkt.  
-Eftersom alla står i samma punkt, syns bara spelaren H.  
+Eftersom alla står i samma punkt, syns bara en spelaren.  
 Därefter sätter man igång ett eller flera partier genom att klicka A, B, C, och/eller D.  
+Tips: Börja med A. När du förstått hur det fungerar, titta på B. B är roterat. Först därefter A och B samtidigt.  
+Det blir ganska rörigt, pga att flera roterade partier pågår samtidigt.  
+I appen ser man bara ett oroterat parti. Uppdragen som dyker upp utför man utan att fundera närmare på dem.  
+Man har ingen information om vilket parti de tillhör och man vet inte var motståndarnas pjäser står.  
+
+Observera att draget e2-e4 kan ibland utföras e4 först, därefter e2, beroende på var deltagaren befinner sig.
 
 De fyra partierna är vända åt fyra olika väderstreck.  
 Detta för att jämna ut geografiska orättvisor.
@@ -60,39 +70,35 @@ Detta för att jämna ut geografiska orättvisor.
 
 Partierna är hämtade från Lichess.  
 Därför är betänketiden noll sekunder.  
-Tiderna man ser går åt till spelarnas förflyttning, en faktor 30 av normal tid.  
-Varje spelare ansvarar för sin kvadrant av brädet, t ex har A abcd1234.  
+Tiderna man ser går åt till spelarnas förflyttning.
+Varje spelare ansvarar enbart för sin kvadrant av brädet, t ex har A abcd1234.  
 Deltagarna antas börja på ett uppdrag så fort det dyker upp.  
 Det kan slumpa sig så att en spelare får åtta uppdrag med en gång.  
-I så fall börjar han med det närmaste, tar därefter nästa som är närmast, osv.  
+I så fall börjar han med det närmaste, tar därefter nästa som nu är närmast, osv.  
 Ibland står de redan på start- eller stopprutan och då markeras uppdraget som klart.  
 Annars börjar de förflytta sig mot den ruta som är närmast, av alla uppdrag.  
 Dyker det upp ett nytt uppdrag, som är närmare än det pågående, byter man automatiskt till det.  
 Detta är en primitiv algoritm för att approximativt hitta en bra lösning.  
-(Den perfekta lösningen kan vara svår att finna, man har ju inte alla dragen i verkligheten)  
+Den perfekta lösningen kan vara svår att finna, man känner ju inte till framtida alla drag.
 
 Det egna lagets deltagare är markerade med A-D, motståndarna E-H.  
 Den ruta man ska gå till är markerad med ett streck mellan den egna bokstaven och rutan.  
 Pågående/köade drag är markerade med röda punkter.  
 Start och slutruta är hopkopplade med ett streck.  
 
-I simulatorn kan man även se motståndarlagets drag. Detta är ej möjligt i appen.
-
-### Optimeringsmöjlighet
-Man kan se var spelarna i det egna laget befinner sig.  
-Man ser dock bara sitt eget parti.  
-Vid tidsnöd kan man välja ett svagare drag istället för ett starkare om löptiden på så sätt minimeras.  
+I simulatorn kan man även se motståndarlagets drag.  
+I appen kommer man inte att se någon deltagares position.  
 
 ### Deltagarens uppgifter
 
-1. Sköta sitt eget parti.
-2. Utföra alla tilldelade uppdrag.
+1. Sköta sitt eget parti. Undvika tidsnöd.
+2. Utföra uppdrag så fort som möjligt.
 
 ### Parallella partier
 
 Precis som i en lagmatch möter varje lagmedlem en spelare i andra laget.  
 Samarbetet inom laget går ut på att man hjälps åt att utföra varandras drag.  
-De drag som behöver utföras fördelas på spelarnas kvadranter. 
+De drag som behöver utföras fördelas på spelarnas kvadranter.  
 Partierna placeras så att varje spelare får ett väderstreck.  
 I varje lag finns spelarna N, S, E och W. Som i bridge.
 
@@ -100,7 +106,7 @@ De fyra brädena är orienterade som nedan.
 Tänk er brädena staplade på höjden.  
 N:g1 delar ruta med W:h7, E:b8 samt S:a2.  
 *Det behöver inte vara Fischer 960*  
-En spelare ser bara sitt eget bräde (rättvänt), och han ser dessutom var alla lagkamrater befinner sig.  
+En spelare ser bara sitt eget bräde (oroterat).  
 |||
 |-|-|
 |N ![N](N.png)|W ![W](W.png)|
@@ -123,13 +129,14 @@ Fundering: Bör man rockera kort eller långt med denna topografi?
 
 Deltagarna behöver varsin mobil och varsin kompass.  
 
-Appen visar ett schackbräde, samt en översiktsbild över var övriga lagmedlemmar befinner sig.  
-Man kan växla mellan dessa två bilder.  
+Appen visar ett schackbräde.   
 Schackdrag utförs genom att klicka på start och slutrutorna.  
 Uppdragen ges via röstkommandon, medtag hörlurar.  
+Då man anlänt till ett mål, markeras det som utfört automatiskt och man får ett nytt mål.  
 
 * Hörs en manlig röst säga "ett åtta" innebär det att gå i riktning 180, dvs rakt söderut. Ställ in kompassen på 180.  
-* Då man kommit ur kurs, kommer en ny bäring. Ställ in kompassen och fortsätt.  
-* Hörs en kvinnlig röst "nittio" innebär det att man har 90 meter till målet. Denna avstånd minskar förhoppnigsvis, tills man hör enstaka meter i slutet.  
+* Då man kommit ur kurs, kommer en ny bäring, t ex 170 eller 190. Ställ in kompassen och fortsätt.  
+* Hörs en kvinnlig röst "nittio" innebär det att man har 90 meter kvar till målet.  
+Detta avstånd minskar förhoppningsvis, tills man hör enstaka meter i slutet.  
 
 Då man kommit inom två meter från målet anses uppdraget slutfört och man får ett nytt uppdrag automatiskt. Annars står man kvar och väntar.  
