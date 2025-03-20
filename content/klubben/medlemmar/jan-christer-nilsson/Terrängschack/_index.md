@@ -1,5 +1,5 @@
 ---
-title: Terängschack
+title: Terrängschack
 ---
 
 Detta är ett försök att kombinera schack med terränglöpning och få schack att bli en bättre lagsport, som bygger på samarbete.
