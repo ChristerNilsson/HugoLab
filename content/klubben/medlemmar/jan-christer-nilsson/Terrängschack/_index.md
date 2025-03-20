@@ -1,8 +1,8 @@
 ---
-title: Schackorientering
+title: Terängschack
 ---
 
-Detta är ett försök att kombinera schack med orientering och få schack att bli en bättre lagsport, som bygger på samarbete.
+Detta är ett försök att kombinera schack med terränglöpning och få schack att bli en bättre lagsport, som bygger på samarbete.
 
 Man skapar ett virtuellt schackbräde, t ex i skogen och där det gärna får finnas naturliga hinder i form av vattendrag, berg och sjöar.
 
@@ -48,7 +48,7 @@ Vissa deltagare kommer att få fler uppdrag än andra.
 
 # Simulator
 
-[Prova simulatorn!](https://christernilsson.github.io/2025/007-SchackOrientering/)  
+[Prova simulatorn!](https://christernilsson.github.io/2025/007-Terrängschack)  
 
 Vid start samlas alla åtta deltagarna i brädets mittpunkt.  
 Eftersom alla står i samma punkt, syns bara en spelare.  
