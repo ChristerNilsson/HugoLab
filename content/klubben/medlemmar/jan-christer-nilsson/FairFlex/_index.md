@@ -13,27 +13,27 @@ Varje spelare får ett utskrivet formulär där han fyller i resultaten.
 
 Exempel:
 
-|Namn|Tid|Chess960|
-|-|-|-|
-|Christer|#7|Ja|
-|Thomas|#5|Nej|
-|Anders|#1|Nej|
-|Vida|#12|Ja|
+|Namn    |Tid|Chess960|
+|--------|---|--------|
+|Christer|#7 |Ja      |
+|Thomas  |#5 |Nej     |
+|Anders  |#1 |Nej     |
+|Vida    |#12|Ja      |
 
 |Rond 1 #6=12+8|w|b|w|b|w|b|
-|-|-|-|-|-|-|-|
-|Christer |1|½|0|1|0|1|
-|Thomas   |0|½|1|0|1|0|
+|--------------|-|-|-|-|-|-|
+|Christer      |1|½|0|1|0|1|
+|Thomas        |0|½|1|0|1|0|
 
 |Rond 2 #4=18+12  |b|w|b|w|
-|-                |-|-|-|-|
-|Christer |½|0|1|½|
-|Anders h |½|1|0|½|
+|-----------------|-|-|-|-|
+|Christer         |½|0|1|½|
+|Anders           |½|1|0|½|
 
 |Rond 3 #9=6+4 960|b|w|b|w|b|w|b|w|b|w|b|w|
-|-                |-|-|-|-|-|-|-|-|-|-|-|-|
-|Christer|½|½|½|½|½|½|½|½|½|½|½|½|
-|Vida    |½|½|½|½|½|½|½|½|½|½|½|½|
+|-----------------|-|-|-|-|-|-|-|-|-|-|-|-|
+|Christer         |½|½|½|½|½|½|½|½|½|½|½|½|
+|Vida             |½|½|½|½|½|½|½|½|½|½|½|½|
 
 
 # Tidsformat
