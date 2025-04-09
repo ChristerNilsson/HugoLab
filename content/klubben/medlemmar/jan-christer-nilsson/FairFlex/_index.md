@@ -48,6 +48,15 @@ Rondernas vinstandelar summeras och används vid beräkning av Performance Ratin
 (Christers vinstandelar i exemplet ovan: 2/4 + 1.5/2 + 0.5/1 = 1.75)  
 Performance Rating avgör vilken placering spelaren får.  
 
+# Förslag till längre betänketider
+
+| 5|10|15|20|30|40|60|120|
+|--|--|--|--|--|--|--|---|
+|#1|#2|  |#3|  |  |  |   |
+|  |#1|  |#2|  |#3|  |   |
+|  |  |#1|  |#2|  |#3|   |
+|  |  |  |  |#1|  |#2|#3 |
+
 # Chess960
 
 Om båda spelarna har angett att de kan tänka sig att spela 960, väljs startställning så här:
