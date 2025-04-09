@@ -28,34 +28,34 @@ Uppdelningen mellan bastid och inkrement kan behöva justeras.
 
 # Exempel
 
-|Rond 1 #1 = 3+2|# |b|w|b|w|
-|---------------|--|-|-|-|-|
-|Christer       |#1|½|0|1|½|
-|vida           |#1|½|1|0|½|
+|Rond 1 #1 = 3+2|#  |b|w|b|w|
+|---------------|:-:|-|-|-|-|
+|Christer       |#1 |½|0|1|½|
+|Vida           |#1 |½|1|0|½|
 
-|Rond 2 #2 = 6+4|# |w|b|
-|---------------|--|-|-|
-|Christer       |#1|1|½|
-|Thomas         |#2|0|½|
+|Rond 2 #2 = 6+4|#  |w|b|
+|---------------|:-:|-|-|
+|Christer       |#1 |1|½|
+|Thomas         |#2 |0|½|
 
-|Rond 3 #2 = 6+4|# |b|
-|---------------|--|-|
-|Christer       |#1|½|
-|Anders         |#3|½|
+|Rond 3 #2 = 6+4|#  |b|w|
+|---------------|:-:|-|-|
+|Christer       |#1 |0|0|
+|Anders         |#3 |1|1|
 
 Varje rond resulterar i en vinstandel, t ex 2/4 = 0.50
 Rondernas vinstandelar summeras och används vid beräkning av Performance Rating.  
-(Christers vinstandelar i exemplet ovan: 2/4 + 1.5/2 + 0.5/1 = 1.75)  
+(Christers vinstandelar i exemplet ovan: 2/4 + 1.5/2 + 0/2 = 1.25)  
 Performance Rating avgör vilken placering spelaren får.  
 
 # Förslag till längre betänketider
 
 | 5|10|15|20|30|40|60|120|Rondtid|
 |--|--|--|--|--|--|--|---|:-----:|
-|#1|#2|  |#3|  |  |  |   |40m|
-|  |#1|  |#2|  |#3|  |   |80m|
-|  |  |#1|  |#2|  |#3|   |2h|
-|  |  |  |  |#1|  |#2|#3 |4h|
+|#1|#2|  |#3|  |  |  |   |40m    |
+|  |#1|  |#2|  |#3|  |   |80m    |
+|  |  |#1|  |#2|  |#3|   |2h     |
+|  |  |  |  |#1|  |#2|#3 |4h     |
 
 En rond kan bestå av 
 * #1 #1 #1 #1 (fyra partier)
