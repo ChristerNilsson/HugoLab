@@ -1,3 +1,7 @@
+---
+title: Fotpedaler
+---
+
 Man kan styra Lichess med fyra fotpedaler
 
 [8BitDo](https://shop.8bitdo.com/products/8bitdo-keyboard-extensions?variant=44141790036145)
@@ -6,7 +10,7 @@ Man kan styra Lichess med fyra fotpedaler
 
 I ovanstående ställning kan vit välja mellan följande 34 drag:
 
-||A|B|C|
+|komb|A|B|C|
 |-|-|-|-|
 |AA|a4|Dc1|Tfd1|
 |AB|b3|Dd1|Tfe1|

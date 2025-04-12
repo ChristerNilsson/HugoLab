@@ -4,7 +4,7 @@ A=$(pwd)
 # Katalogen där repo B ligger
 B="C:/github/HugoLabServer"
 
-hugo
+hugo server
 
 cp -r public/* "$B"
 
