@@ -1,5 +1,5 @@
 ---
-title: Protokoll Landskap
+title: Chess Landscape
 ---
 
 Det här schackprotokollet har två egenskaper:
@@ -14,4 +14,4 @@ Vid utskrift rekommenderas dubbelsidigt och standardmarginaler.
 
 Om man har tillgång till en pappersskärare (eller är händig med saxen) kan man få ut två protokoll per A4.
 
-[pdf](ProtokollLandskap.pdf)
+[pdf](ChessLandscape.pdf)
