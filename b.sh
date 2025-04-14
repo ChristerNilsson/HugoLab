@@ -4,7 +4,8 @@ A=$(pwd)
 # Katalogen där repo B ligger
 B="C:/github/HugoLabServer"
 
-cp -r public/* "$B"
+# cp -r public/* "$B"
+rsync -a --delete public/ "$B/"
 
 git add .
 git commit -m "Publicerad $(date '+%Y-%m-%d %H:%M:%S')"
