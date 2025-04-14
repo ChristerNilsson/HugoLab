@@ -4,6 +4,8 @@ A=$(pwd)
 # Katalogen där repo B ligger
 B="C:/github/HugoLabServer"
 
+hugo
+
 cp -r public/* "$B/"
 # rsync ej installerat
 # rsync -a --delete public/ "$B/"
