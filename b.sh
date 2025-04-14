@@ -6,7 +6,7 @@ B="C:/github/HugoLabServer"
 
 hugo server
 
-cp -r public/* "$B"
+cp -r public/* "$B" --verbose
 
 git add .
 git commit -m "Publicerad $(date '+%Y-%m-%d %H:%M:%S')"
