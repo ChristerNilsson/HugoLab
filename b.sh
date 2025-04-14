@@ -13,6 +13,8 @@ git push origin
 # Byt till repo B
 cd "$B" || { echo "Kunde inte byta till repo $B"; exit 1; }
 
+hugo
+
 # Lägg till ändringar, commit och push
 git add . > /dev/null 2>&1
 git commit -m "Publicerad $(date '+%Y-%m-%d %H:%M:%S')"
