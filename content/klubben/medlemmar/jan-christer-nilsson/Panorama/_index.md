@@ -1,5 +1,5 @@
 ---
-title: PanoramaX
+title: Panorama
 ---
 
 Det här schackprotokollet har två egenskaper:
