@@ -2,6 +2,8 @@
 title: Panorama
 ---
 
+Jösses!
+
 Det här schackprotokollet har två egenskaper:
 
 1. Landskap. Det innebär att protokollet får bättre plats när schackbrädena är stora.
