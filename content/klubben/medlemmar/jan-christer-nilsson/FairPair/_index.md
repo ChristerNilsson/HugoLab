@@ -12,8 +12,7 @@ Bygger på två principer:
 
 1. Alla möter spelare som ligger närmast i rating. 
 2. Sortering:
-	* Varje spelare spelar en fiktiv remi mot turneringens medelspelare.
-	* Performance Rating räknas nu ut, med den matematiskt korrekta metoden.
+	* Performance Rating med den matematiskt korrekta metoden används.
 	* Att PR inte redan används i alla Schweizer-turneringar beror troligen på att man vill kunna räkna för hand.
 
 Berger är den rättvisaste formen, helst dubbelrondig.   
@@ -23,7 +22,7 @@ Då används Schweizer eller Bergergrupper.
 ### Poängberäkning enligt FairPair
 
 Man använder motståndarnas elo, tillsammans med vinstprocenten för att beräkna PR.  
-Detta är exakt samma metod som den man använder när en spelare ges en initial rating i FIDE:s ratingsystem.  
+Detta är samma metod som FIDE använder när en spelare ges en initial rating eller ska få en GM-norm.
 
 ### Invändningar mot Schweizer
 
