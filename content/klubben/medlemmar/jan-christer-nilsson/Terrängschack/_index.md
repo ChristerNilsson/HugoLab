@@ -2,7 +2,8 @@
 title: Terrängschack
 ---
 
-Detta är ett försök att kombinera schack med terränglöpning och få schack att bli en bättre lagsport, som bygger på samarbete.
+Detta är ett försök att kombinera schack med terränglöpning och få schack att bli en bättre lagsport, som bygger på samarbete.  
+Man kan se det som en stafett där alla deltagare springer samtidigt och varje lag har mellan noll och åtta stafettpinnar.  
 
 Man skapar ett virtuellt schackbräde, t ex i skogen och där det gärna får finnas naturliga hinder i form av vattendrag, berg och sjöar.
 
@@ -10,8 +11,8 @@ Varje schackruta är 100 x 100 meter. Hela brädet blir då 800 x 800 meter.
 
 Spelarna startar appen och beger sig till brädets mittpunkt.  
 Då alla anlänt, startas partierna.  
-De fyra vitspelarna utför sina drag och svartspelarna ger sig iväg mot sina mål.  
-Då någon bestämt sig för ett drag, delas detta ut som två uppdrag (startruta och slutruta).  
+De fyra vitspelarna utför sina drag och man beger sig direkt till start- och slutrutorna. Därefter skickas dragen till det svarta laget.  
+Varje drag ger upphov till två uppdrag, startruta och slutruta.  
 Startruta och slutruta kommer att ligga i samma kvadranter för det första draget.  
 Spelarna kommer att tilldelas dessa uppdrag direkt om dessa är de närmaste, annars kommer de att bli aktiva mål längre fram.  
 När både startruta och slutruta besökts, skickas draget till motståndaren och det plingar till i hans mobil.  
@@ -24,10 +25,13 @@ Fyra partier pågår samtidigt, precis som i en vanlig lagmatch.
 Dock utförs inte dragen förrän start och slutruta besökts boots on the ground.  
 Varje drag delas upp i två uppdrag: startruta och slutruta.  
 Därefter fördelas de till en eller två kvadranter.  
-Spelare C kan t ex bestämma sig för ett drag, t ex löparen a1-h8, som sedan utförs av spelare A och D, kanske samtidigt.  
+Spelare C kan t ex bestämma sig för ett drag, t ex löparen c1-g5, som sedan utförs av spelare A och D, kanske samtidigt.  
 Om spelarna redan befinner sig på dessa rutor, genomförs draget omedelbart.  
 Då båda uppdragen utförts, skickas draget till motståndaren.  
 Spelarna lämnar inte sina kvadranter, utan står kvar och väntar på nya uppdrag.  
+Eventuellt kan de röra sig mot mitten av sin kvadrant, ungefär som en tennisspelare, för att snabbt kunna nå alla bollar (rutor).  
+Då kommer de att ha ett maximalt avstånd på 1.5 * 141 = 212 meter i stället för 3 * 141 = 424.  
+Detta gäller om rutorna är 100 x 100 meter.
 
 |•|a|b|c|d|e|f|g|h|
 |-|-|-|-|-|-|-|-|-|
@@ -40,19 +44,19 @@ Spelarna lämnar inte sina kvadranter, utan står kvar och väntar på nya uppdr
 |2|A|A|A|A|B|B|B|B|
 |1|A|A|A|A|B|B|B|B|
 
-I början av partiet, kan det tyckas som om spelare C och D inte får några uppdrag.  
+I början av partiet, kan det tyckas som om vissa spelare inte får några uppdrag.  
 Dock pågår fyra partier samtidigt, och dessa är roterade.  
 Detta innebär att uppdragen kommer att spridas ut på olika deltagare.  
 Eftersom det handlar om schack, vet man inte var striderna kommer att äga rum.  
-Vissa deltagare kommer att få fler uppdrag än andra.
+Vissa deltagare kommer att få fler uppdrag än andra, det är ofrånkomligt.  
 
 # Simulator
 
 [Prova simulatorn!](https://christernilsson.github.io/2025/007-Terrängschack)  
 
-Vid start samlas alla åtta deltagarna i brädets mittpunkt.  
+Vid start samlas alla åtta deltagarna vid brädets mittpunkt.  
 Eftersom alla står i samma punkt, syns bara en spelare.  
-Därefter sätter man igång ett eller flera partier genom att klicka A, B, C, och/eller D.  
+Därefter sätter man igång ett eller flera partier genom att klicka på A, B, C, och/eller D.  
 Tips: Börja med A. När du förstått hur det fungerar, titta på B. B är roterat. Först därefter A och B samtidigt.  
 Det blir ganska rörigt, pga att flera roterade partier pågår samtidigt.  
 I appen ser man bara ett oroterat parti. Uppdragen som dyker upp utför man utan att fundera närmare på dem.  
@@ -79,7 +83,7 @@ Ibland står de redan på start- eller stopprutan och då markeras uppdraget som
 Annars börjar de förflytta sig mot den ruta som är närmast, av alla uppdrag.  
 Dyker det upp ett nytt uppdrag, som är närmare än det pågående, byter man automatiskt till det.  
 Detta är en primitiv algoritm för att approximativt hitta en bra lösning.  
-Den perfekta lösningen kan vara svår att finna, man känner ju inte till framtida alla drag.
+Den perfekta lösningen går ej att finna, man känner ju inte till alla framtida drag.
 
 Det egna lagets deltagare är markerade med A-D, motståndarna E-H.  
 Den ruta man ska gå till är markerad med ett streck mellan den egna bokstaven och rutan.  
@@ -125,6 +129,9 @@ Vissa rutor kommer att hamna i vattnet, så det är lämpligt att ha ett vattent
 
 Fundering: Bör man rockera kort eller långt med denna topografi?
 
+Uppgiften att ta sig från ruta A till ruta B, blir en större utmaning om det finns naturliga hinder.  
+Ska man gå rakt på mål eller möjligen gå en omväg? Här har man hjälp av orienteringsvana.
+
 ### Appen
 
 Deltagarna behöver varsin mobil och varsin kompass.  
@@ -140,3 +147,8 @@ Då man anlänt till ett mål, markeras det som utfört automatiskt och man får
 Detta avstånd minskar förhoppningsvis, tills man hör enstaka meter i slutet.  
 
 Då man kommit inom två meter från målet anses uppdraget slutfört och man får ett nytt uppdrag automatiskt. Annars står man kvar och väntar.  
+
+### Varianter
+
+* Deltagarna använder rullator. Kräver mindre bana
+* Deltagarna använder cykel, häst eller kamel. Kräver större bana
