@@ -44,6 +44,8 @@ Detta gäller om rutorna är 100 x 100 meter.
 |2|A|A|A|A|B|B|B|B|
 |1|A|A|A|A|B|B|B|B|
 
+[Ansvarsfördelning](quadrants)
+
 I början av partiet, kan det tyckas som om vissa spelare inte får några uppdrag.  
 Dock pågår fyra partier samtidigt, och dessa är roterade.  
 Detta innebär att uppdragen kommer att spridas ut på olika deltagare.  
