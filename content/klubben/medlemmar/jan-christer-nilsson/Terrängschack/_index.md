@@ -4,21 +4,23 @@ title: Terrängschack
 
 ||||
 |-|-|-|
-|Svart: Christer Nilsson|1631|1:30:00|
+|Svart: Axel Ornstein|2149|1:30:00|
 |![](N.png)|||
-|Vit: Jouko Liistamo|1650|1:30:00|
+|Vit: Lars Karlsson|2403|1:30:00|
 
 |||
 |-:|:-|
 |Bäring:|60°|
-|Avstånd:|93m|
+|Avstånd:|93 meter|
+|Ruta:|g3|
+|Ålder:|1 minut|
 
 Terrängschack spelas av två lag med vardera fyra deltagare  
 
 Varje deltagare möter en annan deltagare  
 
 För att ett drag ska gälla, måste både startruta och slutruta besökas  
-* Deltagarna hjälper varandra med detta  
+* Deltagarna hjälper varandra med detta
 
 För att ett lag ska vinna behöver deltagarna  
 * springa snabbare än motståndarna  
