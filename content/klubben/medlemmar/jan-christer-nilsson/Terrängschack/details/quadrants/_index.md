@@ -1,3 +1,7 @@
+---
+title: Quadrants
+---
+
 A, B, C och D är i det första laget och de hjälper varandra med dragen.  
 E, F, G och H är i det andra laget och de hjälper varandra med dragen.  
 
