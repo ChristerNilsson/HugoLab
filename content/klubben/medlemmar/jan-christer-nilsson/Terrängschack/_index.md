@@ -28,7 +28,7 @@ För att ett lag ska vinna behöver deltagarna
 
 Storleken på en schackruta kan t ex vara etthundra meter  
  * Storleken på brädet blir då 400 meter  
- 
+
 Varje spelare ansvarar för en kvadrant av brädet, dvs sexton rutor  
  * abcd x 1234  
  * abcd x 5678  
