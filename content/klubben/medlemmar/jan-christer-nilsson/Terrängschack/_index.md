@@ -5,7 +5,7 @@ title: Terrängschack
 ||||
 |-|-|-|
 |Svart: Axel Ornstein|2149|1:30:00|
-|![](details/quadrants/8x8.png)|||
+|![](details/quadrants/8x8small.png)|||
 |Vit: Lars Karlsson|2403|1:30:00|
 
 |||
