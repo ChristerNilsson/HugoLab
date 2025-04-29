@@ -1,6 +1,8 @@
 ---
 title: Performance Rating för SrS 2025 VT
 ---
+
+[Matrix](matrix)
 ```
 M = Klass M
 A = Klass 1
