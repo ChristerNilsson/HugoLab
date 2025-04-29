@@ -2,7 +2,7 @@
 title: Performance Rating för SrS 2025 VT
 ---
 ```
-		  Klass M       |Klass 1        |Klass 2        |Klass 3
+          Klass M       |Klass 1        |Klass 2        |Klass 3
           8•7•6•5•4•3•2• 9•8•7•6•5•4•3•2 0•9•8•7•6•5•4•3 0•9•8•7•6•5•4•3•2
 Strö 2131 8             |               |               |
 Sili 2063  •            |               |               |
@@ -10,7 +10,7 @@ Kami 1964               |               |0              |
 West 1948    •          |               |               |
 Lehv 1937               |9              |               |
 Holm 1863               |               |               |0
-Zira 1836               |  9            |               |
+Zira 1836               |  8            |               |
 Nils 1803               |   •           |               |
 Pett 1798        •      |               |               |
 Ande 1797               |   •           |               |
