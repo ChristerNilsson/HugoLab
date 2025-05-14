@@ -9,16 +9,16 @@ Det här schackprotokollet har två egenskaper:
 	* Jämför med det vanliga 210 millimeter (A5 porträtt).
 
 2. Det är avsett att kompletteras med en analys i de lediga kolumnerna
-	* ••• Blunder
-	* •• Misstag
-	* • Onoggrannhet
+	* ••• Blunder (vänster cirkel)
+	* •• Misstag 
+	* • Onoggrannhet (höger cirkel)
 	* Bästa drag
 
 Vid utskrift rekommenderas dubbelsidigt och standardmarginaler.
 
 Om man har tillgång till en pappersskärare (eller är händig med saxen) kan man få ut två protokoll per A4.
 
-[pdf](Panorama.pdf)
+[pdf](Panorama_1_3.pdf)
 
 Qe2 är inte det bästa draget. 0-0 är bättre.  
 Qxa8 är en blunder. d4 är bättre.  
