@@ -12,7 +12,7 @@ Det är avsett att kompletteras med en analys i de lediga kolumnerna.
 Har man ingen stormästare till hands, får man nöja sig med t ex [Lichess](https://lichess.org/analysis).  
 I de tre cirklarna kan man skriva in antalet Blunders, Misstakes och Inaccuracies.  
 
-|&nbsp;|Category|loss in cp|Circle|
+|Analys|Category|loss in cp|Circle|
 |:-:|:-:|:-:|:-:|
 |*move* •••|Blunder|300-|Left|
 |*move* ••|Mistake|100-300|Middle|
@@ -32,3 +32,5 @@ Om man har tillgång till en pappersskärare (eller är händig med saxen) kan m
 `13. Bd1` är en Inaccuracy. `13. Re1` är bättre.  
 [HAL 9000](https://www.youtube.com/watch?v=kYW7fnK2Cmc) spelade utmärkt.  
 Det fanns dock tre drag som var suboptimala.  
+
+Här är [pythonkoden](https://github.com/ChristerNilsson/2025/blob/main/009-Schackprotokoll/main120.py) om du vill förbättra protokollet.
