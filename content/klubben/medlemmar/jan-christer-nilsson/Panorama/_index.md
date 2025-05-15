@@ -8,7 +8,9 @@ Det här schackprotokollet är bredare än Landskap, därav namnet Panorama.
 Det innebär att protokollet får bättre plats när schackbrädena är stora.  
 Höjden är 105 millimeter istf för det vanligare 210 mm (A5 porträtt).  
 
-Det är avsett att kompletteras med en analys i de lediga kolumnerna.
+Det är avsett att kompletteras med en analys i de lediga kolumnerna.  
+Har man ingen stormästare till hands, får man nöja sig med t ex [Lichess](https://lichess.org/analysis).  
+I de tre cirklarna kan man skriva in antalet Blunders, Misstakes och Inaccuracies.  
 
 |&nbsp;|Category|loss in cp|Circle|
 |:-:|:-:|:-:|:-:|
