@@ -9,10 +9,14 @@ Det här schackprotokollet har två egenskaper:
 	* Jämför med det vanliga 210 millimeter (A5 porträtt).
 
 2. Det är avsett att kompletteras med en analys i de lediga kolumnerna
-	* ••• Blunder (vänster cirkel)
-	* •• Misstag 
-	* • Onoggrannhet (höger cirkel)
-	* Bästa drag
+
+||Category|loss in cp|Circle|
+|:-:|:-:|:-:|:-:|
+|•••|Blunder|300-|Left|
+|••|Mistake|100-300|Middle|
+|•|Inaccuracy|50-100|Right|
+|best|Acceptable|20-50||
+||OK|0-20||
 
 Vid utskrift rekommenderas dubbelsidigt och standardmarginaler.
 
@@ -24,4 +28,4 @@ Qe2 är inte det bästa draget. 0-0 är bättre.
 Qxa8 är en blunder. d4 är bättre.  
 Notera: [HAL 9000](https://www.youtube.com/watch?v=kYW7fnK2Cmc) spelade nästan perfekt.  
 
-![](HAL9000.jpg)
+![](HAL9000.png)
