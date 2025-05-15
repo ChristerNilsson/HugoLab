@@ -22,7 +22,7 @@ Vid utskrift rekommenderas dubbelsidigt och standardmarginaler.
 
 Om man har tillgång till en pappersskärare (eller är händig med saxen) kan man få ut två protokoll per A4.
 
-![](HAL9000.png)
+<img src="HAL9000.png" width="50%"/>
 
 ### Kommentar till protokollet ovan
 `5. Qe2` är inte det bästa draget. `5. 0-0` är bäst.  
