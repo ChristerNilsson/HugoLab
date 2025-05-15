@@ -12,10 +12,10 @@ Det här schackprotokollet har två egenskaper:
 
 ||Category|loss in cp|Circle|
 |:-:|:-:|:-:|:-:|
-|•••|Blunder|300-|Left|
-|••|Mistake|100-300|Middle|
-|•|Inaccuracy|50-100|Right|
-|best|Acceptable|20-50||
+|move •••|Blunder|300-|Left|
+|move ••|Mistake|100-300|Middle|
+|move •|Inaccuracy|50-100|Right|
+|move|Acceptable|20-50||
 ||OK|0-20||
 
 Vid utskrift rekommenderas dubbelsidigt och standardmarginaler.
