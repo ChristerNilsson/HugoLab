@@ -10,7 +10,7 @@ Det här schackprotokollet har två egenskaper:
 
 2. Det är avsett att kompletteras med en analys i de lediga kolumnerna
 
-| |Category|loss in cp|Circle|
+|&nbsp;|Category|loss in cp|Circle|
 |:-:|:-:|:-:|:-:|
 |*move* •••|Blunder|300-|Left|
 |*move* ••|Mistake|100-300|Middle|
