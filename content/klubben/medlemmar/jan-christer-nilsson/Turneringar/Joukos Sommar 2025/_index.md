@@ -3,7 +3,7 @@ title: Joukos Sommar 2025
 auto: false
 ---
 
-[Bergertabell](https://christernilsson.github.io/2025/013-Berger/?title=Joukos%20Sommar%202025%20&p1=1698%20Onni%20Aikio%20&p2=1558%20Helge%20Bergstr%C3%B6m%20&p3=1549%20Jonas%20H%C3%B6k%20&p4=1679%20Lars%20Johansson%20&p5=0000%20Per%20Eriksson%20&p6=1653%20Christer%20Nilsson%20&p7=1673%20Per%20Hamnstr%C3%B6m%20&p8=1504%20Thomas%20Paulin%20&p9=1706%20Abbas%20Razavi%20&p10=1579%20Jouko%20Liistamo%20&r1=101x1%20&r2=0r010%20&r3=10011%20&r4=10001%20&r5=01111%20&r7=xx1xx)
+[Bergertabell](https://christernilsson.github.io/2025/013-Berger/?title=Joukos%20Sommar%202025&MAX=2&p1=1698%20Onni%20Aikio&p2=1558%20Helge%20Bergstr%C3%B6m&p3=1549%20Jonas%20H%C3%B6k&p4=1679%20Lars%20Johansson&p5=0000%20Per%20Eriksson&p6=1653%20Christer%20Nilsson&p7=1673%20Per%20Hamnstr%C3%B6m&p8=1504%20Thomas%20Paulin&p9=1706%20Abbas%20Razavi&p10=1579%20Jouko%20Liistamo&r1=202x2&r2=01020&r3=20022&r4=20002&r5=02222&r7=xx2xx)
 
 [2025-04-21 HAMNSTRÖM Per vs NILSSON Christer](https://christernilsson.github.io/2025/012-ChessViewer/index.html?Date=2025-04-21_Result:0-1&White=1699_Per_Hamnström&Black=1631_Christer_Nilsson&Link=https://lichess.org/study/GFuwxt03/0YIOMnBG&Seek=TIME:1_MPV:5&moves=e4_e5_f4_Nc6_Nf3_d6_Bc4_Bg4_c3_Nf6_h3_Bxf3_Qxf3_a6_O-O_Be7_d3_Na5_Bb3_Nxb3_axb3_c6_fxe5_dxe5_Be3_Qxd3_Nd2_Qc2_g4_O-O_g5_Nd7_Qf5_Rad8_Nc4_Qxb3_Nxe5_Nxe5_Qxe5_Bd6_Qf5_Qxb2_Bd4_Qh2%23&losses=13_1_76_48_7_18_20_10_42_52_22_40_2_38_9_13_40_15_6_8_6_1_0_3_136_8_6_55_98_53_9_13_145_8_108_9_94_8_2_4_24_5_300_0&bests=Nf3_e5_Nf3_exf4_Nf3_exf4_Nc3_Bg4_Bb5_exf4_O-O_Be6_Qxf3_Qe7_O-O_Qd7_Bb3_exf4_Na3_Nxb3_axb3_Nd7_Na3_dxe5_Na3_Qxd3_Ra5_O-O_Ra5_h6_g5_Nd7_Qd1_Rad8_Rfc1_Qxb3_Na5_Nxe5_Qxe5_Bd6_Qa5_Qxb2_Bf2_Qh2%23
 )  
