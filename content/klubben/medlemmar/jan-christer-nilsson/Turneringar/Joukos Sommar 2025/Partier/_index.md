@@ -1,5 +1,5 @@
 ---
-title: Joukos Sommar 2025
+title: Partier
 auto: false
 ---
 

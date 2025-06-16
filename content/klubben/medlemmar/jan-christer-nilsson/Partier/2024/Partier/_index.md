@@ -1,5 +1,5 @@
 ---
-title: 2024
+title: Partier
 auto: false
 ---
 
