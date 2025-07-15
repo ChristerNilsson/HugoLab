@@ -44,9 +44,9 @@ Om man vill spela dubbelrondigt, sänk till 45+15.
 
 Då alla spelar semi-simultant, kan det vara praktiskt att markera senaste draget med en gummiring.  
 typ 55 x 6 mm, vit, Biltema. Då slipper man fråga vilket drag motståndaren gjort.
-* Då man utfört draget e4, läggs ringen på e4. 
-* Efter d5 läggs ringen på d5. 
-* Efter e4xd5 behöver ringen ej flyttas.
+* Då man utfört draget e4, läggs ringen på e4
+* Efter d5 läggs ringen på d5
+* Efter e4xd5 behöver ringen ej flyttas
 
 Varje trekant behöver
 * tre spelare
@@ -54,5 +54,5 @@ Varje trekant behöver
 * tre klockor
 * tre ringar
 * tre stolar
-* ett runt bord, diameter cirka 120 cm
+* ett runt eller sexkantigt bord, diameter cirka 120 cm
 
