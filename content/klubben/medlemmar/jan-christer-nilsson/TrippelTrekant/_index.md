@@ -42,7 +42,7 @@ T ex spelar spelarna 1, 2 och 3 på bord A i första ronden
 Lämpligen ställer man de tre klockorna på 90+30.
 Om man vill spela dubbelrondigt, sänk till 45+15. 
 
-Då man spelar simultan, kan det vara praktiskt att markera senaste draget med en gummiring.  
+Då alla spelar semi-simultant, kan det vara praktiskt att markera senaste draget med en gummiring.  
 typ 55 x 6 mm, vit, Biltema. Då slipper man fråga vilket drag motståndaren gjort.
 * Då man utfört draget e4, läggs ringen på e4. 
 * Efter d5 läggs ringen på d5. 
