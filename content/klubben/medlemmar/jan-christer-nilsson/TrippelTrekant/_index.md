@@ -12,7 +12,7 @@ T ex har Abbas vit mot Christer och svart mot Beata. Samtidigt spelar Beata svar
 
 Gärna dubbelrond. Dubbelrond åstadkommes genom att två godtyckliga spelare byter plats.
 
-Trevligast är att spela vid ett [runt](https://www.chilli.se/utem%C3%B6bler/utebord/matbord-utomhus/matbord-alex-140-cm-runt-svart-p1697690) eller hexagonalt bord, cirka 1.3 m i diameter.  
+Trevligast är att spela vid ett [runt](https://www.chilli.se/utem%C3%B6bler/utebord/matbord-utomhus/matbord-alex-140-cm-runt-svart-p1697690) eller [hexagonalt](https://www.sono.se/skola-och-forskola/bord/skolbankar/trapetsbord-combi-195-1200-600x520-mm-hojd-720-mm-med-bjorklaminat-silver-stativ-410178.html) bord, cirka 1.3 m i diameter.  
 [Klockorna](https://www.chess.com/news/view/chess-clock-app-update) placeras i mitten.
 
 Man spelar fyra ronder och möter då alla spelare en gång.
