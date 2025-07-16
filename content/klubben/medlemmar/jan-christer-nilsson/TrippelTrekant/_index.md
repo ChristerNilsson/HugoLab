@@ -8,7 +8,7 @@ Antalet spelare ska vara exakt nio.
 
 En trekant består av tre spelare med tre bräden som spelar tre partier samtidigt.
 
-T ex har Abbas vit mot Christer och svart mot Beata. Samtidigt spelar Beata svart mot Christer.
+T ex har Abbas vit mot Christer och svart mot Jouko. Samtidigt spelar Jouko svart mot Christer.
 
 Gärna dubbelrond. Dubbelrond åstadkommes genom att två godtyckliga spelare byter plats.
 
@@ -55,5 +55,5 @@ Varje trekant behöver
 
 [RIO 2025. Christer Nilsson möter Abbas Razavi](trekant.JPG)
 
-_En klocka saknas eftersom den mobilen tog bilden.
+_En klocka saknas eftersom den mobilen tog bilden.  
 Christer idlar, vilket man kan se på de vita ringarna, men även på klockorna._
