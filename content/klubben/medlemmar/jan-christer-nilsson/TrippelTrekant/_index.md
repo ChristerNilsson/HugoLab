@@ -2,11 +2,6 @@
 title: Trippel Trekant
 ---
 
-![](trekant.JPG)
-
-RIO 2025. Christer Nilsson möter Abbas Razavi. Tredje spelaren har fått ett telefonsamtal.
-Christer idlar, vilket man kan se på de vita ringarna, men även på klockorna.
-
 Denna turneringsvariant bygger på tre trekanter, benämnda A, B och C.
 
 Antalet spelare ska vara exakt nio.
@@ -15,9 +10,10 @@ En trekant består av tre spelare med tre bräden som spelar tre partier samtidi
 
 T ex har Abbas vit mot Christer och svart mot Beata. Samtidigt spelar Beata svart mot Christer.
 
-Helst dubbelrond. Dubbelrond åstadkommes genom att två spelare byter plats.
+Gärna dubbelrond. Dubbelrond åstadkommes genom att två godtyckliga spelare byter plats.
 
-Trevligast är att spela vid ett runt bord, cirka 120 cm i diameter. Klockorna placeras i mitten.
+Trevligast är att spela vid ett runt eller hexagonalt bord, cirka 1.2 - 1.3 m i diameter.  
+[Klockorna](https://www.chess.com/news/view/chess-clock-app-update) placeras i mitten.
 
 Man spelar fyra ronder och möter då alla spelare en gång.
 
@@ -42,8 +38,9 @@ T ex spelar spelarna 1, 2 och 3 på bord A i första ronden
 Lämpligen ställer man de tre klockorna på 90+30.
 Om man vill spela dubbelrondigt, sänk till 45+15. 
 
-Då alla spelar semi-simultant, kan det vara praktiskt att markera senaste draget med en gummiring.  
-typ 55 x 6 mm, vit, Biltema. Då slipper man fråga vilket drag motståndaren gjort.
+Alla spelar två partier samtidigt.  
+Det kan vara praktiskt att markera senaste draget med en [gummiring](https://www.biltema.se/bat/dacksutrustning/kapelltillbehor/gummiring-till-kapell-2-st-2000033181) eller [rostfri ring](https://www.biltema.se/bat/dacksutrustning/batbeslag/oglebultar/ring-rostfri-60-mm-2-pack-2000060496)
+Då slipper man fråga vilket drag motståndaren gjort.
 * Då man utfört draget e4, läggs ringen på e4
 * Efter d5 läggs ringen på d5
 * Efter e4xd5 behöver ringen ej flyttas
@@ -56,3 +53,7 @@ Varje trekant behöver
 * tre stolar
 * ett runt eller sexkantigt bord, diameter cirka 120 cm
 
+[RIO 2025. Christer Nilsson möter Abbas Razavi](trekant.JPG)
+
+_En klocka saknas eftersom den mobilen tog bilden.
+Christer idlar, vilket man kan se på de vita ringarna, men även på klockorna._
