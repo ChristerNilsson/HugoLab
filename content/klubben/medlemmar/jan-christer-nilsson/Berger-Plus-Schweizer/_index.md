@@ -23,8 +23,8 @@ Jämnt antal ronder bör undvikas, då det leder till frironder
 
 ### 2025 SM i Schack (sju ronder)
 
-Sedan 2010 använder sig SM av Bergergrupper plus en sista Schweizergrupp som buffert.
-[Klass III:9](https://schack.se/wp-content/uploads/arkiv/tavlingar/sm/resultatbok/resultatbok_2010_LUND.pdf)
+Sedan 2010 använder sig SM av Bergergrupper plus en sista Schweizergrupp som buffert.  
+[Klass III:9](https://schack.se/wp-content/uploads/arkiv/tavlingar/sm/resultatbok/resultatbok_2010_LUND.pdf)  
 
 * [Klass I 2024 (8 + 8 + 8 + 12)](https://schack.se/tavlingar/resultat/sm-2024/klass-i/)
 * [Klass II 2025 (8 + 8 + 8 + 8 + 14)](https://schack.se/tavlingar/resultat/sm-2025/klass-ii/)
