@@ -21,6 +21,16 @@ Jämnt antal ronder bör undvikas, då det leder till frironder
 * Samma schema i alla grupper
 * Frironder behövs bara i Schweizergruppen (vid udda antal spelare)
 
+### 2025 SM i Schack (sju ronder)
+
+Sedan 2010 använder sig SM av Bergergrupper plus en sista Schweizergrupp som buffert.
+[Klass III:9](https://schack.se/wp-content/uploads/arkiv/tavlingar/sm/resultatbok/resultatbok_2010_LUND.pdf)
+
+* [Klass I 2024 (8 + 8 + 8 + 12)](https://schack.se/tavlingar/resultat/sm-2024/klass-i/)
+* [Klass II 2025 (8 + 8 + 8 + 8 + 14)](https://schack.se/tavlingar/resultat/sm-2025/klass-ii/)
+* [Klass III 2025 (8 + 8 + 8 + 7 sic!)](https://schack.se/tavlingar/resultat/sm-2025/klass-iii/)
+* [Klass IV 2025 (8 + 8 + 10)](https://schack.se/tavlingar/resultat/sm-2025/klass-iv/)
+
 ### 2024 Sällskapet (nio ronder)
 
 Sällskapet har med framgång kombinerat Berger-grupper med en Schweizer i botten sedan 2015.  
@@ -39,11 +49,3 @@ Kanske detta även kan fungera i Seniorschack Stockholm?
 [E Berger](https://chess-results.com/tnr997901.aspx?lan=1&art=4)  
 [F Schweizer](https://chess-results.com/tnr997911.aspx?lan=1&art=4)  
 
-### 2025 SM i Schack (sju ronder)
-
-Även SM använder sig av Bergergrupper plus en sista Schweizergrupp som buffert.
-
-* [Klass I 2024 (8 + 8 + 8 + 12)](https://schack.se/tavlingar/resultat/sm-2024/klass-i/)
-* [Klass II 2025 (8 + 8 + 8 + 8 + 14)](https://schack.se/tavlingar/resultat/sm-2025/klass-ii/)
-* [Klass III 2025 (8 + 8 + 8 + 7 sic!)](https://schack.se/tavlingar/resultat/sm-2025/klass-iii/)
-* [Klass IV 2025 (8 + 8 + 10)](https://schack.se/tavlingar/resultat/sm-2025/klass-iv/)
