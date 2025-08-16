@@ -2,6 +2,27 @@
 title: Berger Plus Schweizer
 ---
 
+När man arrangerar t ex ett KM är det uppskattat att spelarna möts i Bergergrupper.  
+Om arrangören vill spela t ex sju ronder, bildar man ett antal Bergergrupper med åtta deltagare.  
+Blir den sista gruppen mindre än åtta, slås den ihop med föregående grupp.  
+Schweizergruppen blir då maximalt 15 spelare.  
+
+# Exempel 
+
+* 7 ronder => 8 deltagare per Bergergrupp. 9 till 15 spelare i Schweizergruppen
+* 9 ronder => 10 deltagare. 11 till 19 spelare i Schweizergruppen
+* 11 ronder => 12 deltagare. 13 till 23 spelare i Schweizergruppen
+
+Jämnt antal ronder bör undvikas, då det leder till frironder  
+
+Fördelar:
+* Spelarna får möta spelare med liknande rating
+* Samma antal ronder i alla grupper
+* Samma schema i alla grupper
+* Frironder behövs bara i Schweizergruppen (vid udda antal spelare)
+
+### 2024 Sällskapet (nio ronder)
+
 Sällskapet har med framgång kombinerat Berger-grupper med en Schweizer i botten sedan 2015.  
 Kanske detta även kan fungera i Seniorschack Stockholm?  
 
@@ -10,7 +31,6 @@ Referenser:
 * Eric Thörn
 * Lars Dock
 
-### 2024 nio ronder
 10 + 10 + 10 + 10 + 10 + 17 = 67 deltagare  
 [A Berger](https://chess-results.com/tnr997893.aspx?lan=1&art=4)  
 [B Berger](https://chess-results.com/tnr997894.aspx?lan=1&art=4)  
@@ -19,14 +39,11 @@ Referenser:
 [E Berger](https://chess-results.com/tnr997901.aspx?lan=1&art=4)  
 [F Schweizer](https://chess-results.com/tnr997911.aspx?lan=1&art=4)  
 
-[Livesändning från A-gruppen](https://lichess.org/broadcast/sallskapets-hostturnering-2024/rond-1/eWJ5FUmP)
-[Hemsidan](https://www.schacksallskapet.se/hostturneringen-ar-igang/)
-[Chess-Results](https://chess-results.com/tnr997893.aspx?lan=6)
+### 2025 SM i Schack (sju ronder)
 
-### 2015 elva ronder
-12 + 12 + 12 + 12 + 20 = 60 deltagare  
-[A Berger](https://archive.chess-results.com/tnr186506.aspx?lan=1&art=4)  
-[B Berger](https://archive.chess-results.com/tnr186508.aspx?lan=1&art=4)  
-[C Berger](https://archive.chess-results.com/tnr186511.aspx?lan=1&art=4)  
-[D Berger](https://archive.chess-results.com/tnr186515.aspx?lan=1&art=4)  
-[E Schweizer](https://archive.chess-results.com/tnr186516.aspx?lan=1&art=4)  
+Även SM använder sig av Bergergrupper plus en sista Schweizergrupp som buffert.
+
+* [Klass I 2024 (8 + 8 + 8 + 12)](https://schack.se/tavlingar/resultat/sm-2024/klass-i/)
+* [Klass II 2025 (8 + 8 + 8 + 8 + 14)](https://schack.se/tavlingar/resultat/sm-2025/klass-ii/)
+* [Klass III 2025 (8 + 8 + 8 + 7 sic!)](https://schack.se/tavlingar/resultat/sm-2025/klass-iii/)
+* [Klass IV 2025 (8 + 8 + 10)](https://schack.se/tavlingar/resultat/sm-2025/klass-iv/)
