@@ -4,6 +4,7 @@ title: Berger Plus Schweizer
 
 När man arrangerar t ex ett KM är det uppskattat att spelarna möts i Bergergrupper.  
 Om arrangören vill spela t ex sju ronder, bildar man ett antal Bergergrupper med åtta deltagare.  
+Om antalet spelare är udda, lägg till en frirondsspelare.  
 Blir den sista gruppen mindre än åtta, slås den ihop med föregående grupp.  
 Schweizergruppen blir då maximalt 15 spelare.  
 
