@@ -29,7 +29,7 @@ Sedan 2010 använder sig SM av Bergergrupper plus en sista Schweizergrupp som bu
 
 * [Klass I 2024 (8 + 8 + 8 + 12)](https://schack.se/tavlingar/resultat/sm-2024/klass-i/)
 * [Klass II 2025 (8 + 8 + 8 + 8 + 14)](https://schack.se/tavlingar/resultat/sm-2025/klass-ii/)
-* [Klass III 2025 (8 + 8 + 8 + 7 sic!)](https://schack.se/tavlingar/resultat/sm-2025/klass-iii/)
+* [Klass III 2025 (8 + 8 + 8 + 7)](https://schack.se/tavlingar/resultat/sm-2025/klass-iii/)
 * [Klass IV 2025 (8 + 8 + 10)](https://schack.se/tavlingar/resultat/sm-2025/klass-iv/)
 
 ### 2024 Sällskapet (nio ronder)
