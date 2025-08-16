@@ -7,7 +7,7 @@ Om arrangören vill spela t ex sju ronder, bildar man ett antal Bergergrupper me
 Blir den sista gruppen mindre än åtta, slås den ihop med föregående grupp.  
 Schweizergruppen blir då maximalt 15 spelare.  
 
-# Exempel 
+#### Exempel 
 
 * 7 ronder => 8 deltagare per Bergergrupp. 9 till 15 spelare i Schweizergruppen
 * 9 ronder => 10 deltagare. 11 till 19 spelare i Schweizergruppen
@@ -15,7 +15,7 @@ Schweizergruppen blir då maximalt 15 spelare.
 
 Jämnt antal ronder bör undvikas, då det leder till frironder  
 
-Fördelar:
+#### Fördelar
 * Spelarna får möta spelare med liknande rating
 * Samma antal ronder i alla grupper
 * Samma schema i alla grupper
@@ -26,7 +26,7 @@ Fördelar:
 Sällskapet har med framgång kombinerat Berger-grupper med en Schweizer i botten sedan 2015.  
 Kanske detta även kan fungera i Seniorschack Stockholm?  
 
-Referenser:
+#### Referenser
 * Christian Hammerman
 * Eric Thörn
 * Lars Dock
