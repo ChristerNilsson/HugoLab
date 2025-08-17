@@ -44,10 +44,7 @@ Sedan 2010 använder sig SM av Bergergrupper plus en sista Schweizergrupp som bu
 Sällskapet har med framgång kombinerat Berger-grupper med en Schweizer i botten sedan 2015.  
 Kanske detta även kan fungera i Seniorschack Stockholm?  
 
-#### Referenser
-* Christian Hammerman
-* Eric Thörn
-* Lars Dock
+Referenser: Christian Hammerman, Eric Thörn, Lars Dock  
 
 10 + 10 + 10 + 10 + 10 + 17 = 67 deltagare  
 [A Berger](https://chess-results.com/tnr997893.aspx?lan=1&art=4)  
