@@ -3,7 +3,11 @@ title: Berger Plus Schweizer
 ---
 
 När man arrangerar t ex ett KM är det uppskattat att spelarna möts i Bergergrupper.  
-Om arrangören vill spela t ex sju ronder, bildar man ett antal Bergergrupper med åtta deltagare.  
+I princip sorteras spelarna enligt rating. Dock sker vissa justeringar för vinnarna och jumbos föregående termin.  
+Vinnarna går upp en grupp och jumbos går ner en grupp. I grova slängar.  
+
+Om arrangören vill att sju ronder ska spelas, bildar man ett antal Bergergrupper med åtta deltagare.  
+De åtta bästa i första gruppen och så vidare.
 Om antalet spelare är udda, lägg till en frirondsspelare.  
 Blir den sista gruppen mindre än åtta, slås den ihop med föregående grupp.  
 Schweizergruppen blir då maximalt 15 spelare.  
@@ -17,6 +21,7 @@ Schweizergruppen blir då maximalt 15 spelare.
 Jämnt antal ronder bör undvikas, då det leder till frironder  
 
 #### Fördelar
+
 * Spelarna får möta spelare med liknande rating
 * Samma antal ronder i alla grupper
 * Samma schema i alla grupper
@@ -30,6 +35,8 @@ Sedan 2010 använder sig SM av Bergergrupper plus en sista Schweizergrupp som bu
 * [Klass I 2024 (8 + 8 + 8 + 12)](https://schack.se/tavlingar/resultat/sm-2024/klass-i/)
 * [Klass II 2025 (8 + 8 + 8 + 8 + 14)](https://schack.se/tavlingar/resultat/sm-2025/klass-ii/)
 * [Klass III 2025 (8 + 8 + 8 + 7)](https://schack.se/tavlingar/resultat/sm-2025/klass-iii/)
+	* 7 spelare är ok. Det blir en grupp med 7 spelare plus en frirond.
+	* Två Bergergrupper är att föredra framför en Schweizer.
 * [Klass IV 2025 (8 + 8 + 10)](https://schack.se/tavlingar/resultat/sm-2025/klass-iv/)
 
 ### 2024 Sällskapet (nio ronder)
