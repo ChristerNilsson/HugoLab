@@ -11,29 +11,54 @@ auto: false
 2025 HT
 
 2025 VT
-[M](https://member.schack.se/ShowTournamentServlet?id=15529)
-[1](https://member.schack.se/ShowTournamentServlet?id=15530)
-[2](https://member.schack.se/ShowTournamentServlet?id=15531)
-[3](https://member.schack.se/ShowTournamentServlet?id=15532)
+[M](https://member.schack.se/ShowTournamentServlet?id=15529&listingtype=2)
+[1](https://member.schack.se/ShowTournamentServlet?id=15530&listingtype=2)
+[2](https://member.schack.se/ShowTournamentServlet?id=15531&listingtype=2)
+[3](https://member.schack.se/ShowTournamentServlet?id=15532&listingtype=2)
 [KM](https://s1.chess-results.com/tnrWZ.aspx?lan=6&art=4&SNode=S0&tno=1091485)
 
 2024 HT
-[M](https://member.schack.se/ShowTournamentServlet?id=14507)
-[1](https://member.schack.se/ShowTournamentServlet?id=14508)
-[2](https://member.schack.se/ShowTournamentServlet?id=14509)
-[3](https://member.schack.se/ShowTournamentServlet?id=14510)
+[M](https://member.schack.se/ShowTournamentServlet?id=14507&listingtype=2)
+[1](https://member.schack.se/ShowTournamentServlet?id=14508&listingtype=2)
+[2](https://member.schack.se/ShowTournamentServlet?id=14509&listingtype=2)
+[3](https://member.schack.se/ShowTournamentServlet?id=14510&listingtype=2)
+[4](https://member.schack.se/ShowTournamentServlet?id=14512&listingtype=2)
 [60+](https://s3.chess-results.com/tnrWZ.aspx?lan=1&art=4&SNode=S0&tno=990477)
 
 2024 VT
-[1](https://member.schack.se/ShowTournamentServlet?id=13627)
-[2](https://member.schack.se/ShowTournamentServlet?id=13628)
-[3](https://member.schack.se/ShowTournamentServlet?id=13631)
-[4](https://member.schack.se/ShowTournamentServlet?id=13633)
+[1](https://member.schack.se/ShowTournamentServlet?id=13627&listingtype=2)
+[2](https://member.schack.se/ShowTournamentServlet?id=13628&listingtype=2)
+[3](https://member.schack.se/ShowTournamentServlet?id=13631&listingtype=2)
+[4](https://member.schack.se/ShowTournamentServlet?id=13633&listingtype=2)
 [KM](https://s3.chess-results.com/tnrWZ.aspx?lan=1&art=4&SNode=S0&tno=875945)
 
 2023 HT 
+[1](https://member.schack.se/ShowTournamentServlet?id=12510&listingtype=2)
+[2](https://member.schack.se/ShowTournamentServlet?id=12511&listingtype=2)
+[3](https://member.schack.se/ShowTournamentServlet?id=12514&listingtype=2)
 [60+](https://s3.chess-results.com/tnrWZ.aspx?lan=1&art=4&SNode=S0&tno=803845)
 
 2023 VT 
+[1](https://member.schack.se/ShowTournamentServlet?id=11301&listingtype=2)
+[2](https://member.schack.se/ShowTournamentServlet?id=11302&listingtype=2)
+[3](https://member.schack.se/ShowTournamentServlet?id=11305&listingtype=2)
+[4](https://member.schack.se/ShowTournamentServlet?id=11304&listingtype=2)
 [KM](https://s3.chess-results.com/tnrWZ.aspx?lan=1&art=4&SNode=S0&tno=716691)
 
+2022 HT
+[1](https://member.schack.se/ShowTournamentServlet?id=10533&listingtype=2)
+[2](https://member.schack.se/ShowTournamentServlet?id=10536&listingtype=2)
+[3](https://member.schack.se/ShowTournamentServlet?id=10538&listingtype=2)
+[4](https://member.schack.se/ShowTournamentServlet?id=10539&listingtype=2)
+
+2022 VT
+[1](https://member.schack.se/ShowTournamentServlet?id=9926&listingtype=2)
+[2](https://member.schack.se/ShowTournamentServlet?id=9927&listingtype=2)
+[3](https://member.schack.se/ShowTournamentServlet?id=9928&listingtype=2)
+[4](https://member.schack.se/ShowTournamentServlet?id=9929&listingtype=2)
+
+2021 HT
+[1](https://member.schack.se/ShowTournamentServlet?id=9180&listingtype=2)
+[2](https://member.schack.se/ShowTournamentServlet?id=9181&listingtype=2)
+[3](https://member.schack.se/ShowTournamentServlet?id=9182&listingtype=2)
+[4](https://member.schack.se/ShowTournamentServlet?id=9183&listingtype=2)
