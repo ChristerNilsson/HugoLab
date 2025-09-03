@@ -27,6 +27,27 @@ APR 23 Uppskjutna partier för klass 2 och 3
 APR 30 Rond 13 (sista) för klass 2 och 3
 ```
 
+Alternativt schema
+```
+       M1  23
+JAN 15  1   1
+JAN 21  2   2
+JAN 28 
+FEB 04  3   3
+FEB 11  4   4
+FEB 18  5   5
+FEB 26      6
+MAR 05  6   7 
+MAR 12  7   8 
+MAR 19  8   9 
+MAR 26 
+APR 02  9  10
+APR 09 10  11
+APR 16     12
+APR 23 11
+APR 30     13
+```
+
 ## SENIORSERIEN 2025 HT
 
 Så här enkelt blir det när alla grupper har lika många ronder:
