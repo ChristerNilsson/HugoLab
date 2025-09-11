@@ -57,3 +57,17 @@ Varje trekant behöver
 
 _En klocka saknas eftersom den mobilen tog bilden.  
 Christer idlar, vilket man kan se på de vita ringarna, men även på klockorna._
+
+# Andra spelarantal
+```
+ n ronder
+ 3 1
+ 6   går ej
+ 9 4
+12   går ej
+15 7
+18   går ej
+21 10 
+24   går ej
+osv
+```
