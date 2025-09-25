@@ -4,6 +4,7 @@
 		<th>Individ</th>
 		<th>Dag</th>
 		<th>Typ</th>
+		<th>Kontakter</th>
 	  </tr>
 	</thead>
 	<tbody>
@@ -18,6 +19,14 @@
 			</td>
 			<td>{{ .dag }}</td>
 			<td>{{ .typ }}</td>
+			<td>
+				{{ if .kontakter }}
+					<a href="{{ .kontakter }}">Kontakter</a>
+				{{ else}}
+					Kontakter
+				{{ end }}
+			</td>
+
 		</tr>
 	{{ end }}
 	</tbody>

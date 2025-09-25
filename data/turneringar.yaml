@@ -3,26 +3,31 @@ rows:
     länk: https://member.schack.se/ShowTournamentServlet?id=16853
     dag: ons
     typ: Berger
+    kontakter: https://www.seniorschackstockholm.se/htmfiler/Kontaktlista_for_Klass_M.pdf
 
   - turnering: Klass 1
     länk: https://member.schack.se/ShowTournamentServlet?id=16854
     dag: ons
     typ: Berger
+    kontakter: https://www.seniorschackstockholm.se/htmfiler/Kontaktlista_for_Klass_1.pdf
 
   - turnering: Klass 2
     länk: https://member.schack.se/ShowTournamentServlet?id=16855
     dag: ons
     typ: Berger
+    kontakter: https://www.seniorschackstockholm.se/htmfiler/Kontaktlista_for_Klass_2.pdf
 
   - turnering: Klass 3
     länk: https://member.schack.se/ShowTournamentServlet?id=16856
     dag: ons
     typ: Berger
+    kontakter: https://www.seniorschackstockholm.se/htmfiler/Kontaktlista_for_Klass_3.pdf
 
   - turnering: Klass 4
     länk: https://member.schack.se/ShowTournamentServlet?id=16857
     dag: ons
     typ: Berger
+    kontakter: https://www.seniorschackstockholm.se/htmfiler/Kontaktlista_for_Klass_4.pdf
 
   - turnering: Veteran
     länk: https://s2.chess-results.com/Tnr1247798.aspx?lan=1&SNode=S0
