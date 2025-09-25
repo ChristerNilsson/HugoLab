@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Spara nuvarande katalog
 A=$(pwd)
 
