@@ -12,7 +12,7 @@ title: Lovable
 
 ---
 
-*Detta är en reproduktion av Björn Löwgrens [implementation](https://chess-connect-pro.lovable.app/) i Lovable som skapar [19.000 rader javascriptkod](lovable.js) med ai. (Sök med ctrl-F på Senior)*
+*Detta är en reproduktion (med 70 rader markdown) av Björn Löwgrens [implementation](https://chess-connect-pro.lovable.app/) i Lovable som skapar [19.000 rader javascriptkod](lovable.js) med ai. (Sök med ctrl-F på Senior)*
 
 * *Inte lika snygg, men mycket enklare att underhålla!*
 * *Kostar noll kronor. Zero, Zilch, Nada, Meijo, Gar Nichts. Rien*
