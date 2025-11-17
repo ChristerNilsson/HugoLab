@@ -8,12 +8,12 @@ Välkommen till Sveriges mest aktiva schackklubb för seniorer
 👯 200+ medlemmar  
 🏆 Flera turneringsklasser  
 
-* [Aktuella Turneringar](aktuella-turneringar)
-* [Medlemskap](medlemskap)
 * [Nyheter & Aktuellt](nyheter-och-aktuellt)
-* [Om Klubben](om-klubben)
+* [Aktuella Turneringar](aktuella-turneringar)
 * [Spelkalender](spelkalender)
 * [Rating](https://christernilsson.github.io/HugoLabServer/rating/)
+* [Medlemskap](medlemskap)
+* [Om Klubben](om-klubben)
   
 <br>
 
