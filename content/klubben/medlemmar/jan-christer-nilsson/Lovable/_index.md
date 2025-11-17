@@ -13,6 +13,7 @@ Välkommen till Sveriges mest aktiva schackklubb för seniorer
 * [Nyheter & Aktuellt](nyheter-och-aktuellt)
 * [Om Klubben](om-klubben)
 * [Spelkalender](spelkalender)
+* [Rating](https://christernilsson.github.io/HugoLabServer/rating/)
   
 <br>
 
