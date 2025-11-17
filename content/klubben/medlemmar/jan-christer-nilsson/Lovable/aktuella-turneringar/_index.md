@@ -11,5 +11,8 @@ title: Aktuella Turneringar
 * [Klass 2](https://member.schack.se/ShowTournamentServlet?id=16855&listingtype=2)
 * [Klass 3](https://member.schack.se/ShowTournamentServlet?id=16856&listingtype=2)
 * [Klass 4](https://member.schack.se/ShowTournamentServlet?id=16857&listingtype=2)
+* [Stockholms Mästerskap Veteraner 60+](https://s2.chess-results.com/tnr1247798.aspx?lan=6)
+
+---
 
 [Source](https://raw.githubusercontent.com/ChristerNilsson/HugoLab/refs/heads/master/content/klubben/medlemmar/jan-christer-nilsson/Lovable/aktuella-turneringar/_index.md)
