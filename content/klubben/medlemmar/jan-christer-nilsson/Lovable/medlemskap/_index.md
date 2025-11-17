@@ -18,4 +18,6 @@ title: Medlemskap
 Avgiften betalas till klubbens bankgiro: 111-1038  
 För schack-kurs deltagare anordnad i samarbete med PRO är årsavgiften också 440 kr  
 
+---
+
 [Source](https://raw.githubusercontent.com/ChristerNilsson/HugoLab/refs/heads/master/content/klubben/medlemmar/jan-christer-nilsson/Lovable/medlemskap/_index.md)

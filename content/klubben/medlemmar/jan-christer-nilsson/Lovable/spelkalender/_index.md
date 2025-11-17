@@ -36,4 +36,6 @@ title: Spelkalender
 
 *Serietävling för mästarklassen*
 
+---
+
 [Source](https://raw.githubusercontent.com/ChristerNilsson/HugoLab/refs/heads/master/content/klubben/medlemmar/jan-christer-nilsson/Lovable/spelkalender/_index.md)

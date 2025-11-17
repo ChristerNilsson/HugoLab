@@ -24,7 +24,7 @@ Välkommen till Sveriges mest aktiva schackklubb för seniorer
 * *Kostar noll kronor. Zero, Zilch, Nada, Meijo, Gar Nichts. Rien*
 * *Virusfritt*
 * *Inga ständiga uppdateringar*
-* *Inga tillkommande ai-kostnader, typ message cost*
+* *Inga tillkommande [ai-kostnader](https://lovable.dev/pricing)*
 * *Klicka på source för att se hur sidornas original ser ut*
 
 
