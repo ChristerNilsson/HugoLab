@@ -27,8 +27,6 @@ Vi samlas till en trevlig och kamratlig samvaro med schackintresserade seniorer,
 ## ✉️ Vill du bli medlem?
 Hör av dig till klubblokalen enligt schemat ovan eller kontakta styrelsen för mer information om medlemskap och avgifter.  
 
-Styrelsen/Seniorschack Stockholm
-
 ---
 
 [Source](https://raw.githubusercontent.com/ChristerNilsson/HugoLab/refs/heads/master/content/klubben/medlemmar/jan-christer-nilsson/Lovable/om-klubben/_index.md)
