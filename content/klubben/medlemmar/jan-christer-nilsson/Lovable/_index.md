@@ -1,6 +1,12 @@
 ---
-title: Lovable
+title: Seniorschack Stockholm
 ---
+
+Välkommen till Sveriges mest aktiva schackklubb för seniorer
+
+📆 3 speldagar/vecka
+👯 200+ medlemmar
+🏆 Flera turneringsklasser
 
 * [Aktuella Turneringar](aktuella-turneringar)
 * [Medlemskap](medlemskap)
