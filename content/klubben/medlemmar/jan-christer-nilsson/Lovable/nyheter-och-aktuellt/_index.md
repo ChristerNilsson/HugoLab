@@ -15,3 +15,6 @@ Vi spelar på tisdagar, onsdagar och torsdagar i Schacksalongerna på Ringvägen
 ### 2025-01-10 Stockholms Mästerskap Veteraner 60+
 
 Anmälan öppen för årets veteranmästerskap. Tävlingen genomförs i schweizisk stil med flera klasser.
+
+
+[Source](https://raw.githubusercontent.com/ChristerNilsson/HugoLab/refs/heads/master/content/klubben/medlemmar/jan-christer-nilsson/Lovable/nyheter-och-aktuellt/_index.md)

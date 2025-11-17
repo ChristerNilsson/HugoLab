@@ -17,3 +17,6 @@ Vi samlas till en trevlig och kamratlig samvaro med schackintresserade seniorer,
 ### Rioträffen
 * Sandhamnsgatan 4
 * T-bana: Gärdet
+
+
+[Source](https://raw.githubusercontent.com/ChristerNilsson/HugoLab/refs/heads/master/content/klubben/medlemmar/jan-christer-nilsson/Lovable/om-klubben/_index.md)
