@@ -4,14 +4,19 @@ title: Medlemskap
 
 *Bli medlem i Sveriges mest aktiva schackklubb för seniorer*
 
-|Ordinarie medlem                    |Huvudklubbsmedlem                            |
-|-                                   |-                                            |
-|För dig med annan huvudklubb        |Seniorschack som huvudklubb                  |
-|440 kr/år                           |800 kr/år (inkl. förbundsavgifter)           |
-|✔️ Tillgång till alla speldagar     |✔️ Alla förmåner från ordinarie              |
-|✔️ Delta i klubbturneringar         |✔️ Inkluderar Stockholms Schackförbund       |
-|✔️ Schackseminarier och simultanspel|✔️ Inkluderar Sveriges Schackförbund och FIDE|
-|✔️ Trevlig social samvaro           |✔️ Officiell rating och tävlingsrättigheter  |
+|Biklubbsmedlem                             |Huvudklubbsmedlem                           |
+|-                                          |-                                           |
+|För dig med annan huvudklubb               |För dig med Seniorschack som huvudklubb     |
+|440 kr/år                                  |800 kr/år                                   |
+|✔️ Tillgång till alla speldagar            |✔️ Tillgång till alla speldagar            |
+|✔️ Delta i klubbturneringar                |✔️ Delta i klubbturneringar                |
+|✔️ Inkluderar Stockholms Schackförbund     |✔️ Inkluderar Stockholms Schackförbund     |
+|✔️ Schackseminarier och simultanspel       |✔️ Schackseminarier och simultanspel       |
+|✔️ Inkluderar Sveriges Schackförbund       |✔️ Inkluderar Sveriges Schackförbund       |
+|✔️ Inkluderar FIDE                         |✔️ Inkluderar FIDE                         |
+|✔️ Trevlig social samvaro                  |✔️ Trevlig social samvaro                  |
+|✔️ Officiell rating och tävlingsrättigheter|✔️ Officiell rating och tävlingsrättigheter|
+|✔️ Du får EJ spela för Seniorschacks lag   |✔️ Du får spela för Seniorschacks lag      |
 
 ## Betalningsinformation
 
