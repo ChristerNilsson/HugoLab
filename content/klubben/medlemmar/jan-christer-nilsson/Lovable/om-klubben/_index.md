@@ -13,15 +13,15 @@ Vi samlas till en trevlig och kamratlig samvaro med schackintresserade seniorer,
 ### 📍 Schacksalongerna 
 * Ringvägen 9C
 * T-bana: Zinkensdamm
+* 🕑 Tisdagar: 10:00 - 16:00
+* 🕑 Onsdagar: 11:00 - 17:00
+* 🕑 Torsdagar: 11:00 - 17:00
 
 ### 📍 Rioträffen
 * Sandhamnsgatan 4
 * T-bana: Gärdet
-
-### 🕑 Speltider
-* Tisdagar: 10:00 - 16:00
-* Onsdagar: 11:00 - 17:00
-* Torsdagar: 11:00 - 17:00
+* 🕑 Måndagar: 10:00 - 16:00
+* 🕑 Fredagar: 11:00 - 17:00
 
 ## ✉️ Vill du bli medlem?
 Hör av dig till klubblokalen enligt schemat ovan eller kontakta styrelsen för mer information om medlemskap och avgifter.  
