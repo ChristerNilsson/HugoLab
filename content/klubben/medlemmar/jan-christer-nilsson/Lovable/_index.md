@@ -3,7 +3,7 @@ title: Lovable
 auto: true
 ---
 
-*Detta är en reproduktion av Björn Löwgrens Lovable-implementation*
+*Detta är en reproduktion av Björn Löwgrens [Lovable-implementation](https://chess-connect-pro.lovable.app/) [19.000 rader javascript]()*
 
 * Inte lika snygg, men mycket enklare att underhålla!
 * Klicka på source för att se hur sidornas original ser ut
