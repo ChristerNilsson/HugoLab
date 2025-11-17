@@ -2,7 +2,6 @@
 title: Om Klubben
 ---
 
-
 ## Vår Verksamhet
 
 Seniorschack spelar på tisdagar, onsdagar och torsdagar i Schacksalongerna, samt på måndagar och fredagar på Rioträffen.   
