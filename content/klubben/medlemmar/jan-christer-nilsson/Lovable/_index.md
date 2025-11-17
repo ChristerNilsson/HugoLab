@@ -1,8 +1,4 @@
 ---
 title: Lovable
-auto: false
+auto: true
 ---
-
-[Aktuella turneringar](/aktuella-turneringar.html)
-
-[Medlemskap](medlemskap.html)
