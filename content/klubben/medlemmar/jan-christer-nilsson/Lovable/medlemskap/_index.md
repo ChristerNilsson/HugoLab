@@ -4,10 +4,10 @@ title: Medlemskap
 
 *Bli medlem i Sveriges mest aktiva schackklubb för seniorer*
 
-|Sekundär medlem                            |Primär medlem                               |
+|Primär medlem                              |Sekundär medlem                             |
 |-                                          |-                                           |
-|För dig med annan huvudklubb               |För dig med Seniorschack som huvudklubb     |
-|440 kr/år                                  |800 kr/år                                   |
+|För dig med Seniorschack som huvudklubb    |För dig med annan huvudklubb                |
+|✔️ Du spelar enbart för din huvudklubbs lag|✔️ Du spelar enbart för din huvudklubbs lag|
 |✔️ Tillgång till alla speldagar            |✔️ Tillgång till alla speldagar            |
 |✔️ Delta i klubbturneringar                |✔️ Delta i klubbturneringar                |
 |✔️ Schackseminarier och simultanspel       |✔️ Schackseminarier och simultanspel       |
@@ -15,13 +15,13 @@ title: Medlemskap
 |✔️ Inkluderar Sveriges Schackförbund       |✔️ Inkluderar Sveriges Schackförbund       |
 |✔️ Inkluderar FIDE                         |✔️ Inkluderar FIDE                         |
 |✔️ Officiell rating och tävlingsrättigheter|✔️ Officiell rating och tävlingsrättigheter|
-|✔️ Du får EJ spela för Seniorschacks lag   |✔️ Du får spela för Seniorschacks lag      |
 |✔️ Trevlig social samvaro                  |✔️ Trevlig social samvaro                  |
+|**800 kr per kalenderår**                  |**440 kr per kalenderår**                   |
 
 ## Betalningsinformation
 
-Avgiften betalas till klubbens bankgiro: 111-1038  
-För schack-kurs deltagare anordnad i samarbete med PRO är årsavgiften också 440 kr  
+Avgiften betalas till klubbens bankgiro: **111-1038**  
+Deltagare i schackskola anordnad i samarbete med PRO räknas som sekundär medlem  
 
 ---
 
