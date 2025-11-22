@@ -14,6 +14,7 @@ title: Kostnad
 |Kristallen|1080|18|90 + 30|15.00|Ja|
 |Sällskapet|1000|20|90 + 30|12.50|Ja|
 |Seniorschack|800|40|90 + 30|5.00|Ja|
+|Kulturhuset|0|||0.00|Nej|
 
 
 
