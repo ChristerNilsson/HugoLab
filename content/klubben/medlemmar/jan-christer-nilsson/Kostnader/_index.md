@@ -17,7 +17,7 @@ title: Kostnad
 |Östersund SS|700|14|90 + 30|14.58|Ja|
 |Sällskapet|1000|20|90 + 30|12.50|Ja|
 |Visby SK|700|16|90 + 30|10.94|Ja|
-|[Marschall Chess Club](https://www.marshallchessclub.org/)|3343|150|90 + 30|5.57|882 aktiva|
+|[Marshall Chess Club](https://www.marshallchessclub.org/)|3343|150|90 + 30|5.57|882 aktiva|
 |Seniorschack|800|40|90 + 30|5.00|Ja|
 |Kulturhuset|0|||0.00|Nej|
 
