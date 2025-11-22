@@ -25,4 +25,4 @@ title: Kostnad
 * Enbart interna långpartier ingår i undersökningen
 * Avgiften gäller vanlig seniormedlem
 * Vid udda antal spelare, dras frironden bort
-* Uppgifterna insamlande 2025
+* Uppgifterna insamlade 2025
