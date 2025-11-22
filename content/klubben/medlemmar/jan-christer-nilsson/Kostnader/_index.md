@@ -21,6 +21,7 @@ title: Kostnad
 |Seniorschack|800|40|90 + 30|5.00|Ja|
 |Kulturhuset|0|||0.00|Nej|
 
+[Gör din egen kalkyl](https://christernilsson.github.io/GameCostComparison/)
 
 * Enbart interna långpartier ingår i undersökningen
 * Avgiften gäller vanlig seniormedlem
