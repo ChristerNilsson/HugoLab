@@ -4,7 +4,7 @@ title: Kostnad
 
 |Klubb/Turnering|Avgift|Ronder|Betänketid|Timkostnad|Elo|
 |-|-:|-:|-:|-:|:-:|
-|Svarta Hästen Blixt|335|13|3+2|154.62|Ja|
+|Svarta Hästen Blixt|335|13|3 + 2|154.62|Ja|
 |Göstas minne|250|7|15 + 5|53.57|Nej|
 |Tyresö Open|800|8|(120+20)/2=70|42.86|Ja|
 |Rilton Open|1000|7|90 + 30|35.71|Ja|
