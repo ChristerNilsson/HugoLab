@@ -5,6 +5,7 @@ title: member.schack.se
 ```
 TODO:
   Behöver man skicka någon elo-rapport eller är den automatisk?
+  https://schack.se/uppskjutna-partier-och-foranmald-frirond/
 ```
 
 ## Skapande av turnering
@@ -56,6 +57,10 @@ TODO:
 ## Skriv ut ställning
 
 * KM | Skriv ut | Ställning
+
+## Uppskjutna partier och föranmäld frirond
+
+	[Länk](https://schack.se/uppskjutna-partier-och-foranmald-frirond/)
 
 ## Fortsätt
 

@@ -5,7 +5,9 @@ title: Swiss Manager
 ```
 TODO:
   Tendenslottning
+  
   Personlig frirond
+  https://schack.se/uppskjutna-partier-och-foranmald-frirond/
 ```
 
 ## Installation av SwissManager
@@ -105,6 +107,10 @@ TODO:
 
 ## Visa ställning
 * Lists | Standings [F5]
+
+## Uppskjutna partier och föranmäld frirond
+
+	[Länk](https://schack.se/uppskjutna-partier-och-foranmald-frirond/)
 
 ## Fortsätt
 
