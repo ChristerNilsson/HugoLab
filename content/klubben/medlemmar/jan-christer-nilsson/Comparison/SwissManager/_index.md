@@ -2,10 +2,16 @@
 title: Swiss Manager
 ---
 
+```
+TODO:
+  Tendenslottning
+  Personlig frirond
+```
+
 ## Installation av SwissManager
 
 * [SM Download](https://swiss-manager.at/download.aspx?lan=0)
-* Fick en nyckel av Björn.
+* Fick en licens av Björn.
 * Starta SM
 * Other | Install
 * Display conditions for use
