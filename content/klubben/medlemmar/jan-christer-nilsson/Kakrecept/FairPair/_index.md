@@ -31,4 +31,4 @@ Upprepa för alla deltagare
 
 ## Nästa rond [→]
 
-## Skapa rapport till FIDE [X]
+## Skapa rapport till FIDE [T]
