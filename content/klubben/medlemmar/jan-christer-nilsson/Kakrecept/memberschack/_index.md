@@ -68,3 +68,5 @@ TODO:
 
 ## Skapa rapport till FIDE
 
+* KM | FIDE Export | Rankingrapport-Ronder
+* [OK]

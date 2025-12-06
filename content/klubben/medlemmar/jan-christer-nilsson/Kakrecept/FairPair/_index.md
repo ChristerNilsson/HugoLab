@@ -29,6 +29,6 @@ Upprepa för alla deltagare
 
 ### Visa ställning [A]
 
-## Nästa rond [Högerpil]
+## Nästa rond [→]
 
-## Skapa rapport till FIDE
+## Skapa rapport till FIDE [X]

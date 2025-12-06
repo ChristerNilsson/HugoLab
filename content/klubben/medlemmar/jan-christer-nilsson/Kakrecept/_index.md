@@ -1,5 +1,5 @@
 ---
-title: Comparison
+title: Kakrecept
 auto: true
 ---
 
