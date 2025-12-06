@@ -2,14 +2,14 @@
 title: FairPair
 ---
 
-## Skapande av turnering
+### Skapande av turnering
 ```
 TITLE = KM
 ROUNDS = 10
 GAMES = 1
 ```
 
-## Urval av deltagare
+### Urval av deltagare
 ```
 Skriv in elo-rating samt namn
 1686 Christer Nilsson
@@ -17,10 +17,9 @@ Upprepa för alla deltagare
 [Continue]
 ```
 
-## Visa Bordslistan
-```[B]```
+### Visa Bordslistan [B]
 
-## Mata in resultat
+### Mata in resultat
 ```
   [1]   = 1 - 0
 [space] = remi
@@ -28,10 +27,8 @@ Upprepa för alla deltagare
  [Del]  = Rensa
 ```
 
-## Visa ställning
-```[A]```
+### Visa ställning [A]
 
-## Nästa rond
-```[Högerpil]```
+## Nästa rond [Högerpil]
 
 ## Skapa rapport till FIDE
