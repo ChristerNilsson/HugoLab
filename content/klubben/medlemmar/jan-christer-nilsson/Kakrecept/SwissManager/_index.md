@@ -107,7 +107,7 @@ TODO:
 
 ### Uppskjutna partier och föranmäld frirond
 
-	[Länk](https://schack.se/uppskjutna-partier-och-foranmald-frirond/)
+* [Länk](https://schack.se/uppskjutna-partier-och-foranmald-frirond/)
 
 ### Fortsätt
 
