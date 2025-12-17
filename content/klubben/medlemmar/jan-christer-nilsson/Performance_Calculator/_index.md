@@ -8,6 +8,9 @@ Skriv in motståndarnas rating följt av din uppnådda partipoäng, separerade m
 
 Medelvärde: <span id="AVG">0</span><br>
 Matematiskt: <span id="PR">0</span> [Metod](index.coffee)<br>
-FIDE (tabell): <span id="FIDE">0</span> [Metod](https://handbook.fide.com/chapter/B012024) 1.4.9
+FIDE (tabell): <span id="FIDE">0</span> [Metod](https://handbook.fide.com/chapter/B012024) 1.4.9<br>
+
+
+<!-- Kivij: <span id="KIVIJ">0</span> [Metod](http://www.hirmulintu.fi/juha/chess/en/performance_calculator.shtml) (Använder [erf](https://en.wikipedia.org/wiki/Error_function))<br> -->
 
 <script src="index.js"></script>
