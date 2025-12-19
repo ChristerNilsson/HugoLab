@@ -2,18 +2,15 @@
 title: Performance Calculator
 ---
 
-Skriv in motståndarnas rating följt av din uppnådda partipoäng, separerade med mellanslag:
+Enter the ratings of the opponents, followed by the score, separated by space:
 
 <input type="text" id="INPUT" oninput="calculate()" size=65 value="2400 2500 2600 2.5" style="font-size:24px">
 
-|Metod|Performance Rating|Kommentar|
+|Method|Performance Rating|Comment|
 |-|:-:|-|
-|Medelvärde      |<span id="AVG">0</span>     ||
-|Normalfördelning|<span id="TRUEDEF">0</span> |Bygger på den exakta normalfördelningen och Horner|
-|Logistisk       |<span id="LOGISTIC">0</span>|Approximation med 1 / (1 + 10 ** gap/400)|
-|FIDE (tabell)   |<span id="FIDE">0</span>    |Tabelluppslagning utan interpolation|
-
-
-<!-- Kivij: <span id="KIVIJ">0</span> [Metod](http://www.hirmulintu.fi/juha/chess/en/performance_calculator.shtml) (Använder [erf](https://en.wikipedia.org/wiki/Error_function))<br> -->
+|Average            |<div id="AVG">0</div>     ||
+|Normal Distribution|<div id="NORMDIST">0</div> |Error function and Horner |
+|Logistic function  |<div id="LOGISTIC">0</div>|Approximation using 1 / (1 + 10 ^ (gap/400))|
+|FIDE Table   |<div id="FIDE">0</div>    |Table lookup without interpolation|
 
 <script src="index.js"></script>
