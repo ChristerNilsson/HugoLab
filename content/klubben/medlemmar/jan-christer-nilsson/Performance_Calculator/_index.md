@@ -11,6 +11,6 @@ Enter the ratings of the opponents, followed by the score, separated by space:
 |Average            |<div id="AVG">0</div>     ||
 |Normal Distribution|<div id="NORMDIST">0</div> |Error function and Horner |
 |Logistic function  |<div id="LOGISTIC">0</div>|Approximation using 1 / (1 + 10 ^ (gap/400))|
-|FIDE Table   |<div id="FIDE">0</div>    |Table lookup without interpolation|
+|FIDE Table   |<div id="FIDE">0</div>    |Table lookup|
 
 <script src="index.js"></script>
