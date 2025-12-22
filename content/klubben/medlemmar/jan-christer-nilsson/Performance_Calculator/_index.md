@@ -8,9 +8,9 @@ Enter the ratings of the opponents, followed by the score, separated by space:
 
 |Method|Performance Rating|Comment|
 |-|:-:|-|
-|Average            |<div id="AVG">0</div>     ||
-|Normal Distribution|<div id="NORMDIST">0</div> |Error function and Horner |
-|Logistic function  |<div id="LOGISTIC">0</div>|Approximation using 1 / (1 + 10 ^ (gap/400))|
-|FIDE Table   |<div id="FIDE">0</div>    |Table lookup|
+| Average                                                                 | <div id="AVG">0</div>      | |
+|[FIDE Table](https://handbook.fide.com/chapter/B022024)                  | <div id="FIDE">0</div>     | Table lookup |
+|[Logistic function](https://en.wikipedia.org/wiki/Logistic_function)     | <div id="LOGISTIC">0</div> | Approximation using 1 / (1 + exp(-x)) |
+|[Normal Distribution](https://en.wikipedia.org/wiki/Normal_distribution) | <div id="NORMDIST">0</div> | Error function and Horner |
 
 <script src="index.js"></script>
