@@ -5,6 +5,8 @@ auto: false
 
 ## Inledning
 
+[Lathund](lathund)
+
 [Chess-Results](https://s3.chess-results.com/tnr1316880.aspx)
 
 [Swiss Manager - TUNx](SrS_KM_2026.TUNx)
