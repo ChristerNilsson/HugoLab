@@ -10,10 +10,10 @@ auto: false
 
 Du ser nu den senaste korstabellen.
 
-3. Klicka på **Bordsresultat** samt *Rond* för att se en viss rond
+3. **Bordsresultat** Klicka på den rond du vill se Bordsresultatet för.
 
 ![](Screenshot_2026-01-29_210716.png)
 
-4. Klicka på **Ställning efter** samt *Rond* för att se en viss rond
+4. **Ställning efter** Klicka på den rond du vill se Ställningen för.
 
 ![](Screenshot_2026-01-29_211005.png)
