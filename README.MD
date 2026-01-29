@@ -4,7 +4,7 @@ Två repos används
 * HugoLab innehåller källkoden.  
 * HugoLabServer publicerar.  
 
-* bash a.sh
+* ./a
 	* Förbereder live reload
 	* Klicka på länken
 		* localhost:1313/HugoLabServer
@@ -13,7 +13,7 @@ Två repos används
 * När redigeringen i content är klar, är det dags att publicera
 * Stoppa servern med ctrl-c
 
-* bash b.sh
+* ./b
 	* Nu tas reloadlive-koden bort från alla html-filer
 	* public kopieras till repot HugoLabServer
 	* HugoLabServer commitas
