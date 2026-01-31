@@ -7,11 +7,12 @@ auto: false
 
 [Lathund](lathund)
 
-[Chess-Results Bord      ](https://s3.chess-results.com/tnr1316880.aspx?art=2)
+### Chess Results
 
-[Chess-Results Ställning ](https://s3.chess-results.com/tnr1316880.aspx?art=1)
-
-[Chess-Results Korstabell](https://s3.chess-results.com/tnr1316880.aspx?art=4)
+* [Bord      ](https://s3.chess-results.com/tnr1316880.aspx?art=2)
+* [Ställning ](https://s3.chess-results.com/tnr1316880.aspx?art=1)
+* [Korstabell](https://s3.chess-results.com/tnr1316880.aspx?art=4)
+* [Spelschema](https://s1.chess-results.com/tnr1316880.aspx?art=14)
 
 [Swiss Manager - TUNx](SrS_KM_2026.TUNx)
 
