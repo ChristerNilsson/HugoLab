@@ -20,7 +20,7 @@ Dessa hanteras av Swiss Manager genom att de temporärt räknas som ½ - ½, lot
 Orsaken till detta är att spelarna annars lottas mot svagare spelare än förväntat.  
 Upprepningen nedan torde inte behövas om man nöjer sig med denna approximation ½ - ½.  
 
-Björn Löwgren har förfinat/komplicerat detta genom Tendenslottning.  
+Björn Löwgren har förfinat/komplicerat detta genom Tendenslottning.   
 Det innebär att om det skiljer mer än 200 elo, ges 1 / 0 poäng istf ½ / ½ till den starkare / svagare spelaren.  
 Efter lottning måste denna poäng tas bort, för att poängen ska summeras korrekt.  
 För varje rond måste detta upprepas till partiet spelats.  
