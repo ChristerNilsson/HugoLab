@@ -5,7 +5,8 @@ auto: false
 
 ## Inledning
 
-[Lathund](lathund)
+* [Lathund](lathund)
+* [Erfarenheter](erfarenheter)
 
 ### Chess Results
  
@@ -18,13 +19,10 @@ auto: false
 
 ## Google Docs
 
-[Inbjudan](https://docs.google.com/document/d/1ygzOxCDGPUWJw1MctKtiasam3eEZz2t4Q04uavzIO4Q/edit?tab=t.0)
-
-[Tävlingsregler](https://docs.google.com/document/d/10NY87FKrG2XX4h89H4CFGv_oaV-YtXW6/edit)
-
-[Lathund](https://docs.google.com/document/d/1N9JX0I_xYSLlITu6je8avszK2bzwBLOpKMCQTsUFHIE/edit?usp=sharing)
-
-[Anmälan Eloregistrering](https://docs.google.com/document/d/1Nj0Tr92Be0e7E34j3X67LCtVonf1dLlN8l56YGNnpzQ/edit?tab=t.0)
+* [Inbjudan](https://docs.google.com/document/d/1ygzOxCDGPUWJw1MctKtiasam3eEZz2t4Q04uavzIO4Q/edit?tab=t.0)
+* [Tävlingsregler](https://docs.google.com/document/d/10NY87FKrG2XX4h89H4CFGv_oaV-YtXW6/edit)
+* [Lathund](https://docs.google.com/document/d/1N9JX0I_xYSLlITu6je8avszK2bzwBLOpKMCQTsUFHIE/edit?usp=sharing)
+* [Anmälan Eloregistrering](https://docs.google.com/document/d/1Nj0Tr92Be0e7E34j3X67LCtVonf1dLlN8l56YGNnpzQ/edit?tab=t.0)
 
 ## Google Sheets
 
