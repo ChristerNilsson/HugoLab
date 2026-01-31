@@ -6,7 +6,7 @@ A=$(pwd)
 # Katalogen där repo B ligger
 B="C:/github/HugoLabServer"
 
-hugo
+hugo --logLavel error
 
 cp -r public/* "$B/"
 # rsync ej installerat
