@@ -7,7 +7,11 @@ auto: false
 
 [Lathund](lathund)
 
-[Chess-Results](https://s3.chess-results.com/tnr1316880.aspx)
+[Chess-Results Bord      ](https://s3.chess-results.com/tnr1316880.aspx?art=2)
+
+[Chess-Results Ställning ](https://s3.chess-results.com/tnr1316880.aspx?art=1)
+
+[Chess-Results Korstabell](https://s3.chess-results.com/tnr1316880.aspx?art=4)
 
 [Swiss Manager - TUNx](SrS_KM_2026.TUNx)
 
