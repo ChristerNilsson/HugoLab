@@ -8,11 +8,11 @@ auto: false
 [Lathund](lathund)
 
 ### Chess Results
-
-* [Bord      ](https://s3.chess-results.com/tnr1316880.aspx?art=2)
-* [Ställning ](https://s3.chess-results.com/tnr1316880.aspx?art=1)
-* [Korstabell](https://s3.chess-results.com/tnr1316880.aspx?art=4)
-* [Spelschema](https://s1.chess-results.com/tnr1316880.aspx?art=14)
+ 
+* [Bord      ]( {{< chessresults 1316880 2  >}} )
+* [Ställning ]( {{< chessresults 1316880  1 >}} )
+* [Korstabell]( {{< chessresults 1316880  4 >}} )
+* [Spelschema]( {{< chessresults 1316880 14 >}} )
 
 [Swiss Manager - TUNx](SrS_KM_2026.TUNx)
 
