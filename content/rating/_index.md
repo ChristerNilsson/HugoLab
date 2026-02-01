@@ -1,5 +1,5 @@
 ---
-title: Rating
+title: Rankning
 ---
 
 * [Farsta SK]( {{< club 38453 >}})
