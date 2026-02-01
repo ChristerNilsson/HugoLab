@@ -1,3 +1,7 @@
+---
+title: Erfarenheter
+---
+
 ## Hantering av deltagare utan FIDE-id
 
 Dessa anges med id=0  
