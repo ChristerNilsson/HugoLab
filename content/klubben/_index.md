@@ -8,5 +8,5 @@ title: Klubben
 * [Medlemmar](medlemmar)
 * [Stadgar](stadgar.pdf)
 * [Styrelse](styrelse)
-* [Tjänster](tjänster.pdf)
+* [Tjänster](tjanster.pdf)
 * [Webmaster](webmaster)
