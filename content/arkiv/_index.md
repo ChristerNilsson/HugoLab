@@ -10,4 +10,4 @@ title: Arkiv
 * [Veckans kombination](veckans-kombination)
 * [Äldre hemsida](https://www.seniorschackstockholm.se)
 * [Äldre hemsida - Sök](https://www.google.co/search?q=site:seniorschackstockholm.se)
-* [Övrigt](övrigt)
+* [Övrigt](ovrigt)
