@@ -20,7 +20,7 @@ git push -q origin
 cd "$B" || { echo "Kunde inte byta till repo $B"; exit 1; }
 
 # Lägg till ändringar, commit och push
-git add -q . > /dev/null 2>&1
+git add . > /dev/null 2>&1
 git commit -q -m "Publicerad $(date '+%Y-%m-%d %H:%M:%S')"
 git push -q origin
 
