@@ -44,13 +44,14 @@ title: Web Assistant
     * Tag bort dubletten
 * Klubben | Styrelse: Uppdatera
 * Kontakt | Byt avgifter till de vi har idag
-* Klubben | Medlemmar | Christer Nilsson | Citat : Lägg till citat!
-* Startsidan: uppdatera turneringarna
-* Arkiv | Dokument | 2025 saknas
+* Klubben | Medlemmar | Christer Nilsson | Citat : Lägg till ett citat!
+* Klubben | Medlemmar: Lägg till din privata katalog
+* Webkarta: utöka den med din egen katalog
+* Home: uppdatera turneringarna
+* Arkiv | Dokument : Lägg till 2025
 * Resultat 2025 saknas
 * Klubben | Blanketter: Snyggare namn på alla fyra
 * Klubben | Medlemmar: Lägg in ett foto på dig själv
-* Webkarta: Är den ok?
 * Web Assistant
     Bryt upp den i två sidor: Råd och Uppgifter
 * data (yaml)
