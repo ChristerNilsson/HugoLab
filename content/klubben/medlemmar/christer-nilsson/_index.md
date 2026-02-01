@@ -3,6 +3,8 @@ title: Christer Nilsson
 auto: true
 ---
 
+[2026 VT KM]( {{< chessresults 1316880 1 >}} ) 
+
 [2026 VT Klass 1]( {{< tour 17774 >}} )
 
 [2025 HT Klass 1]( {{< tour 16854 >}} )

@@ -2,4 +2,4 @@
 title: Henrik Strömbäck
 ---
 
- [Klass M](/SrS/api/?tid=14507&pid=360912)
+[2026 VT KM]( {{< chessresults 1316880 1 >}} ) 
