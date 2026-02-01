@@ -47,4 +47,4 @@ Avgiften betalas till klubbens bankgiro nr. **111-1038**
 
 ## Webmaster
 
-[Christer Nilsson]({{< param BB2 >}}=9tA9nxUm5e) 
+{{< bb2 AvOBdpHx20 >}}
