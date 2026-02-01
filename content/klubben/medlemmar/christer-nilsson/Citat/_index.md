@@ -2,7 +2,7 @@
 title: Citat
 ---
 
-### Schack
+### Schack 
 
 > Schack handlar inte om liv eller död. Det är betydligt viktigare än så.  
 >> -*okänd*

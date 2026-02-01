@@ -4,7 +4,7 @@ title: EMI
 
 Elo Mass Index
 
-EMI = Elo/Vikt
+EMI = Elo/Vikt 
 
 |Namn|Datum|Elo|Vikt|Är|Bör|
 |-|-|-|-|-|-|
