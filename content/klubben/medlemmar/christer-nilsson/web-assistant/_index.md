@@ -13,20 +13,29 @@ title: Web Assistant
     * versaler
     * mellanslag
     * åäö
-* Alla md-filer heter _index.md
-    * De ska alltid innehålla ett inledande egenskapsblock
+* Orsak
+    * Filnamn i Windows skiljer inte på versaler och gemener. a == A
+	* Filnamn i Linux skiljer på versaler och gemener. a != A
+* Alla kataloger innehåller en *markdown*-fil som heter *_index.md*
+    * Den ska alltid innehålla ett inledande egenskapsblock
 	```
 	---
 	title: <Här Är Alla Tecken Tillåtna ëéçüàáçíñΩß osv>
 	---
 	```
-    * auto: true anges om man vill skapa en meny automatiskt
+    * ```auto: true``` anges om man vill skapa en meny automatiskt
+        * Denna egenskap har lagts till av mig, Christer Nilsson
+    * ```hidden: true``` anges om man vill dölja en katalog
 * Ändra aldrig i *public*. Den katalogen skapas av Hugo
-    * Du kan ta bort allt innehåll i *public*
+    * Du kan ta bort allt innehåll i *public*. Det återskapas av Hugo
+    * Alla ändringar du gör i denna katalog kastas bort.
 
-# Uppgifter xxx
+# Uppgifter
 
-* Växla mellan ljust och mörkt tema
+* Inställningar (sparas i din dators *localstorage*)
+    * Växla mellan ljust och mörkt tema
+    * Byt font
+    * Byt fontstorlek
 * Externa länkar: FairPair => fairpair.se
 * Svenska schackbutiken => Svenska Schackbutiken
 * Schackelina saknas
@@ -35,19 +44,23 @@ title: Web Assistant
     * Tag bort dubletten
 * Klubben | Styrelse: Uppdatera
 * Kontakt | Byt avgifter till de vi har idag
+* Klubben | Medlemmar | Christer Nilsson | Citat : Lägg till citat!
 * Startsidan: uppdatera turneringarna
 * Arkiv | Dokument | 2025 saknas
 * Resultat 2025 saknas
 * Klubben | Blanketter: Snyggare namn på alla fyra
 * Klubben | Medlemmar: Lägg in ett foto på dig själv
 * Webkarta: Är den ok?
-* assets | styles.css: Ändra tabellernas bakgrundsfärg
+* Web Assistant
+    Bryt upp den i två sidor: Råd och Uppgifter
 * data (yaml)
     * föreläsningar 
     * inbjudningar
     * lagturneringar
     * meddelanden
         * Meddelanden: Uppdatera Årsmöte. Semla!
+		* Ändra datum till ett passerat datum.
     * turneringar
 * layouts:
     * lägg ut texten HEADER och FOOTER på varje sida.
+* assets | styles.css: Ändra länkarnas färg (yellow) till något annat
