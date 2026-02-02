@@ -5,7 +5,7 @@ title: Web Assistant
 Assistenten ansvarar för innehållet i två kataloger:
 * *content*
   * löpande text
-  * bilder
+  * pdf, bilder och andra filer
 * *data* (tabeller)
   * föreläsningar
   * inbjudningar
@@ -84,9 +84,40 @@ Det förutsätter att filernas namn är någorlunda begripliga.
 
 Denna katalog är inte nödvändig, men förenklar hanteringen av tabeller.  
 Tabeller kan skapas på tre sätt:
-* HTML, dvs med taggarna ```<table>```, ```<tr>``` och ```<td>```
-* Markdown, dvs med tecknena ```| - :```
-* YAML. Detta är en del av Hugo.
+* HTML
+```
+<table>
+	<theader>
+		<tr>
+			<th>Namn</th>
+			<th>Elo</th>
+		</tr>
+	</theader>
+	<tr>
+		<td>Christer Nilsson</td>
+		<td>1694</td>
+	</tr>
+	<tr>
+		<td>Björn Löwgren</td>
+		<td>1964</td>
+	</tr>
+</table>
+```
+* Markdown
+```
+|Namn|Elo|
+|-|-|
+|Christer Nilsson|1694|
+|Björn Löwgren   |1964|
+```
+* YAML
+```
+row:
+  - namn: Christer Nilsson
+    elo: 1694
+  - namn: Björn Löwgren
+    elo: 1964
+```
 
 yaml indenteras med mellanslag.  
 Här är ett litet *meddelande*, som visas med röd text:
@@ -110,25 +141,38 @@ Denna katalog skapas av Hugo. Ändra ingenting i denna.
     * Växla mellan ljust och mörkt tema
     * Byt font
     * Byt fontstorlek
-* Externa länkar: FairPair => fairpair.se
-* Svenska schackbutiken => Svenska Schackbutiken
-* Schackelina saknas
-* Bildbank => bildbank.schack.se
+* Externa länkar: 
+    * FairPair => fairpair.se
+    * Svenska schackbutiken => Svenska Schackbutiken
+    * Schackelina saknas
+    * Bildbank => bildbank.schack.se
 * Ranking => Rating
     * Tag bort dubletten
-* Klubben | Styrelse: Uppdatera
-* Kontakt | Byt avgifter till de vi har idag
-* Klubben | Medlemmar | Christer Nilsson | Citat : Lägg till ett citat!
-* Klubben | Medlemmar: Lägg till din privata katalog
-* Webkarta: utöka den med din egen katalog
-* Home: uppdatera turneringarna
-* Arkiv | Dokument : Lägg till 2025
-* Resultat 2025 saknas
-* Klubben | Blanketter: Snyggare namn på alla fyra
-* Klubben | Medlemmar: Lägg in ett foto på dig själv
+* Klubben
+    * Styrelse: Uppdatera
+* Kontakt 
+    * Byt avgifter till de vi har idag
+* Klubben
+    * Medlemmar
+        * Christer Nilsson
+            * Citat
+                * Lägg till ett citat!
+        * Lägg till din privata katalog
+* Webkarta
+    * utöka den med din egen katalog
+* Home
+    * uppdatera turneringarna
+* Arkiv
+    * Dokument
+        * Lägg till 2025
+* Resultat 
+    * 2025 saknas
+* Klubben
+    * Blanketter: Snyggare namn på alla fyra
+    * Medlemmar: Lägg in ett foto på dig själv
 * Web Assistant
-    Bryt upp den i två sidor: Råd och Uppgifter
-* data (yaml)
+    * Bryt ut Uppgifter till en egen sida och länka till den
+* data
     * föreläsningar 
     * inbjudningar
     * lagturneringar
@@ -137,5 +181,5 @@ Denna katalog skapas av Hugo. Ändra ingenting i denna.
         * Ändra datum till ett passerat datum.
     * turneringar
 * layouts:
-    * lägg ut texten HEADER och FOOTER på varje sida.
-* assets | styles.css: Ändra länkarnas färg (yellow) till något annat
+    * lägg ut texten HEADER och FOOTER på varje sida. (överkurs)
+* assets | styles.css: Ändra länkarnas färg (yellow) till något annat (överkurs)
