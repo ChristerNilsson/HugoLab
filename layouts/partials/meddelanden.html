@@ -1,6 +1,12 @@
+{{ $today := now }}
 {{ range .Site.Data.meddelanden.rows }}
-{{ if .meddelande }}
-	<red>{{ .datum }} • {{ .meddelande }}</red><br>
-{{ end }}
+    {{ if .meddelande }}
+        {{ $d := time .datum }}
+        {{ $old := lt $d $today }}
+        <span class="{{ if $old }} old {{ else }} new {{ end }}">
+            {{ .datum }} • {{ .meddelande }}
+        </span>
+        <br>
+    {{ end }}
 {{ end }}
 
