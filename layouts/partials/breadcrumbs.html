@@ -1,3 +1,4 @@
 {{ $ancestors := .Ancestors.Reverse }}
 {{ range $index, $ancestor := $ancestors }}
-<a href="{{ $ancestor.RelPermalink }}">{{ $ancestor.Title }}</a>{{ if ne $index (sub (len $ancestors) 1) }} • {{ end }}{{ end }}
+<a href="{{ $ancestor.RelPermalink }}">{{ $ancestor.Title }}</a>
+{{ if ne $index (sub (len $ancestors) 1) }} • {{ end }}{{ end }}

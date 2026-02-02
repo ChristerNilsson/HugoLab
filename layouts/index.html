@@ -1,39 +1,23 @@
 {{ define "main" }}
 
-	<!-- <red>index.html</red> -->
-
 	{{ partial "js.html" . }}
-
 	<h1>Seniorschack Stockholm</h1>
-
 	<div> 
-		<ul>
+		<!-- <ul> -->
 		{{ range where .CurrentSection.Sections "Params.hidden" "!=" true}}
-			<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+			<!-- <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li> -->
+			<a href="{{ .RelPermalink }}">{{ .Title }} • </a>
 		{{ end }}
-		</ul>
-
-		<br>
-
+		<!-- </ul> -->
+		<h3>Meddelanden</h3>
 		{{ partial "meddelanden.html" . }}
-
 		<h3>Turneringar</h3>
-
 		{{ partial "turneringar.html" . }}
-
 		{{ partial "lagturneringar.html" . }}
-
 		<h3>Inbjudningar</h3>
-
 		{{ partial "inbjudningar.html" . }}
-
 		<h3>Föreläsningar • tisdagar 10-12 • Salongerna</h3>
-
 		{{ partial "föreläsningar.html" . }}
-
 	</div>
-
-	<old style="font-size: 0.75em">Uppdaterad: {{ now.Format "2006-01-02 15:04" }} </old>
-
+	<old style="font-size: 0.75em">Uppdaterad {{ now.Format "2006-01-02 15:04" }} av Christer Nilsson</old>
 {{ end }}
-

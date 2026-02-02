@@ -1,7 +1,5 @@
 {{ define "main" }}
 
-	<!-- <red>section</red> -->
-
 	{{ partial "js.html" . }}
 
 	<div>
@@ -14,16 +12,16 @@
 			
 			<ul>
 			{{ range .CurrentSection.Sections }}
-			<li>
-			<a href="{{ .RelPermalink }}" >{{ .Title }}</a>
-			</li>
+				<li>
+					<a href="{{ .RelPermalink }}" >{{ .Title }}</a>
+				</li>
 			{{ end }}
 			</ul>
 		
 			<ul>
 			{{ range .CurrentSection.Resources }}
 				<li>
-				<a href="{{ .RelPermalink }}" >{{ .Title}}</a>
+					<a href="{{ .RelPermalink }}" >{{ .Title}}</a>
 				</li>
 			{{ end }}
 			</ul>

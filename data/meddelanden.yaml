@@ -1,6 +1,19 @@
 rows:
-  - datum: 2026-02-01
-    meddelande: KM
-  - datum: 2026-03-03
+  - datum: 2026-01-21 11:00
+    meddelande: rond 1 Berger
+  - datum: 2026-01-22 11:00
+    meddelande: rond 1 Schweizer KM
+  - datum: 2026-01-28 11:00
+    meddelande: rond 2 Berger
+  - datum: 2026-01-29 11:00
+    meddelande: rond 2 Schweizer KM
+  - datum: 2026-02-04 11:00
+    meddelande: rond 3 Berger
+  - datum: 2026-02-05 11:00
+    meddelande: rond 3 Schweizer KM
+  - datum: 2026-02-15
+    meddelande: Sista dag för motion till årsmötet
+  - datum: 2026-02-10 11:00
+    meddelande: Möte Christer Nilsson och Henrik Strömbäck
+  - datum: 2026-03-03 11:00
     meddelande: Årsmöte
-  
