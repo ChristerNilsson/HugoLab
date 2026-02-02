@@ -62,8 +62,8 @@ Exempel på URL: https://www.seniorschackstockholm.se/htmfiler/program_VT26.htm
 * Undvik
     * versaler
     * mellanslag
-    * ```åäöÅÄÖ```
-    * Specialtecken: ```+,./:?&=<>`` osv
+    * ```å ä ö Å Ä Ö```
+    * Specialtecken: ```+ , . / : ? & = < >``` osv
 
 ## Markdown
 
@@ -109,8 +109,8 @@ Tabeller kan skapas på tre sätt:
 ```
 * Markdown
 ```
-|Namn|Elo|
-|-|-|
+|Namn            |Elo |
+|-               |-   |
 |Christer Nilsson|1694|
 |Björn Löwgren   |1964|
 ```
