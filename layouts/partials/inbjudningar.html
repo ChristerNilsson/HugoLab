@@ -9,8 +9,8 @@
 	  </tr>
 	</thead>
 	<tbody>
+	{{ $today := now.Format "2006-01-02" }}
 	{{ range .Site.Data.inbjudningar.rows }}
-		{{ $today := now.Format "2006-01-02" }}
 		{{ $old := lt .datum $today }}
 		{{ if $old }}<tr class="old">{{ else }}<tr>{{ end }}
 			<td>{{ .datum }}</td>

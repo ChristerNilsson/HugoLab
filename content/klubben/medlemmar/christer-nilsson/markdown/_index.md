@@ -3,8 +3,7 @@ title: Markdown
 ---
 
 Den här sidan innehåller Markdown exempel.  
-Klicka på rubriken ovan för att se den markdown-kod som skapat denna sida.  
-Ctrl+U för att se den skapade html-koden.  
+Klicka Ctrl+U för att se den skapade html-koden.  
 
 [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
