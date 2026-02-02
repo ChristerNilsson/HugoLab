@@ -13,6 +13,10 @@ Assistenten ansvarar för innehållet i två kataloger:
   * meddelanden
   * turneringar
 
+Assistenten ansvarar inte för brödsmulorna högst upp.  
+Assistenten ansvarar inte för uppdateringstidpunkten längst ner. 
+Detta tar Hugo hand om.  
+
 ## Web Master
 
 Webmastern ansvarar för:
