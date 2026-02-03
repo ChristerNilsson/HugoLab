@@ -1,30 +1,14 @@
 <table>
 	<thead>
-	  <tr>
-		<th>Datum</th>
-		<th>Tid</th>
-		<th>Typ</th>
-		<th>Inbjudan</th>
-		<th>Resultat</th>
-	  </tr>
+	  <tr><th>Datum</th><th>Tid</th><th>Typ</th><th>Inbjudan</th><th>Resultat</th></tr>
 	</thead>
-	<tbody>
-	{{ $today := now.Format "2006-01-02" }}
-	{{ range .Site.Data.inbjudningar.rows }}
-		{{ $old := lt .datum $today }}
+	<tbody>{{ $today := now.Format "2006-01-02" }}{{ range .Site.Data.inbjudningar.rows }}{{ $old := lt .datum $today }}
 		{{ if $old }}<tr class="old">{{ else }}<tr>{{ end }}
 			<td>{{ .datum }}</td>
 			<td>{{ .tid }}</td>
 			<td>{{ .typ }}</td>
-			<td style="text-align:left">{{ if .länk }}
-				<a href="{{ .länk }}">{{ .inbjudan }}</a>
-				{{ else}}{{ .inbjudan }}{{ end }}</td>
-			<td>
-				{{ if .resultat }}
-					<a href="{{ .resultat }}">Resultat</a>	
-				{{ end }}
-			</td>
-		</tr>
-	{{ end }}
+			<td style="text-align:left">{{ if .länk }}<a href="{{ .länk }}">{{ .inbjudan }}</a>{{ else}}{{ .inbjudan }}{{ end }}</td>
+			<td>{{ if .resultat }}<a href="{{ .resultat }}">Resultat</a>{{ end }}</td>
+		</tr>{{ end }}
 	</tbody>
   </table>

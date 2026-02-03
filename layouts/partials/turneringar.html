@@ -8,26 +8,12 @@
 	  </tr>
 	</thead>
 	<tbody>
-	{{ range .Site.Data.turneringar.rows }}
-		<tr>
-			<td>
-				{{ if .länk }}
-					<a href="{{ .länk }}">{{ .turnering }}</a>
-				{{ else}}
-					{{ .turnering }}
-				{{ end }}
-			</td>
-			<td>{{ .dag }}</td>
-			<td>{{ .typ }}</td>
-			<td>
-				{{ if .kontakt }}
-					<a href="{{ .kontakt }}">Kontakt</a>
-				{{ else}}
-					Kontakt
-				{{ end }}
-			</td>
-
-		</tr>
+	{{ range .Site.Data.turneringar.rows }}<tr>
+		<td>{{ if .länk }}<a href="{{ .länk }}">{{ .turnering }}</a>{{ else}}{{ .turnering }}{{ end }}</td>
+		<td>{{ .dag }}</td>
+		<td>{{ .typ }}</td>
+		<td>{{ if .kontakt }}<a href="{{ .kontakt }}">Kontakt</a>{{ else}}Kontakt{{ end }}</td>
+	</tr>
 	{{ end }}
 	</tbody>
 </table>

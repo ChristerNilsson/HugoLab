@@ -1,16 +1,3 @@
-{{ $today := now }}
-{{ range .Site.Data.meddelanden.rows }}
-    {{ if .meddelande }}
-        {{ $raw := .datum }}
-        {{ if eq (len $raw) 16 }}
-            {{ $raw = print $raw ":00" }}
-        {{ end }}
-        {{ $d := time $raw }}
-        {{ $old := lt $d $today }}
-        <span class="{{ if $old }} old {{ else }} new {{ end }}">
-            {{ .datum }} • {{ .meddelande }}
-        </span>
-        <br>
-    {{ end }}
+{{ $now := now.Format "2006-01-02 15:04" }}
+{{ range .Site.Data.meddelanden.rows }}{{ if .meddelande }}{{ $old := lt .datum $now }}<span class={{ if $old }} "old" {{ else }} "new" {{ end }}>{{ .datum }} • {{ .meddelande }}</span><br>{{ end }}
 {{ end }}
-
