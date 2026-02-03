@@ -2,12 +2,10 @@
 title: Argument för Christers förslag
 ---
 
-[christernilsson.github.io/SrS](https://christernilsson.github.io/SrS)
-
 ### Målsättning
 
 Klubbens hemsida ska fungera som en anslagstavla
-* Kalender
+* Turneringar
 * Inbjudningar
 * Resultat
 
@@ -36,13 +34,9 @@ Klubbens hemsida ska fungera som en anslagstavla
 
 ### Vad rekommenderas för att kunna uppdatera?
 
+* Hugo
 * [Visual Studio Code](https://code.visualstudio.com/) från Microsoft
 	* Markdown Preview
-	* Integration med Github
-	* [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - man ser ändringarnas resultat direkt i bläddraren.
-	* [Run On Save](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave) - när man sparar en markdown-fil skapas automatiskt html-filen.
-* [Python](https://www.python.org/) - Världens [populäraste](https://www.tiobe.com/tiobe-index/) programmeringsspråk.
-* makeAll.exe - ett tvåsidors pythonscript som skapar nödvändiga html-filer.
 * [Chrome](https://www.google.com/intl/sv/chrome) - browsern från Google
 
 ### Github från Linus Thorvalds och Microsoft
@@ -52,13 +46,6 @@ Klubbens hemsida ska fungera som en anslagstavla
 	* Man ser vem som gjort vad.
 * Enkelt att återställa en tidigare version.
 * [Github](https://sv.wikipedia.org/wiki/Github) är publik server - Enkelt att distribuera
-
-### Youtube-filer
-
-* [del 1](https://www.youtube.com/watch?v=VsOR_FKz8S0) - Översikt
-* [del 2](https://www.youtube.com/watch?v=1Y9HrID3A90) - Genomgång av menyerna
-* [del 3](https://www.youtube.com/watch?v=U1aR5xxZkug) - Uppdatering med Markdown
-* [del 4](https://www.youtube.com/watch?v=2MuFqcCIDWU) - Uppdatering av Github
 
 ### Är det sant att man lättare får musarm med Wordpress än Hugo?
 
