@@ -6,11 +6,11 @@
 	  </tr>
 	</thead>
 	<tbody>
-	{{ range .Site.Data.föreläsningar.rows }}
+	{{ range .Site.Data.forelasningar.rows }}
 		{{ $old := lt .datum (now.Format "2006-01-02") }}
 		{{ if $old }}<tr class="old">{{ else }}<tr>{{ end }}
 			<td>{{ .datum }}</td>
-			<td style="text-align:left">{{ if .länk }}<a href="{{ .länk }}">{{ .föreläsning }}</a>{{ else}}{{ .föreläsning }}{{ end }}</td>
+			<td style="text-align:left">{{ if .lank }}<a href="{{ .lank }}">{{ .forelasning }}</a>{{ else}}{{ .forelasning }}{{ end }}</td>
 		</tr>
 	{{ end }}
 	</tbody>

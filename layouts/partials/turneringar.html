@@ -9,7 +9,7 @@
 	</thead>
 	<tbody>
 	{{ range .Site.Data.turneringar.rows }}<tr>
-		<td>{{ if .länk }}<a href="{{ .länk }}">{{ .turnering }}</a>{{ else}}{{ .turnering }}{{ end }}</td>
+		<td>{{ if .lank }}<a href="{{ .lank }}">{{ .turnering }}</a>{{ else}}{{ .turnering }}{{ end }}</td>
 		<td>{{ .dag }}</td>
 		<td>{{ .typ }}</td>
 		<td>{{ if .kontakt }}<a href="{{ .kontakt }}">Kontakt</a>{{ else}}Kontakt{{ end }}</td>

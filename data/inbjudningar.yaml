@@ -4,7 +4,7 @@ rows:
     tid: 15+10
     typ: FairPair
     inbjudan: FairPair 8
-    länk: https://www.seniorschackstockholm.se/htmfiler/FairPair 7 - Inbjudan.pdf
+    lank: https://www.seniorschackstockholm.se/htmfiler/FairPair 7 - Inbjudan.pdf
 
   - datum: 2025-11-23
     tid: 15+5
@@ -15,10 +15,10 @@ rows:
     tid: 15+10
     typ: FairPair
     inbjudan: FairPair 9
-    länk: https://www.seniorschackstockholm.se/htmfiler/FairPair 9 - Inbjudan.pdf
+    lank: https://www.seniorschackstockholm.se/htmfiler/FairPair 9 - Inbjudan.pdf
 
   - datum: 2025-12-27
     tid: 
     typ: FairPair
     inbjudan: Rilton
-    länk: https://www.stockholmsschack.se/inbjudan-rilton-2025-2026/
+    lank: https://www.stockholmsschack.se/inbjudan-rilton-2025-2026/
