@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<h1>Seniorschack Stockholm</h1>
+# Seniorschack Stockholm
 
 * [Arkiv](arkiv)
 * [Externa länkar](externa-lankar)
@@ -15,14 +15,14 @@ title: Home
 * [Resultat](resultat)
 * [Webkarta](webkarta)
 
-<h3>Meddelanden</h3>
+### Meddelanden
 {{< meddelanden >}}
 
-<h3>Turneringar</h3>
+### Turneringar
 {{< turneringar >}}
 
-<h3>Inbjudningar</h3>
+### Inbjudningar
 {{< inbjudningar >}}
 
-<h3>Föreläsningar på tisdagar 10-12 på Salongerna</h3>
+### Föreläsningar på tisdagar 10-12 på Salongerna
 {{< forelasningar >}}
