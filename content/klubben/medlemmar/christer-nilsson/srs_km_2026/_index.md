@@ -10,7 +10,7 @@ auto: false
 
 ### Chess Results
  
-* [Bord      ]( {{< chessresults 1316880 2  >}} )
+* [Bord      ]( {{< chessresults 1316880  2  >}} )
 * [Ställning ]( {{< chessresults 1316880  1 >}} )
 * [Korstabell]( {{< chessresults 1316880  4 >}} )
 * [Spelschema]( {{< chessresults 1316880 14 >}} )
