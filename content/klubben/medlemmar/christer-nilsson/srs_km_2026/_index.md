@@ -7,6 +7,7 @@ auto: false
 
 * [Lathund](lathund)
 * [Erfarenheter](erfarenheter)
+* [Intro](intro)
 
 ### Chess Results
  

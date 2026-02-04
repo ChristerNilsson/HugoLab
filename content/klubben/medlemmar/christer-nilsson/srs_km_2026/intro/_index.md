@@ -19,3 +19,8 @@
 * Undvik onödiga ljud
   * Gå tyst med era dubbade pjäxor. Det är inte halt inomhus
   * Stäng av era mobiler
+
+* R E K L A M
+  * Berger lottar alla ronder före första ronden
+  * Schweizer klarar hur många deltagare som helst
+  * FairPair kombinerar båda dessa egenskaper
