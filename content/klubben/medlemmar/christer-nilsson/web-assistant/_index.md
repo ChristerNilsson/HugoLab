@@ -187,3 +187,4 @@ Denna katalog skapas av Hugo. Ändra ingenting i denna.
 * layouts:
     * lägg ut texten HEADER och FOOTER på varje sida. (överkurs)
 * assets | styles.css: Ändra länkarnas färg (yellow) till något annat (överkurs)
+* Sortering på datum. T ex layouts/partials/meddelanden.html (överkurs)
