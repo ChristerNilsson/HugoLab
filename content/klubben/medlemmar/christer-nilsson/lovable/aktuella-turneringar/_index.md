@@ -15,4 +15,4 @@ title: Aktuella Turneringar
 
 ---
 
-[Source](https://raw.githubusercontent.com/ChristerNilsson/HugoLab/refs/heads/master/content/klubben/medlemmar/jan-christer-nilsson/Lovable/aktuella-turneringar/_index.md)
+[Source](https://raw.githubusercontent.com/ChristerNilsson/HugoLab/refs/heads/master/content/klubben/medlemmar/christer-nilsson/lovable/aktuella-turneringar/_index.md)

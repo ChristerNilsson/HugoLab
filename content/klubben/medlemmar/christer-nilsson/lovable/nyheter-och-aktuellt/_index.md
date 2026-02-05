@@ -28,4 +28,4 @@ title: Nyheter & Aktuellt
 
 ---
 
-[Source](https://raw.githubusercontent.com/ChristerNilsson/HugoLab/refs/heads/master/content/klubben/medlemmar/jan-christer-nilsson/Lovable/nyheter-och-aktuellt/_index.md)
+[Source](https://raw.githubusercontent.com/ChristerNilsson/HugoLab/refs/heads/master/content/klubben/medlemmar/christer-nilsson/lovable/nyheter-och-aktuellt/_index.md)

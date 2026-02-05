@@ -12,4 +12,4 @@ title: Spelkalender
 
 ---
 
-[Source](https://raw.githubusercontent.com/ChristerNilsson/HugoLab/refs/heads/master/content/klubben/medlemmar/jan-christer-nilsson/Lovable/spelkalender/_index.md)
+[Source](https://raw.githubusercontent.com/ChristerNilsson/HugoLab/refs/heads/master/content/klubben/medlemmar/christer-nilsson/lovable/spelkalender/_index.md)

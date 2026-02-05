@@ -28,4 +28,4 @@ Hör av dig till klubblokalen enligt schemat ovan eller kontakta styrelsen för 
 
 ---
 
-[Source](https://raw.githubusercontent.com/ChristerNilsson/HugoLab/refs/heads/master/content/klubben/medlemmar/jan-christer-nilsson/Lovable/om-klubben/_index.md)
+[Source](https://raw.githubusercontent.com/ChristerNilsson/HugoLab/refs/heads/master/content/klubben/medlemmar/christer-nilsson/lovable/om-klubben/_index.md)

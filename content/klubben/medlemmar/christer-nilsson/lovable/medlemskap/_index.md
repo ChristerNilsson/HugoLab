@@ -25,4 +25,4 @@ Deltagare i schackskola anordnad i samarbete med PRO räknas som sekundär medle
 
 ---
 
-[Source](https://raw.githubusercontent.com/ChristerNilsson/HugoLab/refs/heads/master/content/klubben/medlemmar/jan-christer-nilsson/Lovable/medlemskap/_index.md)
+[Source](https://raw.githubusercontent.com/ChristerNilsson/HugoLab/refs/heads/master/content/klubben/medlemmar/christer-nilsson/lovable/medlemskap/_index.md)
