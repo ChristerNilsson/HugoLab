@@ -1,5 +1,5 @@
 ---
-title: Seniorschack Stockholm
+title: Lovable
 ---
 
 Välkommen till Sveriges mest aktiva schackklubb för seniorer
@@ -29,4 +29,4 @@ Välkommen till Sveriges mest aktiva schackklubb för seniorer
 * *Klicka på source för att se hur sidornas original ser ut*
 
 
-[source](https://raw.githubusercontent.com/ChristerNilsson/HugoLab/refs/heads/master/content/klubben/medlemmar/jan-christer-nilsson/Lovable/_index.md)
+[source](https://raw.githubusercontent.com/ChristerNilsson/HugoLab/refs/heads/master/content/klubben/medlemmar/christer-nilsson/lovable/_index.md)
