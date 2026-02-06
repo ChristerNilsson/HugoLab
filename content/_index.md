@@ -9,7 +9,6 @@ title: Home
 * [Inställningar](installningar)
 * [Klubben](klubben)
 * [Kontakt](kontakt)
-* [Logga](img/logga.svg)
 * [Program](program)
 * [Rankning](rating)
 * [Resultat](resultat)

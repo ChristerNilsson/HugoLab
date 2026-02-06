@@ -3,6 +3,30 @@ title: Seniorschack KM 2026
 auto: false
 ---
 
+### Uppskjutna partier
+
+|Rond|Bord|Tendens|Spelare|Resultat|
+|:-: |:-: |:-:  |-      |-|
+|2|9|1/2|Viklund-Ornstein||
+|3|11|1/2|Hellman-Pettersson||
+
+Före lottning: sätt alla tendenser enligt ovan  
+Efter lottning: sätt alla tendenser till Empty  
+
+Ange det verkliga resultatet i sista kolumnen  
+
+### Personlig frirond 
+
+0.5 poäng delas ut efter att ronden spelats.
+
+|Rond|Spelare|Status|
+|:-: |-      |-|
+|1|Johansson|ok|
+|2|Karlsson|ok|
+|4|Pettersson||
+|5|Gustavsson||
+|5|Häggvik||
+
 ## Inledning
 
 * [Lathund](lathund)
@@ -11,7 +35,7 @@ auto: false
 
 ### Chess Results
  
-* [Bord      ]( {{< chessresults 1316880  2  >}} )
+* [Bord      ]( {{< chessresults 1316880  2 >}} )
 * [Ställning ]( {{< chessresults 1316880  1 >}} )
 * [Korstabell]( {{< chessresults 1316880  4 >}} )
 * [Spelschema]( {{< chessresults 1316880 14 >}} )

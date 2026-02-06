@@ -33,6 +33,7 @@ och 60 justeringar efter lottning om man väntar i snitt fyra veckor med att spe
 
 Worst case scenario: 40 spelare, alla skjuter upp alla partier till sista veckan, tio ronder => 40 * 5 * 5 * 2 = 2000 justeringar.  
 
-Om man istället låter Swiss Manager hantera remin, behövs inga resultatjusteringar alls.  
-Swiss bygger på att eloskillnaden maximeras, så det blir en del manuella justeringar.  
-I Berger och FairPair behövs inte tendenslottning, eftersom lottningen inte beror på poäng.  
+Även om man istället låter Swiss Manager hantera remin, behövs resultatjusteringar.  
+(Detta borde Swiss Manager kunna hantera automatiskt)
+Swiss bygger på att grupperna skapas mha poäng.  
+I Berger och FairPair behövs inte tendenslottning, eftersom lottningen enbart beror på elotalet.  
