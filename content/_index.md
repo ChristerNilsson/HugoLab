@@ -2,7 +2,9 @@
 title: Home
 ---
 
-![](/HugoLabServer/original.jpg)
+<!-- ![](/HugoLabServer/img/logga2.svg) -->
+
+<img style="width:1000px" src="/HugoLabServer/img/logga2.svg" alt="">
 
 <nav class="home-menu">
 
