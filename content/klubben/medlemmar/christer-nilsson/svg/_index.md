@@ -2,7 +2,7 @@
 title: Svg
 ---
 
-Zooma in och kolla detaljerna! (ctrl+ och ctrl-)
+Zooma in med ctrl+ och ctrl-
 
 Original JPG (31kb)<br>
 <img style="width:1000px" src="/HugoLabServer/img/original.jpg" alt="Original bitmap">
