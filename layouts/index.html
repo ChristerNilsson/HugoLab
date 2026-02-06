@@ -1,8 +1,8 @@
-﻿{{ define "main" }}
+{{ define "main" }}
 
 	{{ partial "js.html" . }}
 
-	<div>{{ .Content }}</div>
+	<div class="home-content">{{ .Content }}</div>
 
 	<old style="font-size: 1em">Uppdaterad {{ now.Format "2006-01-02 15:04" }} av Christer Nilsson</old>
 {{ end }}

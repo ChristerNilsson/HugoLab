@@ -2,6 +2,6 @@
 title: Svg
 ---
 
-* [Original](original.jpg)
-* [Logga](logga.svg)
-* [Anders](anders.svg)
+* [Original](/HugoLabServer/original.jpg)
+* [Logga](/HugoLabServer/logga.svg)
+* [Anders](/HugoLabServer/anders.svg)

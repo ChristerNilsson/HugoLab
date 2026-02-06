@@ -2,7 +2,9 @@
 title: Home
 ---
 
-# Seniorschack Stockholm
+![](/HugoLabServer/original.jpg)
+
+<nav class="home-menu">
 
 * [Arkiv](arkiv)
 * [Externa länkar](externa-lankar)
@@ -14,11 +16,14 @@ title: Home
 * [Resultat](resultat)
 * [Webkarta](webkarta)
 
+</nav>
+
 ### Meddelanden
 {{< meddelanden >}}
 
 ### Turneringar
 {{< turneringar >}}
+{{< lagturneringar >}}
 
 ### Inbjudningar
 {{< inbjudningar >}}
