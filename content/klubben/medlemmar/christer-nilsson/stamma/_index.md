@@ -18,26 +18,33 @@ Så här kunde ett parti se ut (Svart har två springare, vit har en löpare):
 
 ![](X_stamma.png)
 
+<iframe width="600" height="371" src="https://lichess.org/study/embed/pOZzY7HS/4AaRhxNV" frameborder=0></iframe>
+
 Som synes används 
 
-	* p/P för alla bönder
-	* a/A för torn på a
-	* b/B för springare på b 
-	* c/C för löpare på c
-	* d/D för dam på d
-	* e/E för kung på e
-	* f/F för löpare på f
-	* g/G för springare på g
-	* h/H för torn på h
+	* P för alla bönder
+	* A för torn på a
+	* B för springare på b 
+	* C för löpare på c
+	* D för dam på d
+	* E för kung på e
+	* F för löpare på f
+	* G för springare på g
+	* H för torn på h
+
+Stamma är inte konsekvent i partiet ovan. Han borde använda B och G som symboler för svarts två springare och då slippa asterisken.  
+Problemet är att man måste märka springarna med B och G på undersidan för att veta vilken springare det handlar om.  
+Det är ju inte enkelt att komma ihåg springarnas utgångspositioner.  
 
 Någon symbol för slag användes ej.
 
 Både versaler och gemener förekommer. Både för att indikera pjäs och kolumn.
 
-K kan ses ibland som alternativ till e/E
+K kan ses ibland som alternativ till E
 
 I Algebraisk notation ser man ibland Nbd2, vilket anger vilken springare som flyttas.  
 I Stammas notation anges detta istället Bd2 eller Gd2 beroende på var springaren stod ursprungligen.  
+(Detta gäller dock ej i partiet ovan)
 Kan därför vara lämpligt att skriva denna bokstav på springare och torns undersida.  
 
 *Framgår inte hur Stamma hanterade bönder som förvandlades till springare eller torn.  
