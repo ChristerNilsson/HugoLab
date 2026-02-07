@@ -4,8 +4,6 @@ title: Home
 
 <img style="width:1000px" src="/HugoLabServer/img/logga2.svg" alt="">
 
-<!-- <nav class="home-menu"> -->
-
 [Arkiv](arkiv)
 • [Externa länkar](externa-lankar)
 • [Inställningar](installningar)
@@ -15,8 +13,6 @@ title: Home
 • [Rankning](rating)
 • [Resultat](resultat)
 • [Webkarta](webkarta)
-
-<!-- </nav> -->
 
 ### Meddelanden
 {{< meddelanden >}}
