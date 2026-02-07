@@ -2,7 +2,7 @@
 title: Hugo
 ---
 
-## Uppsnabbning av ./a
+## Uppsnabbning av kommandot ./a
 
 Man bör flytta så många filer som möjligt till static.  
 Detta eftersom Hugo söker igenom alla filer i content.  
@@ -11,3 +11,8 @@ Jag provade att flytta dokument. Det föll på att .md-filer inte får ligga i s
 Ska en flytt ske måste den alltså vara smartare. Bara flytta över pdf-er, inte .md.  
 Kanske får man överge auto för dokument.  
 Det är bara webmaster som drabbas av denna minut, inte användarna.  
+
+## Horisontell vs vertikal meny
+
+På iPad syns asterisker framför menyvalen på startsidan.  
+Jag skapar nu menyn för startsidan manuellt.  
