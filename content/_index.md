@@ -4,19 +4,19 @@ title: Home
 
 <img style="width:1000px" src="/HugoLabServer/img/logga2.svg" alt="">
 
-<nav class="home-menu">
+<!-- <nav class="home-menu"> -->
 
 [Arkiv](arkiv)
-[Externa länkar](externa-lankar)
-[Inställningar](installningar)
-[Klubben](klubben)
-[Kontakt](kontakt)
-[Program](program)
-[Rankning](rating)
-[Resultat](resultat)
-[Webkarta](webkarta)
+• [Externa länkar](externa-lankar)
+• [Inställningar](installningar)
+• [Klubben](klubben)
+• [Kontakt](kontakt)
+• [Program](program)
+• [Rankning](rating)
+• [Resultat](resultat)
+• [Webkarta](webkarta)
 
-</nav>
+<!-- </nav> -->
 
 ### Meddelanden
 {{< meddelanden >}}
