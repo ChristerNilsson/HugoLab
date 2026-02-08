@@ -46,8 +46,10 @@ K kan ses ibland som alternativ till E
 I Algebraisk notation ser man ibland Nbd2, vilket anger vilken springare som flyttas.  
 I Stammas notation anges detta istället bd2 eller gd2 beroende på var springaren stod ursprungligen.  
 
-*Framgår inte hur Stamma hanterade bönder som går i dam. Vilken bokstav ska damen få?
-Däremot klarar Stamma både Nbd5 och N3d5.*
+*Framgår inte hur Stamma hanterade bönder som går i dam. Vilken bokstav ska damen få?  
+Däremot klarar Stamma både Nbd5 och N3d5.  
+Om två bönder båda kan slå d5, får Stamma också problem. Ska även bönderna ha egna bokstäver?  
+De måste självklart skilja sig från pjäsernas bokstäver.*  
 
 En fördel med Stammas notation är att den är internationell.  
 a-h är ju mera internationella än KQBNR eller KDLST.  
