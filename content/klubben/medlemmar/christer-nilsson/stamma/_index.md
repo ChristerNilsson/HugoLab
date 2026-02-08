@@ -67,7 +67,7 @@ Byrne - Fischer 1956:
 
 Först 1980 bestämde FIDE att algebraisk notation skulle bli standard.  
 
-Historik:
+### Historik
 
 |land|år|
 |-|-|
@@ -79,6 +79,22 @@ Historik:
 |USA|1990|
 |Frankrike|1993|
 
-*Frankrike gick sist av alla över 1993, 256 år efter att Stammas bok gavs ut i just det landet.*
+*Frankrike gick sist av alla över, 1993, 256 år efter att Stammas bok gavs ut i just det landet.*
+
+### Notationens utveckling från deskriptiv till algebraisk
+
+```
+1614: The white king commands his owne knight into the third house before his owne bishop.
+1750: K. knight to His Bishop's 3d. 
+1837: K.Kt. to B.third sq. 
+1848: K.Kt. to B's 3rd. 
+1859: K. Kt. to B. 3d. 
+1874: K Kt to B3 
+1889: KKt-B3 
+1904: Kt-KB3 
+1946: N-KB3
+1960: Ng1-f3
+1970: Nf3
+```
 
 [Thank You, Phil Stamma](https://tartajubow.blogspot.com/2019/03/thank-you-phil-stamma.html?lr=1726509521249)
