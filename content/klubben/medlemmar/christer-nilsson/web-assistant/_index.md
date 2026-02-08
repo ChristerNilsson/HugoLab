@@ -2,7 +2,7 @@
 title: Web Assistant
 ---
 
-Assistenten ansvarar för innehållet i två kataloger:
+Assistenten ansvarar för innehållet i följande kataloger:
 * *content*
   * löpande text
   * pdf, bilder och andra filer
@@ -12,9 +12,10 @@ Assistenten ansvarar för innehållet i två kataloger:
   * lagturneringar
   * meddelanden
   * turneringar
+* *static* (i princip allt utom .md-filer)
 
 Assistenten ansvarar inte för brödsmulorna högst upp.  
-Assistenten ansvarar inte för uppdateringstidpunkten längst ner. 
+Assistenten ansvarar inte för uppdateringstidpunkten längst ner.  
 Detta tar Hugo hand om.  
 
 ## Web Master
@@ -23,7 +24,6 @@ Webmastern ansvarar för:
 * alla andra kataloger, bl a
   * assets
   * layouts
-  * static
 * utbildning av assistenten
 * ny funktionalitet
 * felsökning
