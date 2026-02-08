@@ -204,8 +204,27 @@ Denna katalog skapas av Hugo. Ändra ingenting i denna.
         * Rondlista_Berger.pdf
         * senior_matrikel_HT14.pdf
         * Telefon.pdf
+    
 * layouts:
     * lägg ut texten HEADER och FOOTER på varje sida. (överkurs)
 * assets | styles.css: Ändra länkarnas färg (yellow) till något annat (överkurs)
 * Sortering på datum. T ex layouts/partials/meddelanden.html (överkurs)
 
+### Olika filtyper i static/htm och deras antal
+```
+  1 xls
+  1 bmp
+  1 cbh
+578 htm
+321 pdf
+ 12 ini
+  1 cfg
+  3 css
+ 26 doc
+ 14 docx
+  8 jpg
+194 pgn
+  9 txt
+ 96 xls
+  7 xlsx
+```
