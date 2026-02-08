@@ -184,7 +184,28 @@ Denna katalog skapas av Hugo. Ändra ingenting i denna.
         * Meddelanden: Uppdatera Årsmöte. Semla!
         * Ändra datum till ett passerat datum.
     * turneringar
+* static/htm. Splittra på olika ämnen (överkurs)
+    * Här blandas 1275 filer hej vilt, huller om buller, en riktig kökkenmödding
+        * Så här illa blir det när man inte skapar flera kataloger från början.
+        * En variant är att lägga ut alla 1275 i en lång meny med auto
+        * En annan att hitta de .htm-filer som strukturerar materialet.
+    * Filer som länkas
+        * Resultat i Snabbschack och Blixt
+        * Resultat i SrS
+        * Veckans kombination
+        * Partier
+        * Övrigt
+    * Filer som inte länkas, ett urval
+        * anmalda_onsdagar_HT2020.pdf
+        * Inbjudan_Gostas_Minnesturnering_2017.pdf
+        * inbjudan.pdf
+        * onsdag_hosttur_2012.htm
+        * partier.htm
+        * Rondlista_Berger.pdf
+        * senior_matrikel_HT14.pdf
+        * Telefon.pdf
 * layouts:
     * lägg ut texten HEADER och FOOTER på varje sida. (överkurs)
 * assets | styles.css: Ändra länkarnas färg (yellow) till något annat (överkurs)
 * Sortering på datum. T ex layouts/partials/meddelanden.html (överkurs)
+
