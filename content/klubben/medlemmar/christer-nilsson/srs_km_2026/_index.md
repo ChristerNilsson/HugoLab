@@ -3,29 +3,35 @@ title: Seniorschack KM 2026
 auto: false
 ---
 
-### Uppskjutna partier
+### Uppskjutna partier 
 
-|Rond|Bord|Tendens|Spelare|Resultat|
-|:-: |:-: |:-:  |-      |-|
-|2|9|1/2|Viklund-Ornstein||
-|3|11|1/2|Hellman-Pettersson||
+|Rond|Bord|Vit    |Svart     |Tendens|Resultat|
+|:-: |:-: |-      |-         |:-:    |:-:|
+|2   |   9|Viklund|ORNSTEIN  |½||
+|3   |  11|Hellman|PETTERSSON|½||
 
-Före lottning: sätt alla tendenser enligt ovan  
-Efter lottning: sätt alla tendenser till Empty  
-
-Ange det verkliga resultatet i sista kolumnen  
+Tendens: eloskillnad <= 200 ger remi  
+Före lottning: sätt resultat = tendens  
+Efter lottning: sätt resultat = Empty  
+Versaler: Spelaren som initierade uppskjutandet  
+Efter verkligt parti: Stryk Tendens och ange Resultat  
+Enda acceptabla orsak: Sjukdom  
+Partiet måste spelas inom en vecka.  
 
 ### Personlig frirond 
 
-0.5 poäng delas ut efter att ronden spelats.
+|Rond|Spelare   |Bonus|
+|:-: |-         |:-:|
+|   1|Johansson |½|
+|   2|Karlsson  |½|
+|   4|Pettersson||
+|   5|Gustavsson||
+|   5|Häggvik   ||
 
-|Rond|Spelare|Status|
-|:-: |-      |-|
-|1|Johansson|ok|
-|2|Karlsson|ok|
-|4|Pettersson||
-|5|Gustavsson||
-|5|Häggvik||
+½ poäng delas ut efter att ronden spelats.  
+Max två frironder per spelare.  
+Orsak behöver ej anges.  
+Sista två ronderna accepteras Personlig frirond ej.  
 
 ## Inledning
 
