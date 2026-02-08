@@ -5,10 +5,10 @@ title: Home
 <img style="width:1000px" src="/HugoLabServer/img/logga2.svg" alt="">
 
 [Arkiv](arkiv)
-• [Externa länkar](externa-lankar)
 • [Inställningar](installningar)
 • [Klubben](klubben)
 • [Kontakt](kontakt)
+• [Länkar](lankar)
 • [Program](program)
 • [Rankning](rating)
 • [Resultat](resultat)

@@ -2,8 +2,8 @@
 	{{ partial "js.html" . }}
 	<div>
 		{{ partial "breadcrumbs.html" . }}
-			<h1>{{ .CurrentSection.Title }}</h1>
-		{{ if .Params.auto }}section
+		<h1>{{ .CurrentSection.Title }}</h1>
+		{{ if .Params.auto }}
 			<ul>{{ range .CurrentSection.Sections }}<li><a href="{{ .RelPermalink }}" >{{ .Title }}</a></li>{{ end }}</ul>
 			<ul>{{ range .CurrentSection.Resources }}<li><a href="{{ .RelPermalink }}" >{{ .Title}}</a></li>{{ end }}</ul>
 		{{ end }}
