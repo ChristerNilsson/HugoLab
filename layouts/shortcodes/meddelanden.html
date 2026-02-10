@@ -1,1 +1,2 @@
-	{{ partial "meddelanden.html" . }}
+{{ $mode := .Get 0 | default "current" }}
+{{ partial "meddelanden.html" (dict "Site" .Site "mode" $mode) }}

@@ -1,3 +1,6 @@
 {{ $now := now.Format "2006-01-02 15:04" }}
-{{ range .Site.Data.meddelanden.rows }}{{ if .meddelande }}{{ $old := lt .datum $now }}<span class={{ if $old }} "old" {{ else }} "new" {{ end }}>{{ .datum }} • {{ .meddelande }}</span><br>{{ end }}
+{{ range .Site.Data.meddelanden.rows }}{{ if .meddelande }}{{ $old := lt .datum $now }}
+{{ if and (eq $.mode "current") (not $old) }}<span class="new">{{ .datum }} &bull; {{ .meddelande }}</span><br>{{ end }}
+{{ if and (eq $.mode "old") $old }}<span>{{ .datum }} &bull; {{ .meddelande }}</span><br>{{ end }}
+{{ end }}
 {{ end }}

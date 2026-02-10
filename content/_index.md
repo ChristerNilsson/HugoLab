@@ -16,6 +16,7 @@ title: Home
 
 ### Meddelanden
 {{< meddelanden >}}
+[Äldre meddelanden](meddelanden)
 
 ### Turneringar
 {{< turneringar >}}
