@@ -5,7 +5,7 @@ title: Länkar
 * [Analysera ditt parti med lichess.org](https://lichess.org/analysis)
 * [Analysera ditt parti med chess.com](https://www.chess.com/analysis)
 * [Anna Cramling](https://www.youtube.com/@AnnaCramling)
-* [Bildbanken 2](https://storage.googleapis.com/bildbank2/index.html?query=Seniorschack)
+* [Bildbanken 2](https://bildbanken.schack.se?query=Seniorschack)
 * [Caissa's web](https://caissa.com)
 * [ChessBomb](https://www.chess.com/events)
 * [Chess-results SWE](https://chess-results.com/fed.aspx?lan=6&fed=SWE)

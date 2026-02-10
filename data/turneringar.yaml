@@ -1,35 +1,36 @@
 rows:
   - turnering: Klass M
-    lank: https://member.schack.se/ShowTournamentServlet?id=16853
+    lank: https://member.schack.se/ShowTournamentServlet?id=17773
     dag: ons
     typ: Berger
-    kontakt: https://www.seniorschackstockholm.se/htmfiler/Kontaktlista_for_Klass_M.pdf
+    kontakt: https://www.seniorschackstockholm.se/htmfiler/Kontaktlista_for_Klass_M_VT26.pdf
 
   - turnering: Klass 1
-    lank: https://member.schack.se/ShowTournamentServlet?id=16854
+    lank: https://member.schack.se/ShowTournamentServlet?id=17774
     dag: ons
     typ: Berger
-    kontakt: https://www.seniorschackstockholm.se/htmfiler/Kontaktlista_for_Klass_1.pdf
+    kontakt: https://www.seniorschackstockholm.se/htmfiler/Kontaktlista_for_Klass_1_VT26.pdf
 
   - turnering: Klass 2
-    lank: https://member.schack.se/ShowTournamentServlet?id=16855
+    lank: https://member.schack.se/ShowTournamentServlet?id=17775
     dag: ons
     typ: Berger
-    kontakt: https://www.seniorschackstockholm.se/htmfiler/Kontaktlista_for_Klass_2.pdf
+    kontakt: https://www.seniorschackstockholm.se/htmfiler/Kontaktlista_for_Klass_2_VT26.pdf
 
   - turnering: Klass 3
-    lank: https://member.schack.se/ShowTournamentServlet?id=16856
+    lank: https://member.schack.se/ShowTournamentServlet?id=17776
     dag: ons
     typ: Berger
-    kontakt: https://www.seniorschackstockholm.se/htmfiler/Kontaktlista_for_Klass_3.pdf
+    kontakt: https://www.seniorschackstockholm.se/htmfiler/Kontaktlista_for_Klass_3_VT26.pdf
 
   - turnering: Klass 4
-    lank: https://member.schack.se/ShowTournamentServlet?id=16857
+    lank: https://member.schack.se/ShowTournamentServlet?id=17777
     dag: ons
     typ: Berger
-    kontakt: https://www.seniorschackstockholm.se/htmfiler/Kontaktlista_for_Klass_4.pdf
+    kontakt: https://www.seniorschackstockholm.se/htmfiler/Kontaktlista_for_Klass_4_VT26.pdf
 
-  - turnering: Veteran
-    lank: https://s2.chess-results.com/Tnr1247798.aspx?lan=1&SNode=S0
+  - turnering: KM
+    lank: https://s2.chess-results.com/Tnr1316880.aspx?lan=1&SNode=S0
     dag: tors
     typ: Schweizer
+    kontakt: https://docs.google.com/spreadsheets/d/1a0WsZ3VMIfdtGnJ8je8hE8GKW1EL8oZxtDBgjDTUghI/edit?gid=1744888930#gid=1744888930
