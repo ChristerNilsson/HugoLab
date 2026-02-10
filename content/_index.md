@@ -24,5 +24,6 @@ title: Home
 ### Inbjudningar
 {{< inbjudningar >}}
 
-### Föreläsningar på tisdagar 10-12 på Salongerna
+### Föreläsningar
+tisdagar 10-12 på Salongerna
 {{< forelasningar >}}

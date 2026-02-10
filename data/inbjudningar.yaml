@@ -1,24 +1,7 @@
 rows:
     
-  - datum: 2025-10-29
-    tid: 15+10
-    typ: FairPair
-    inbjudan: FairPair 8
-    lank: https://www.seniorschackstockholm.se/htmfiler/FairPair 7 - Inbjudan.pdf
-
-  - datum: 2025-11-23
-    tid: 15+5
-    typ: Schweizer
-    inbjudan: Göstas minnesturnering
-
-  - datum: 2025-11-26
-    tid: 15+10
-    typ: FairPair
-    inbjudan: FairPair 9
-    lank: https://www.seniorschackstockholm.se/htmfiler/FairPair 9 - Inbjudan.pdf
-
-  - datum: 2025-12-27
-    tid: 
-    typ: FairPair
-    inbjudan: Rilton
-    lank: https://www.stockholmsschack.se/inbjudan-rilton-2025-2026/
+  - datum: 2026-04-18
+    tid: 12+0 med handikapp
+    typ: Berger + Schweizer
+    inbjudan: Tusenmannaschacket Avicii
+    lank: https://www.chessparty.com
