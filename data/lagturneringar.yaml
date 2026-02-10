@@ -2,5 +2,8 @@ rows:
   - turnering: Allsvenskan
     lank: https://schack.se/tavlingar/resultat/allsvenskan-25-26/div-iii/grupp-4/
 
-  - turnering: Lag-DM
+  - turnering: Lag-DM division 4
     lank: https://member.schack.se/ShowTournamentServlet?id=16829
+
+  - turnering: Lag-DM division 5
+    lank: https://member.schack.se/ShowTournamentServlet?id=16830

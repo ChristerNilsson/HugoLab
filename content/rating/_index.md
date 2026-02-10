@@ -1,5 +1,5 @@
 ---
-title: Rankning
+title: Rating
 ---
 
 * [Farsta SK]( {{< club 38453 >}})
@@ -13,7 +13,6 @@ title: Rankning
 * [SK Passanten]( {{< club 38462 >}})
 * [SK Rockaden]( {{< club 38464 >}})
 * [Seniorschack Stockholm]({{< club 40628 >}})
-* [Seniorschack Stockholm](https://member.schack.se/ShowClubRatingServlet?clubid=40628)
 * [Solna SS]( {{< club 38468 >}})
 * [Stockholms SS]( {{< club 38472 >}})
 * [SS Delectus]( {{< club 38470 >}})

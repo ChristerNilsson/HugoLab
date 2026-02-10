@@ -204,11 +204,32 @@ Denna katalog skapas av Hugo. Ändra ingenting i denna.
         * Rondlista_Berger.pdf
         * senior_matrikel_HT14.pdf
         * Telefon.pdf
-    
 * layouts:
     * lägg ut texten HEADER och FOOTER på varje sida. (överkurs)
 * assets | styles.css: Ändra länkarnas färg (yellow) till något annat (överkurs)
 * Sortering på datum. T ex layouts/partials/meddelanden.html (överkurs)
+
+### Versus
+
+Hugo används av cirka 25% av webbplatserna som använder statiska generatorer (per jan 2026), vilket placerar den på andra plats efter Astro.
+
+1. statisk vs dynamisk 
+1. katalogstruktur vs menyträd vs webkarta
+1. content vs Home vs public vs SrS
+1. url vs path
+1. alla filer i en katalog vs få filer i många kataloger
+1. markdown vs html (markdown kan innehålla html)
+1. source vs ctrl-U
+1. html i SrS [ ( ] )
+1. enkelt för användarna vs enkelt för webmastern
+1. lätt att lägga alla filer i samma katalog vs svårt att separera dem (lego)
+1. allt i en sida vs en sak per sida
+1. horisontal vs vertikal meny
+1. preview vs lokalt vs public
+1. protokoll_SrS_styrelse_11_okt_2012.pdf vs SrS/2012/10-11-protokoll.pdf
+1. chatgpt vs google
+1. github vs vad
+1. palview vs lichess
 
 ### Olika filtyper i static/htm och deras antal
 ```

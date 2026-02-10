@@ -10,7 +10,7 @@ title: Home
 • [Kontakt](kontakt)
 • [Länkar](lankar)
 • [Program](program)
-• [Rankning](rating)
+• [Rating](rating)
 • [Resultat](resultat)
 • [Webkarta](webkarta)
 
