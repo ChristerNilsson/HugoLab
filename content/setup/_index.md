@@ -1,5 +1,5 @@
 ---
-title: Inställningar
+title: Setup
 ---
 
 ### Tema

@@ -5,18 +5,17 @@ title: Home
 <img class="home-logo" src="/HugoLabServer/img/logga2.svg" alt="">
 
 [Arkiv](arkiv)
-• [Inställningar](installningar)
 • [Klubben](klubben)
 • [Kontakt](kontakt)
 • [Länkar](lankar)
 • [Program](program)
 • [Rating](rating)
 • [Resultat](resultat)
+• [Setup](setup)
 • [Webkarta](webkarta)
 
-### Meddelanden
+### Meddelanden ([äldre](meddelanden))
 {{< meddelanden >}}
-[Äldre meddelanden](meddelanden)
 
 ### Turneringar
 {{< turneringar >}}
