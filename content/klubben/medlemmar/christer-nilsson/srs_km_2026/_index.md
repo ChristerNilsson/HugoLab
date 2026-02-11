@@ -9,6 +9,7 @@ auto: false
 |:-: |:-: |-      |-         |:-:    |:-:|
 |2   |   9|Viklund|ORNSTEIN  |½||
 |3   |  11|Hellman|PETTERSSON|½||
+|4   |  13|Ring   |FRIEDEMANN|½|Spelas 26/2|
 
 Tendens: eloskillnad <= 200 ger remi  
 Före lottning: sätt resultat = tendens  

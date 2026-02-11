@@ -1,26 +1,17 @@
-## Rond 3
+## Rond 4
 
-*Printa 20 ex av lathunden*  
 *Ställ ut skyltar - ställ klockor*  
+*Dela ut några papper till behövande*  
+*Dela ut påminnelser om medlemsavgift*  
 
-* [Hur man hittar KM på hemsidan](https://www.seniorschackstockholm.se/)
-	* Aktuell bordslista
-	* Aktuell ställning
-* Telefonlista (utdelning)
-  * Mha denna kan ni se vem som ringer
-  * Ni slipper åka utan att få spela
-* Obetalda medlemsavgifter (utdelning)
-* [Schackelina](https://schackelina.bloggo.nu)
-  * [Rond 1 Christer Nilsson](https://schackelina.bloggo.nu/KM-har-startat---ett-parti-med-intressanta-vandningar-/)
-  * [Rond 2 Ali Koç](https://schackelina.bloggo.nu/KM-rond-2---hastigt-och-ovantat-stod-jag-pa-forlust-/)
-* Resultatrapportering sker numera mitt emot receptionen.
-  * Orsak : Det drog kallt från luftkonditioneringen på gamla platsen
-* Quiz: Hur många här vet vad tendenslottning är?
-* Undvik onödiga ljud
-  * Gå tyst med era dubbade pjäxor. Det är inte halt inomhus
-  * Stäng av era mobiler
+* Ställning efter tre ronder: Tomas Lindblad och Gunnar Hedin leder med 3p vardera.
+* Ratingen på namnskyltarna är föråldrad. Korrekt rating finns på Bordslistan och Ställningen.
+  * Största skillnad är 65 elo.
+* Man får endast skjuta upp partier pga sjukdom. 
+  * Det här en klubb för pensionärer så arbete räknas inte. Arbeta får man göra på sin fritid!
+* Någon som saknar motståndare?
+  * Paus
+* Stäng av era mobiler
+  * Paus
+* Starta klockorna och lycka till!
 
-* R E K L A M
-  * Berger lottar alla ronder före första ronden
-  * Schweizer klarar hur många deltagare som helst
-  * FairPair kombinerar båda dessa egenskaper

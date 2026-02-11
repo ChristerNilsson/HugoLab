@@ -5,6 +5,7 @@ title: Kostnad
 |Klubb/Turnering|Avgift|Ronder|Betänketid|Timkostnad|Elo|
 |-|-:|-:|-:|-:|:-:|
 |Svarta Hästen Blixt|335|13|3 + 2|154.62|Ja|
+|Tusenmannaschacket|490|8|12 + 0|153.13|Handicap|
 |Göstas minne|250|7|15 + 5|53.57|Nej|
 |Tyresö Open|800|8|(120+20)/2=70|42.86|Ja|
 |Rilton Open|1000|7|90 + 30|35.71|Ja|
@@ -27,3 +28,4 @@ title: Kostnad
 * Avgiften gäller vanlig seniormedlem
 * Vid udda antal spelare, dras frironden bort
 * Uppgifterna insamlade 2025
+* Tusenmanna: 1 av 8 går vidare, därför anges 8 ronder istf 7.
