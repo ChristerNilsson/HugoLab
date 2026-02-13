@@ -1,17 +1,22 @@
-## Rond 4
+## Intro rond 5
 
 *Ställ ut skyltar - ställ klockor*  
-*Dela ut några papper till behövande*  
 *Dela ut påminnelser om medlemsavgift*  
 
-* Ställning efter tre ronder: Tomas Lindblad och Gunnar Hedin leder med 3p vardera.
-* Ratingen på namnskyltarna är föråldrad. Korrekt rating finns på Bordslistan och Ställningen.
-  * Största skillnad är 65 elo.
-* Man får endast skjuta upp partier pga sjukdom. 
-  * Det här en klubb för pensionärer så arbete räknas inte. Arbeta får man göra på sin fritid!
+* Ställning efter fyra ronder: 
+  * Strömbäck, Lindblad och Berg Laachiri leder med 3.5p vardera.
+  * Jovic mot Hedin är ospelat, så Jovic kan gå förbi och Hedin ikapp.
+  * Det blev faktiskt åtta remier i förra ronden. 
+  * Ett enda parti vanns av svart: Mikael Lundberg.
+  * Största skrällen var på 20 elos: Susanna stod för den bedriften.
+* Medlemsavgifterna. Min svarta lista krymper med en i veckan ungefär.
+* Det ska nu finnas bräden med och utan bokstäver på varje bord. 
+  * Så det är bara att komma överens. Vill svart ha bokstäver gäller det.
+  * Jag ska be kansliet att beställa specialbräden med bokstäver bara för svart.
+  * Alfabetet kan ju de flesta, men baklänges är det betydligt svårare, ffa i tidsnöd.
+  * Inte nog med att vit får börja, han får bokstäverna i rätt ordning också!
 * Någon som saknar motståndare?
   * Paus
 * Stäng av era mobiler
   * Paus
 * Starta klockorna och lycka till!
-
