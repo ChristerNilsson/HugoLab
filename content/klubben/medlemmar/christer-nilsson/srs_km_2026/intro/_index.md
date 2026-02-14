@@ -6,9 +6,7 @@
 * Ställning efter fyra ronder: 
   * Strömbäck, Lindblad och Berg Laachiri leder med 3.5p vardera.
   * Jovic mot Hedin är ospelat, så Jovic kan gå förbi och Hedin ikapp.
-  * Det blev faktiskt åtta remier i förra ronden. 
-  * Ett enda parti vanns av svart: Mikael Lundberg.
-  * Största skrällen var på 20 elos: Susanna stod för den bedriften.
+  * [Statistik](rond4.png)
 * Medlemsavgifterna. Min svarta lista krymper med en i veckan ungefär.
 * Det ska nu finnas bräden med och utan bokstäver på varje bord. 
   * Så det är bara att komma överens. Vill svart ha bokstäver gäller det.
