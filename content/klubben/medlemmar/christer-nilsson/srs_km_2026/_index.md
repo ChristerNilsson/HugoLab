@@ -99,9 +99,11 @@ OK
 
 ### Namnskyltar
 
-[Namnskyltar - PDF](Namnskyltar.pdf)
+[PDF](Namnskyltar.pdf)
 
-[Namnskyltar - Källkod](https://github.com/ChristerNilsson/2026/tree/main/003-namnskyltar)
+[Källkod](https://github.com/ChristerNilsson/2026/tree/main/003-namnskyltar)
+
+[Sortering](sortering)
 
 ### FairPair
 
