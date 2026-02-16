@@ -2,6 +2,7 @@ baseURL = 'https://christernilsson.github.io/HugoLabServer/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 default_auto = false
+enableGitInfo = true
 
 [markup]
   [markup.goldmark]

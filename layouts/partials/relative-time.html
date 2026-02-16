@@ -1,0 +1,24 @@
+{{ $lastmod := .Lastmod }}
+{{ $now := now }}
+{{ $diff := sub ($now.Unix) ($lastmod.Unix) }}
+
+{{ $minutes := div $diff 60 }}
+{{ $hours := div $minutes 60 }}
+{{ $days := div $hours 24 }}
+{{ $months := div $days 30 }}
+{{ $years := div $days 365 }}
+
+<p class="meta">
+Uppdaterad:
+{{ if lt $minutes 60 }}
+    {{ $minutes }} minuter sedan
+{{ else if lt $hours 24 }}
+    {{ $hours }} timmar sedan
+{{ else if lt $days 30 }}
+    {{ $days }} dagar sedan
+{{ else if lt $days 365 }}
+    {{ $months }} månader sedan
+{{ else }}
+    {{ $years }} år sedan
+{{ end }}
+</p>
