@@ -1,5 +1,5 @@
 ---
-title: Fischer64k
+title: Fischer16k
 ---
 
 Detta är en generalisering av Fischer960.  
@@ -24,4 +24,4 @@ RRRRRKRR
 QQQQQQQK
 ```
 
-Totalt blir det 4 ** 8 = 65536 = 64k.  
+Totalt blir det 4 ** 7 = 16384 = 16k.  
