@@ -5,7 +5,8 @@ title: Markdown
 Den här sidan innehåller Markdown exempel.  
 Klicka Ctrl+U för att se den skapade html-koden.  
 
-[Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+[Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)  
+[MarkLiveEdit](https://markdownlivepreview.dev/)
 
 ---
 
@@ -34,7 +35,7 @@ Klicka Ctrl+U för att se den skapade html-koden.
 
 H<sub>2</sub>O
 
-e<sup>iπ</sup> = -1
+e<sup>iπ</sup> + 1 = 0
 
 <red>Röd</red> <green>Grön</green> <blue>Blå</blue> [Se style.css](/ROOT/style.css)
 
