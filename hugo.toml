@@ -4,6 +4,9 @@ title = 'My New Hugo Site'
 default_auto = false
 enableGitInfo = true
 
+[frontmatter]
+  lastmod = [":fileModTime", ":git", "lastmod", "modified", "date", "publishDate"]
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
