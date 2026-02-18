@@ -10,6 +10,7 @@ title: 2026 VT
 |2026-01-28|1|S|[Leonid Stolov](https://lichess.org/study/pOZzY7HS/672kYOUP)|
 |2026-02-04|1|V|[Dick Öhman](https://lichess.org/study/sydqbPDT/m57v5y0U)|
 |2026-02-11|1|S|[Håkan Zirath](https://lichess.org/study/cLMnEnUO/9DMVOW1c)|
+|2026-02-18|1|V|[Abbas Razavi](https://lichess.org/study/badox5qN/HD8CVlAf)|
 
 [Seniorschack Stockholm KM Klassiskt](https://s3.chess-results.com/tnr1316880.aspx?art=4)
 
