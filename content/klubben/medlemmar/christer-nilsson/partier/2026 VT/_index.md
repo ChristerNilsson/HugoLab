@@ -18,5 +18,7 @@ title: 2026 VT
 |-         |:-:|:-:|-|
 |2026-01-22|0|V|[Susanna Berg Laachiri](https://lichess.org/study/AgzTp9sx/CFG5MYl6)|
 |2026-01-29|0|S|[Lars Ring](https://lichess.org/study/badox5qN/4K2UIF8v)|
-|2026-02-05|1|S|[Helge Bergström](https://lichess.org/study/8Ds1Bw7r/7SfGVFUG)|
+|2026-02-05|1|V|[Helge Bergström](https://lichess.org/study/8Ds1Bw7r/7SfGVFUG)|
 |2026-02-12|0|S|[Lars Cederfeldt](https://lichess.org/study/gUVqHJd9/x7Zsj8Cs)|
+|2026-02-19|1|S|[Jouko Liistamo](https://lichess.org/study/AgzTp9sx/IsGN3xsW)|
+

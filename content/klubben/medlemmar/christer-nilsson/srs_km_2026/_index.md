@@ -3,23 +3,28 @@ title: Seniorschack KM 2026
 auto: false
 ---
 
-1. Mata in resultat
-2. Ange personliga frironder
+0. Mata in resultat
+1. Ange personliga frironder (0.5p)
+2. Ladda upp till Chess Results (Standings)
 3. Före lottning: sätt resultat = tendens
 4. Lottning
 5. Efter lottning: sätt resultat = Empty
 6. Utskrift av Ställning och Bordslista
-7. Ladda upp till Chess Results
+7. Ladda upp till Chess Results (Lottning)
 8. Spara turneringen
 
 ### Uppskjutna partier 
 
 |Rond|Bord|Vit    |Svart     |Tendens|Resultat|
 |:-: |:-: |-      |-         |:-:    |:-:|
-|2   |   9|Viklund|ORNSTEIN  |½||
+|2   |   9|Viklund|ORNSTEIN  |½|           |
 |3   |   1|JOVIC  |Hedin     |½|Spelas 26/3|
-|3   |  11|Hellman|PETTERSSON|½||
+|3   |  11|Hellman|PETTERSSON|½|           |
 |4   |  13|Ring   |FRIEDEMANN|½|Spelas 26/2|
+|5   |  13|Löwgren|CEDERFELDT|½|           |
+|5   |  19|Jansson|BERGSTRÖM |½|           |
+|6   |    | Ländin|          | |           |
+
 
 Tendens: eloskillnad <= 200 ger remi  
 Versaler: Spelaren som initierade uppskjutandet  
@@ -31,13 +36,13 @@ Printa Bordlista och Ställning **efter att** tendensen nollställts.
 
 ### Personlig frirond 
 
-|Rond|Spelare   |Bonus|
-|:-: |-         |:-:|
+|Rond|Spelare      |Bonus|
+|:-: |-            |:-:|
 |   1|LB Johansson |½|
 |   2|SÅ Karlsson  |½|
 |   4|LÅ Pettersson|½|
-|   5|Gustavsson   ||
-|   5|Häggvik      ||
+|   5|Gustavsson   |½|
+|   5|Häggvik      |½|
 
 ½ poäng delas ut efter att ronden spelats.  
 Max två frironder per spelare.  
