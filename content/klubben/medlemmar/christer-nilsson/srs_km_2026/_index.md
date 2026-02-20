@@ -13,7 +13,7 @@ auto: false
 7. Ladda upp till Chess Results (Lottning)
 8. Spara turneringen
 
-### Uppskjutna partier 
+### Uppskjutna partier
 
 |Rond|Bord|Vit    |Svart     |Tendens|Resultat|
 |:-: |:-: |-      |-         |:-:    |:-:|
@@ -21,10 +21,9 @@ auto: false
 |3   |   1|JOVIC  |Hedin     |½|Spelas 26/3|
 |3   |  11|Hellman|PETTERSSON|½|           |
 |4   |  13|Ring   |FRIEDEMANN|½|Spelas 26/2|
-|5   |  13|Löwgren|CEDERFELDT|½|           |
+|5   |  10|Löwgren|CEDERFELDT|½|           |
 |5   |  19|Jansson|BERGSTRÖM |½|           |
-|6   |    | Ländin|          | |           |
-
+|6   |   9|Viklund|LÄNDIN    |½|           |
 
 Tendens: eloskillnad <= 200 ger remi  
 Versaler: Spelaren som initierade uppskjutandet  
