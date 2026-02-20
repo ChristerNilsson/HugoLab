@@ -127,3 +127,16 @@ Som en bonus, skulle förväntat antal partier/spelare för Klass 4 öka från 6
 
  **Om man använt FairPair istället, hade man sänkt bortfallet från 15.9% till 1.8%.**
 
+### Hur FairPair lottar N spelare
+
+* Sortera personer enligt fallande elotal
+* Beräkna alla positiva elodifferenser
+* Det blir N * N värden
+* Lägg in dem i en matris
+* Tag bort alla celler där spelarna möter sig själva
+* Tag bort alla celler där spelarna redan mötts
+* Tag bort alla celler som inte är tillåtna pga färgregler
+* Observera att matrisen blir symmetrisk kring huvuddiagonalen
+* Placera ut N torn så att de inte kan nå varandra. Observera symmetrin
+* Summan av cellerna som tornen står på ska minimeras
+* Upprepa för övriga ronder
