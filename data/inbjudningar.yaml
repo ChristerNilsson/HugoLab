@@ -1,5 +1,10 @@
 rows:
     
+  - datum: 2026-02-26 11:00
+    tid: 15+10
+    typ: FairPair
+    inbjudan: FairPair - Snabbschacksturnering
+    lank: /HugoLabServer/fairpair/2026-02-26-fairpair-inbjudan.pdf
   - datum: 2026-04-18
     tid: 12+0 med handikapp
     typ: Berger + Schweizer
