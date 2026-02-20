@@ -86,6 +86,11 @@ OK
 * Start update
 * Close
 
+### Ta bort senast lottad rond
+
+* Se till att rätt rond är vald
+* Other | Options | Delete Rounds
+
 ### Google Docs
 
 * [Inbjudan](https://docs.google.com/document/d/1ygzOxCDGPUWJw1MctKtiasam3eEZz2t4Q04uavzIO4Q/edit?tab=t.0)

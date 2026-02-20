@@ -37,3 +37,7 @@ Worst case scenario: 40 spelare, alla skjuter upp alla partier till sista veckan
 (Detta borde Swiss Manager kunna hantera automatiskt)
 Swiss bygger på att grupperna skapas mha poäng.  
 I Berger och FairPair behövs inte tendenslottning, eftersom lottningen enbart beror på elotalet.  
+
+## Observera
+
+Vid Frirondsdagen (uppskjutna partier), vänta tills den dagen passerat, innan Standings och Bordslista publiceras.
