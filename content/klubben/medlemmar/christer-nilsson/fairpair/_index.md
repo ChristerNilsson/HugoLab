@@ -140,3 +140,57 @@ Som en bonus, skulle förväntat antal partier/spelare för Klass 4 öka från 6
 * Placera ut N torn så att de inte kan nå varandra. Observera symmetrin
 * Summan av cellerna som tornen står på ska minimeras
 * Upprepa för övriga ronder
+
+### Lottning av fyra spelare
+
+* Sortera spelarna
+* Lägg in absoluta elo differenserna i matrisen
+* Stryk följande celler:
+  * Spelaren möter sig själv
+  * Spelarna har redan mötts
+  * Färgregler bryts
+
+|    |    |    |    |    |
+|-|-:|-:|-:|-:|
+|    |1800|1700|1600|1500|
+|1800|   •| 100| 200| 300|
+|1700| 100|   •| 100| 200|
+|1600| 200| 100|   •| 100|
+|1500| 300| 200| 100|   •|
+
+#### Rond 1 (summa = 400)
+* Placera ut fyra torn, de ska ej kunna slå varandra.
+* Välj den tornplacering som ger minsta summan
+
+|    |    |    |    |    |
+|-|-:|-:|-:|-:|
+|    |1800|1700|1600|1500|
+|1800|   •| 100|    |    |
+|1700| 100|   •|    |    |
+|1600|    |    |   •| 100|
+|1500|    |    | 100|   •|
+
+#### Rond 2 alternativ 1 
+summa = 800  
+kvadratsumma = 1x1 + 1x1 + 3x3 + 3x3 = 1 + 1 + 9 + 9 = 20  
+* Kvadratsumman ger ett jämnare resultat.
+
+|    |    |    |    |    |
+|-|-:|-:|-:|-:|
+|    |1800|1700|1600|1500|
+|1800|   •|   •|    | 300|
+|1700|   •|   •| 100|    |
+|1600|    | 100|   •|   •|
+|1500| 300|    |   •|   •|
+
+#### Rond 2 alternativ 2
+summa = 800  
+kvadratsumma = 2x2 + 2x2 + 2x2 + 2x2 = 4 + 4 + 4 + 4 = 16  
+
+|    |    |    |    |    |
+|-|-:|-:|-:|-:|
+|    |1800|1700|1600|1500|
+|1800|   •|   •| 200|    |
+|1700|   •|   •|    | 200|
+|1600| 200|    |   •|   •|
+|1500|    | 200|   •|   •|
