@@ -2,13 +2,14 @@
 title: Performance Calculators
 ---
 
-* Det förekommer tre olika metoder att beräkna Performance Rating
+* Det förekommer fyra olika metoder att beräkna Performance Rating
+	* Error function (mest exakt och mest komplex)
 	* Matematisk/iterativ
 	* FIDE:s
-	* Linjär formel
+	* Linjär formel (minst exakt och minst komplex)
 
-Den matematiska är exakt, men kräver dator. FIDE:s och den linjära är enkla, men inte exakta.  
-US Chess och FairPair använder båda den matematiska metoden.  
+Hirmulintu och FairPair använder båda Error function.  
+US Chess använder den iterativa metoden.  
 
 [Wikipedia](https://en.wikipedia.org/wiki/Performance_rating_(chess))  
 
