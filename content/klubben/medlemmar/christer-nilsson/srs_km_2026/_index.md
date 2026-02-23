@@ -42,6 +42,7 @@ Printa Bordlista och Ställning **efter att** tendensen nollställts.
 |   4|LÅ Pettersson|½|
 |   5|Gustavsson   |½|
 |   5|Häggvik      |½|
+|   6|Lindblad     | |
 
 ½ poäng delas ut efter att ronden spelats.  
 Max två frironder per spelare.  
