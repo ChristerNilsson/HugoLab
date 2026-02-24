@@ -1,4 +1,8 @@
-## Tusenmanna använder följande system:
+---
+title: Handikapp
+---
+
+## Tusenmanna använder följande handikappsystem:
 
 RATING CLASSES (ELO)
 
@@ -8,42 +12,47 @@ RATING CLASSES (ELO)
 * D: 1699–1400
 * E: Others (unrated)
 
-TIME HANDICAP
+Tidshandikapp  
+P är starkare än Q.  
 
-|diff|||
-|-|-|-|
-|0|12|12|
-|1|9|15|
-|2|6|18|
-|3|3|21|
-|4|1|23|
+Jag använder bredderna 100 elo istf 300 elo.
+
+|diff|P|Q|
+|-:|-:|-:|
+|**0**|12|12|
+|100|11|13|
+|200|10|14|
+|**300**| 9|15|
+|400| 8|16|
+|500| 7|17|
+|**600**| 6|18|
+|700| 5|19|
+|800| 4|20|
+|**900**| 3|21|
+|1000|2|22|
+|**1100**|1|23|
 
 ## Mitt förslag
+Öka inkrementet istället.
 
-Beräkna diff. Div med 50. Avrunda neråt.
-(75 => 1, 100 => 2 osv)
+```
+  0 -  99 => 12 vs 12+0  
+100 - 199 => 11 vs 12+1  
+```
 
-|diff|m|s|
-|-:|-:|-:|
-|  0| 4|0|
-|50| 15|1|
-|100| 14|2|
-|150| 13|3|
-|200| 12|4|
-|250| 11|5|
-|300| 10|6|
-|350| 9|7|
-|400| 8|8|
-|450| 7|9|
-|500| 6|10|
-|550| 5|11|
-|600| 4|12|
-|650| 3|13|
-|700| 2|14|
-|750| 1|15|
+|diff|P m|Q m|Q s|
+|--:|-:|-:|-:|
+|**0**|12|12| 0|
+|100|11|12| 1|
+|200|10|12| 2|
+|**300**| 9|12| 3|
+|400| 8|12| 4|
+|500| 7|12| 5|
+|**600**| 6|12| 6|
+|700| 5|12| 7|
+|800| 4|12| 8|
+|**900**| 3|12| 9|
+|1000| 2|12|10|
+|**1100**| 1|12|11|
 
-Den starkare spelaren får alltid 4 + 0.
-
-Approximativt blir totala tiden 4 + 16 = 20 minuter.
-
-Skiljer det < 50 elos, spelar båda med 10 + 0
+Approximativt blir totala tiden 24 minuter, vid 60 drag.
