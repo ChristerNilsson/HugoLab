@@ -13,9 +13,10 @@ RATING CLASSES (ELO)
 * E: Others (unrated)
 
 Tidshandikapp  
-P är starkare än Q.  
+Spelare P är starkare än spelare Q.  
 
-Jag använder bredderna 100 elo istf 300 elo.
+Jag använder bredderna 100 elo istf 300 elo.  
+Lite grovt att 2299 vs 1700 (599) ger samma handikapp som 2000 vs 1999 (1)  
 
 |diff|P|Q|
 |-:|-:|-:|
