@@ -18,9 +18,9 @@ auto: false
 |Rond|Bord|Vit    |Svart     |Tendens|Resultat|
 |:-: |:-: |-      |-         |:-:    |:-:|
 |2   |   9|Viklund|ORNSTEIN  |½|           |
-|3   |   1|JOVIC  |Hedin     |½|Spelas 26/3|
+|3   |   1|JOVIC  |Hedin     |½|           |
 |3   |  11|Hellman|PETTERSSON|½|           |
-|4   |  13|Ring   |FRIEDEMANN|½|Spelas 26/2|
+|4   |  13|Ring   |STUMPF    |½|           |
 |5   |  10|Löwgren|CEDERFELDT|½|           |
 |5   |  19|Jansson|BERGSTRÖM |½|           |
 |6   |   9|Viklund|LÄNDIN    |½|           |
