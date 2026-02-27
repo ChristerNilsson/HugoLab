@@ -2,17 +2,14 @@
 title: DGT 2010 - Cheat Sheet
 ---
 
-*av Christer Nilsson* 
 |Genomför:|Off|On|
 |:-|-|-|
 
-Stämmer optionen?
-* Ja: 
-
-	Tryck på ☑️ och ⏯️
-* Nej: 
-
-|option|Välj mha ➖ ➕ ☑️|åäö|
+```
+Om optionen stämmer: Tryck på ☑️ och ⏯️
+Annars: fortsätt
+```
+|option|Välj mha ➖ ➕ ☑️||
 | :-: | - | :-: |
 |**1**|5 m|blixt|
 |**2** |25 m|snabb|

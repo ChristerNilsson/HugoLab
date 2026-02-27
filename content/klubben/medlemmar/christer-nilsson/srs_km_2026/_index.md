@@ -94,6 +94,7 @@ Observera att filen måste skickas minst tre dagar före månadsskiftet.
 * Other | FIDE Data Export TRF16
 * Välj inte datum
 * Kolla https://ratings.fide.com/rated_tournaments.phtml?country=SWE vilka ronder som ska skickas
+  * Sök med ctrl-f Seniorschack
 * OK
 * C:\Users\janch\Documents\SwissManagerUniCode\Listen\FIDE_Export_SrS_KM_2026.txt
 * FIDE_Export_Logfile.txt (innehåller åäö => aao)
