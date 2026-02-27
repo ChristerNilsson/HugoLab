@@ -8,7 +8,7 @@ auto: false
 2. Ladda upp till Chess Results (Standings)
 3. Före lottning: sätt resultat = tendens
 4. Lottning
-5. Efter lottning: sätt resultat = Empty (Adjn?)
+5. Efter lottning: sätt resultat = Empty
 6. Utskrift av Ställning och Bordslista
 7. Ladda upp till Chess Results (Lottning)
 8. Spara turneringen
@@ -21,7 +21,7 @@ auto: false
 |3   |   1|JOVIC  |Hedin     |½|           |
 |3   |  11|Hellman|PETTERSSON| |     1     |
 |4   |  13|Ring   |STUMPF    | |     ½     |
-|5   |  10|Löwgren|CEDERFELDT|½|           |
+|5   |  10|Löwgren|CEDERFELDT| |     1 wo  |
 |5   |  19|Jansson|BERGSTRÖM | |     0     |
 
 Tendens: eloskillnad <= 200 ger remi  
