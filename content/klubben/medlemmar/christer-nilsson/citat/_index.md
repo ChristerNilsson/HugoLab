@@ -47,3 +47,6 @@ title: Citat
 
 > Om du inte har åkt omkull ibland, så har du åkt för långsamt.
 >> -*Ingemar Stenmark*
+
+> Intelligens utan analysförmåga har tämligen begränsat värde
+>> -*Ingrid, 97 år*

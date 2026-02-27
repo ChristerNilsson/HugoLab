@@ -88,14 +88,31 @@ OK
 
 ### Månatlig ELO Rapport
 
+Observera att filen måste skickas minst tre dagar före månadsskiftet.
+
 * Ställ dig på näst sista ronden
 * Other | FIDE Data Export TRF16
 * Välj inte datum
-* Alla ronder
+* Kolla https://ratings.fide.com/rated_tournaments.phtml?country=SWE vilka ronder som ska skickas
 * OK
 * C:\Users\janch\Documents\SwissManagerUniCode\Listen\FIDE_Export_SrS_KM_2026.txt
 * FIDE_Export_Logfile.txt (innehåller åäö => aao)
 * Skicka filen till rating.schack.se
+
+### Datumhantering
+
+Gäller partier som missat deadline.
+
+* Välj rond
+* Input | Enter dates for players pairing
+  * yyyy-mm-dd
+* Other | FIDE Data Export TRF16
+* Selection of games according to date
+  * Sätt 2026-02-01 to 2026-02-28
+
+### Visa ronder innehållande uppskjutna partier
+
+Reports | Tournament status  
 
 ### Ta bort senast lottad rond
 
