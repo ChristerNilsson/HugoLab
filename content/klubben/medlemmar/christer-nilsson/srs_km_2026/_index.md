@@ -86,6 +86,17 @@ OK
 * Start update
 * Close
 
+### Månatlig ELO Rapport
+
+* Ställ dig på näst sista ronden
+* Other | FIDE Data Export TRF16
+* Välj inte datum
+* Alla ronder
+* OK
+* C:\Users\janch\Documents\SwissManagerUniCode\Listen\FIDE_Export_SrS_KM_2026.txt
+* FIDE_Export_Logfile.txt (innehåller åäö => aao)
+* Skicka filen till rating.schack.se
+
 ### Ta bort senast lottad rond
 
 * Se till att rätt rond är vald
