@@ -5,9 +5,9 @@ title: Performance Calculator
 Enter, separated by spaces
 * the ratings of your opponents
 * your score
-* [ your own rating ]
+* your own rating
 
-<input type="text" id="INPUT" oninput="calculate()" size=65 value="2400 2500 2600 2.5 2550" style="font-size:24px">
+<input type="text" id="INPUT" oninput="calculate()" size=65 value="2500 2500 2500 1.5 2500" style="font-size:24px">
 
 |Method|Performance Rating|Comment|
 |-|:-:|-|
