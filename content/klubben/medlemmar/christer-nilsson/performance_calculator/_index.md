@@ -17,4 +17,6 @@ Enter, separated by spaces
 |[Normal Distribution](https://en.wikipedia.org/wiki/Normal_distribution) | <div id="NORMDIST">0</div> | [Error function](https://en.wikipedia.org/wiki/Error_function) |
 |Your new rating diff| <div id="RATING">0</div> | |
 
+[Observable](https://observablehq.com/d/0fd7e39738f76d2a)
+
 <script src="index.js"></script>
