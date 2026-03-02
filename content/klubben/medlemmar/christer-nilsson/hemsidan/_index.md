@@ -2,6 +2,25 @@
 title: Hemsidan
 ---
 
+### Verksamhetsberättelse 2025
+```
+Hemsidan är en mycket viktig informationskanal för Seniorschacks olika verksamheter.
+I maj 2024 beslutade styrelsen att tillsätta en arbetsgrupp med uppgift att diskutera hemsidans
+framtid. Styrelsen var enig om att nuvarande hemsida behöver förbättras, och att det behövs en
+ny teknisk plattform. Arbetet med en ny hemsida inleddes under slutet av 2024, och ett
+samarbete påbörjades med Anders Eriksson/Roslagens Webbyrå. En prototyp (SrS 2.0)
+utvecklades under 2025 baserad på plattformen ’WordPress’.
+Utvecklingsarbetet har tyvärr legat i träda under andra halvåret 2025.
+Styrelsens intention är dock att en ny hemsida skall kunna vara på plats under 2026.
+
+Arbetsgruppen för den nya hemsidan består av:
+Kent Sahlin – Projektledare
+Björn Löwgren – Sakkunnig
+Henrik Strömbäck – Blivande administratör (webbmaster)
+Lars-Johan Andersson – Nuvarande webbmaster
+En referensgrupp har också bildats bestående av, förutom styrelsen,
+ett antal intresserade medlemmar. 
+```
 ### 2025-11
 
 Styrelsen beslöt att vi kommer att betala för nuvarande hemsida under 2026.
@@ -83,6 +102,24 @@ den gamla hemsidan till den nya. Det konstaterades att två av
 styrelsemedlemmarna som har Iphone har problem med att läsa nuvarande text
 på den nya hemsidan.
 
+### Verksamhetsberättelse 2024
+```
+Hemsidan är en mycket viktig informationskanal för Seniorschacks olika verksamheter.
+I maj 2024 beslutade styrelsen att tillsätta en arbetsgrupp med uppgift att diskutera hemsidans
+framtid. Styrelsen var enig om att nuvarande hemsida behöver förbättras, och att det behövs en
+ny plattform för den.
+Arbetet med en ny hemsida inleddes under hösten 2024, och ett samarbete påbörjades med Anders
+Eriksson/Roslagens Webbyrå, som utvecklat hemsidor för flera schackklubbar. En prototyp (SrS
+2.0) utvecklades under hösten baserad på plattformen ’WordPress’.
+Arbetet fortsätter med överföring av information/dokument och tillägg av nya funktioner.
+Arbetsgruppen består av:
+Anders Flärdh – Projektledare
+Björn Löwgren – Sakkunnig
+Henrik Strömbäck – Blivande administratör (webbmaster)
+Lars-Johan Andersson – Nuvarande webbmaster
+En referensgrupp har också bildats bestående av, förutom styrelsen, ett antal intresserade
+medlemmar.
+```
 ### 2024-10
 
 Arbetet med prototypen för den nya hemsidan fortgår. Anders Eriksson
