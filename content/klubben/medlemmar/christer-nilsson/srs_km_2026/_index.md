@@ -23,6 +23,7 @@ auto: false
 |4   |  13|Ring   |STUMPF    | |     ½     |
 |5   |  10|Löwgren|CEDERFELDT| |     1 wo  |
 |5   |  19|Jansson|BERGSTRÖM | |     0     |
+|6   |  10|Ring   |LÄNDIN    |½|           |
 
 Tendens: eloskillnad <= 200 ger remi  
 Versaler: Spelaren som initierade uppskjutandet  
