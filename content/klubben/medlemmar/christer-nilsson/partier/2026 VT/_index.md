@@ -11,6 +11,7 @@ title: 2026 VT
 |2026-02-04|1|V|[Dick Öhman](https://lichess.org/study/sydqbPDT/m57v5y0U)|
 |2026-02-11|1|S|[Håkan Zirath](https://lichess.org/study/cLMnEnUO/9DMVOW1c)|
 |2026-02-18|1|V|[Abbas Razavi](https://lichess.org/study/badox5qN/HD8CVlAf)|
+|2026-03-04|0|V|[Lars Owe Andersson](https://lichess.org/study/SBrLg3Fb/u9h9c9DN)|
 
 [Seniorschack Stockholm KM Klassiskt](https://s3.chess-results.com/tnr1316880.aspx?art=4)
 
