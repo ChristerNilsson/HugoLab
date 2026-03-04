@@ -3,6 +3,8 @@ title: Seniorschack KM 2026
 auto: false
 ---
 
+[Top Ten](top-ten)
+
 0. Mata in resultat
 1. Ange personliga frironder (0.5p)
 2. Ladda upp till Chess Results (Standings)
