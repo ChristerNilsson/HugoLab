@@ -73,6 +73,7 @@ OK
 
 * Rating Lists
 * Import Rating Lists
+* Import Rating List
 * FIDE
 * Ok
 * Start import
@@ -82,10 +83,15 @@ OK
 * Other
 * Update ratings/data
 * Rating International
-* key=FIDE id
+* Updating of = the actual tournament from the selected ratinglist (key=FIDE-identnumber)
 * Start test
 * Start update
 * Close
+
+### Spara och skriv ut.
+
+* Internet | Upload tournament to Chess-Results
+* Skriv ut Ställning och Bordslista
 
 ### Månatlig ELO Rapport
 
