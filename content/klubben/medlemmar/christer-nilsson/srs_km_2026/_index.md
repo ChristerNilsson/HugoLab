@@ -3,17 +3,27 @@ title: Seniorschack KM 2026
 auto: false
 ---
 
-[Top Ten](top-ten)
+### Dukning
 
-0. Mata in resultat
-1. Ange personliga frironder (0.5p)
-2. Ladda upp till Chess Results (Standings)
-3. Före lottning: sätt resultat = tendens
-4. Lottning
-5. Efter lottning: sätt resultat = Empty
-6. Utskrift av Ställning och Bordslista
-7. Ladda upp till Chess Results (Lottning)
-8. Spara turneringen
+1. [Sortera](sortering) skyltarna enligt bordslistan
+2. Lägg ut bordsnummer
+3. Placera ut skyltarna enligt bordslistan. Obs Vit-Svart
+4. Ställ klockorna på #17
+5. Flytta Stolov. Klocka 1:30 - 1:45
+6. Flytta Ornstein
+
+### Arbetsgång
+
+1. Mata in resultat
+2. Ange personliga frironder (0.5p)
+3. Utskrift av Ställning 
+4. Ladda upp till Chess Results (Standings)
+5. Före lottning: sätt resultat = tendens
+6. Lottning
+7. Efter lottning: sätt resultat = Empty
+8. Utskrift av Bordslista
+9. Ladda upp till Chess Results (Lottning)
+10. Spara turneringen
 
 ### Uppskjutna partier
 
@@ -44,7 +54,7 @@ Printa Bordlista och Ställning **efter att** tendensen nollställts.
 |   4|LÅ Pettersson|½|
 |   5|Gustavsson   |½|
 |   5|Häggvik      |½|
-|   6|Lindblad     | |
+|   6|Lindblad     |½|
 
 ½ poäng delas ut efter att ronden spelats.  
 Max två frironder per spelare.  
