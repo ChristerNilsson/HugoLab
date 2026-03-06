@@ -29,7 +29,7 @@ title: 2026 VT
 |3|2026-02-05|1|V|1535|[Helge Bergström](https://lichess.org/study/8Ds1Bw7r/7SfGVFUG)|
 |4|2026-02-12|0|S|1762|[Lars Cederfeldt](https://lichess.org/study/gUVqHJd9/x7Zsj8Cs)|
 |5|2026-02-19|1|S|1500|[Jouko Liistamo](https://lichess.org/study/AgzTp9sx/IsGN3xsW)|
-|6|2026-03-05|0|V|1719|[Hans Weström](https://lichess.org/study/Rm3Ybt3C/KqeGQafK)|
+|6|2026-03-05|0|V|1791|[Hans Weström](https://lichess.org/study/Rm3Ybt3C/KqeGQafK)|
 |7|2026-03-12| |V|1735|[Veine Gustavsson]()|
 |8|2026-03-19| ||||
 |9|2026-04-02| ||||
