@@ -9,12 +9,13 @@ title: Kalender SRS
 * [schack.se kalender](https://schack.se/kalender/manad/)
 * [schack.se screen dump](kalender.png)
 * Frontend
-  * 13857 kodrader för att visa en kalender i WP
-  * 4656 kodrader innehåller ordet *calendar*
+  * 13857 rader för att visa en kalender i WP
+  * 4656 rader innehåller ordet *calendar*
+  * 2881 rader innehåller ordet *schack*
   * 60 javascriptfiler behövs för att visa kalendern
 * Backend
   * databas
-  * okänt antal kodrader
+  * okänt antal rader kod
 
 ### Jämförelse
 
@@ -26,7 +27,7 @@ title: Kalender SRS
 |Månad|Ja|Ja|
 |Lista|Ja|Ja|
 |Sökning|Ja|Ja|
-|Kodrader|13857|1|
+|Rader|13857|1|
 
 ### Integration
 
