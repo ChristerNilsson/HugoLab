@@ -29,5 +29,5 @@ title: Kalender SRS
 1. Gå till en av kalendrarnas Inställningar och delning.
 1. Välj Integrera kalender.
 1. Klicka Anpassa.
-1. Markera de tre kalendrar du vill visa.
+1. Markera de kalendrar du vill visa.
 1. Kopiera den genererade iframe-koden.
