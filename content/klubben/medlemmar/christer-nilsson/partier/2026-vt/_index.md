@@ -3,10 +3,10 @@ title: 2026 VT
 ---
 
 ```
-Dec 1689
-Jan 1694
+Dec                      1689
+Jan                           1694
 Feb 1668
-Mar 1699
+Mar                                1699
 ```
 
 [Seniorserien Klass 1](https://member.schack.se/ShowTournamentServlet?id=17774)
