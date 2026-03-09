@@ -7,6 +7,8 @@ Dec                      1689
 Jan                           1694
 Feb 1668
 Mar                                1699
+Apr
+Maj
 ```
 
 [Seniorserien Klass 1](https://member.schack.se/ShowTournamentServlet?id=17774)
