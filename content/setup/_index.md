@@ -15,11 +15,11 @@ title: Setup
 
 ### Fontstorlek
 
-* <a onclick="setStorage('fontsize','14')">14</a>  
-* <a onclick="setStorage('fontsize','16')">16</a>  
-* <a onclick="setStorage('fontsize','18')">18</a>  
-* <a onclick="setStorage('fontsize','20')">20</a>  
-* <a onclick="setStorage('fontsize','22')">22</a>  
-* <a onclick="setStorage('fontsize','24')">24</a>  
-* <a onclick="setStorage('fontsize','26')">26</a>  
-* <a onclick="setStorage('fontsize','28')">28</a>  
+* <a onclick="setStorage('fontsize','14px')">14</a>  
+* <a onclick="setStorage('fontsize','16px')">16</a>  
+* <a onclick="setStorage('fontsize','18px')">18</a>  
+* <a onclick="setStorage('fontsize','20px')">20</a>  
+* <a onclick="setStorage('fontsize','22px')">22</a>  
+* <a onclick="setStorage('fontsize','24px')">24</a>  
+* <a onclick="setStorage('fontsize','26px')">26</a>  
+* <a onclick="setStorage('fontsize','28px')">28</a>  
