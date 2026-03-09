@@ -27,15 +27,20 @@ auto: false
 
 ### Uppskjutna partier
 
-|Rond|Bord|Vit    |Svart     |Tendens|Resultat|
-|:-: |:-: |-      |-         |:-:    |:-:|
-|2   |   9|Viklund|ORNSTEIN  | |     ½     |
-|3   |   1|JOVIC  |Hedin     |½|           |
-|3   |  11|Hellman|PETTERSSON| |     1     |
-|4   |  13|Ring   |STUMPF    | |     ½     |
-|5   |  10|Löwgren|CEDERFELDT| |     1 wo  |
-|5   |  19|Jansson|BERGSTRÖM | |     0     |
-|6   |  10|Ring   |LÄNDIN    |½|           |
+R = Rond  
+B = Bord  
+T = Tendens  
+
+|R|B |Vit       |Svart     |T|Res |
+|-|-:|-         |-         |-|:-: |
+|2| 9|Viklund   |ORNSTEIN  | |   ½|
+|3| 1|JOVIC     |Hedin     |½|    |
+|3|11|Hellman   |PETTERSSON| | 1  |
+|4|13|Ring      |STUMPF    | | ½  |
+|5|10|Löwgren   |CEDERFELDT| |1 wo|
+|5|19|Jansson   |BERGSTRÖM | | 0  |
+|6|10|Ring      |LÄNDIN    |½|    |
+|7|15|Pettersson|SAHLIN    |½|    |
 
 Tendens: eloskillnad <= 200 ger remi  
 Versaler: Spelaren som initierade uppskjutandet  
