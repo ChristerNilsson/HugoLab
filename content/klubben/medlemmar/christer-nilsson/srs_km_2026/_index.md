@@ -41,6 +41,7 @@ T = Tendens
 |5|19|Jansson   |BERGSTRÖM | | 0  |
 |6|10|Ring      |LÄNDIN    |½|    |
 |7|15|Pettersson|SAHLIN    |½|    |
+|7|12|KARLSSON M|Ring      |½|    |
 
 Tendens: eloskillnad <= 200 ger remi  
 Versaler: Spelaren som initierade uppskjutandet  
@@ -60,6 +61,7 @@ Printa Bordlista och Ställning **efter att** tendensen nollställts.
 |   5|Gustavsson   |½|
 |   5|Häggvik      |½|
 |   6|Lindblad     |½|
+|   8|Karlsson M   |½|
 
 ½ poäng delas ut efter att ronden spelats.  
 Max två frironder per spelare.  
