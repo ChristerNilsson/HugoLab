@@ -55,9 +55,9 @@ Printa Bordlista och Ställning **efter att** tendensen nollställts.
 
 |Rond|Spelare      |Bonus|
 |:-: |-            |:-:|
-|   1|LB Johansson |½|
-|   2|SÅ Karlsson  |½|
-|   4|LÅ Pettersson|½|
+|   1|Johansson LB |½|
+|   2|Karlsson SÅ  |½|
+|   4|Pettersson   |½|
 |   5|Gustavsson   |½|
 |   5|Häggvik      |½|
 |   6|Lindblad     |½|
