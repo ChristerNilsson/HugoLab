@@ -16,7 +16,7 @@ Dessutom behöver olika kategorier införas:
   * Folianter
 * Tidskrifter
 
-Mitt förslag är att man åtminstone gör en textfil tillgänglig på stockholmsschack.  
+Mitt förslag är att man åtminstone gör en textfil tillgänglig på Stockholmsschack eller Seniorschack.  
 
 Denna kan sökas mha ctrl-f.  
 
@@ -35,11 +35,11 @@ Denna kan sökas mha ctrl-f.
 
 ### D
 
-Robert <u>Danielsson</u> och Michael Wiander: Drakens Schackskola  
+Robert <u>Danielsson</u> och Michael Wiander: Drakens Schackskola. 2024
 
 ### H
 
-<u>Hörberg</u> och Westberg: Capablanca  
+<u>Hörberg</u> och Westberg: Capablanca. 1965
 
 ### K
 
@@ -57,4 +57,3 @@ Ludek <u>Pachman</u>: Attack and Defence in Modern Chess Tactics. 1964
 ### R
 
 Kurt <u>Richter</u>: Schackkavalkad. 1985  
-
