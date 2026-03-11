@@ -39,7 +39,7 @@ T = Tendens
 |4|13|Ring       |STUMPF    | | ½ |
 |5|10|Löwgren    |CEDERFELDT| |1wo|
 |5|19|Jansson    |BERGSTRÖM | | 0 |
-|6|10|Ring       |LÄNDIN    |½|   |
+|6|10|Ring       |LÄNDIN    | | 0 |
 |7|15|Pettersson |SAHLIN    |½|   |
 |7|12|KARLSSON M |Ring      |½|   |
 |7|15|JOHANSSON C|Ornstein  |½|   |
