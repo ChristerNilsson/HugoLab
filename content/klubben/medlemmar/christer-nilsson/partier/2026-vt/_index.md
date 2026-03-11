@@ -21,7 +21,7 @@ Maj
 |4|2026-02-11|1|S|1745|[Håkan Zirath](https://lichess.org/study/cLMnEnUO/9DMVOW1c)|
 |5|2026-02-18|1|V|1695|[Abbas Razavi](https://lichess.org/study/badox5qN/HD8CVlAf)|
 |6|2026-03-04|0|V|1694|[Lars Owe Andersson](https://lichess.org/study/SBrLg3Fb/u9h9c9DN)|
-|7|2026-03-11| |S|1670|[Görgen Antonsson]()|
+|7|2026-03-11|1|S|1700|[Görgen Antonsson](https://lichess.org/study/Lt6JU7Je/tbFpCOeO)|
 |8|2026-03-18| |V|1721|[Bertil Wennström]()|
 |9|2026-04-01| |S|1732|[Dan Israel]()|
 |0|2026-04-08| |V|1713|[Roland Eriksson]()|
