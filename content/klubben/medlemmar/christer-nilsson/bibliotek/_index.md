@@ -16,7 +16,7 @@ Dessutom behöver olika kategorier införas:
   * Folianter
 * Tidskrifter
 
-Mitt förslag är att man åtminstone gör en textfil tillgängling på stockholmsschack.  
+Mitt förslag är att man åtminstone gör en textfil tillgänglig på stockholmsschack.  
 
 Denna kan sökas mha ctrl-f.  
 
@@ -33,28 +33,28 @@ Denna kan sökas mha ctrl-f.
 
 ## Exempel
 
-### D  
+### D
 
 Robert <u>Danielsson</u> och Michael Wiander: Drakens Schackskola  
 
-### H  
+### H
 
 <u>Hörberg</u> och Westberg: Capablanca  
 
-### K  
+### K
 
 <u>Kasparov</u> och Keene: Batsford Chess Openings 2. 1989  
 
-### L  
+### L
 
 Emanuel <u>Lasker</u>: Sunt förnuft i schack. 1924  
 <u>Lundahl</u> och Westman: Historiska schackpartier. Från Philidor till Keres. 1967  
 
-### P  
+### P
 
 Ludek <u>Pachman</u>: Attack and Defence in Modern Chess Tactics. 1964  
 
-### R  
+### R
 
 Kurt <u>Richter</u>: Schackkavalkad. 1985  
 
