@@ -20,6 +20,17 @@ Mitt förslag är att man åtminstone gör en textfil tillgängling på stockhol
 
 Denna kan sökas mha ctrl-f.  
 
+## Utlåning
+
+* Varje bok innehåller ett kort med bokens namn
+* Man skriver sitt eget namn på detta kort
+* Kortet ersätter bokens plats
+* När man lämnar tillbaks boken
+  * Leta upp kortet 
+  * Stryk namnet
+  * Lägg in kortet i boken
+  * Ställ tillbaks boken
+
 ## Exempel
 
 ### D  
