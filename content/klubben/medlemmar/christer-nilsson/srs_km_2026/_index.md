@@ -30,19 +30,19 @@ auto: false
 R = Rond  
 B = Bord  
 T = Tendens  
-
-|R|B |Vit        |Svart     |T|Res|
-|-|-:|-          |-         |-|:-:|
-|2| 9|Viklund    |ORNSTEIN  | | ½ |
-|3| 1|JOVIC      |Hedin     |½|   |
-|3|11|Hellman    |PETTERSSON| | 1 |
-|4|13|Ring       |STUMPF    | | ½ |
-|5|10|Löwgren    |CEDERFELDT| |1wo|
-|5|19|Jansson    |BERGSTRÖM | | 0 |
-|6|10|Ring       |LÄNDIN    | | 0 |
-|7|15|Pettersson |SAHLIN    |½|   |
-|7|12|KARLSSON M |Ring      |½|   |
-|7|15|JOHANSSON C|Ornstein  |½|   |
+ 
+|R|B |Vit        |Svart      |T|Res|
+|-|-:|-          |-          |-|:-:|
+|2| 9|Viklund    |ORNSTEIN   | | ½ |
+|3| 1|JOVIC      |Hedin      |½|   |
+|3|11|Hellman    |PETTERSSON | | 1 |
+|4|13|Ring       |STUMPF     | | ½ |
+|5|10|Löwgren    |CEDERFELDT | |1wo|
+|5|19|Jansson    |BERGSTRÖM  | | 0 |
+|6|10|Ring       |LÄNDIN     | | 0 |
+|7|15|Pettersson |SAHLIN     |½|   |
+|7|12|KARLSSON M |Ring       |½|   |
+|7|15|Ornstein   |JOHANSSON C|½|   |
 
 Tendens: eloskillnad <= 200 ger remi  
 Versaler: Spelaren som initierade uppskjutandet  
