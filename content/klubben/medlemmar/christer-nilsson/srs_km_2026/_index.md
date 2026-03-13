@@ -43,6 +43,7 @@ T = Tendens
 |7|15|Pettersson |SAHLIN     |½|   |
 |7|12|KARLSSON M |Ring       |½|   |
 |7|15|Ornstein   |JOHANSSON C|½|   |
+|8| 3|Löwgren    |LUNDQUIST  |½|   |
 
 Tendens: eloskillnad <= 200 ger remi  
 Versaler: Spelaren som initierade uppskjutandet  
