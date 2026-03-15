@@ -40,9 +40,9 @@ T = Tendens
 |5|10|Löwgren    |CEDERFELDT | |1wo|
 |5|19|Jansson    |BERGSTRÖM  | | 0 |
 |6|10|Ring       |LÄNDIN     | | 0 |
-|7|15|Pettersson |SAHLIN     |½|   |
 |7|12|KARLSSON M |Ring       |½|   |
-|7|15|Ornstein   |JOHANSSON C|½|   |
+|7|14|Ornstein   |JOHANSSON C|½|   |
+|7|15|Pettersson |SAHLIN     |½|   |
 |8| 3|Löwgren    |LUNDQUIST  |½|   |
 
 Tendens: eloskillnad <= 200 ger remi  
