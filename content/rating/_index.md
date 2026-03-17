@@ -12,7 +12,7 @@ title: Rating
 * [Nynäs SK]( {{< club 38460 >}})
 * [SK Passanten]( {{< club 38462 >}})
 * [SK Rockaden]( {{< club 38464 >}})
-* [Seniorschack Stockholm]({{< club 40628 >}})
+* [SrS Stockholm]({{< club 40628 >}})
 * [Solna SS]( {{< club 38468 >}})
 * [Stockholms SS]( {{< club 38472 >}})
 * [SS Delectus]( {{< club 38470 >}})
