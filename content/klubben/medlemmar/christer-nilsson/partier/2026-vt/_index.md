@@ -23,7 +23,7 @@ Maj
 |6|2026-03-04|0|V|1694|[Lars Owe Andersson](https://lichess.org/study/SBrLg3Fb/u9h9c9DN)|
 |7|2026-03-11|1|S|1700|[Görgen Antonsson](https://lichess.org/study/Lt6JU7Je/tbFpCOeO)|
 |9|2026-03-17|0|S|1732|[Dan Israel](https://lichess.org/study/X8B5sM5c/cdR0WnY2)|
-|8|2026-03-18| |V|1721|[Bertil Wennström]()|
+|8|2026-03-18|1|V|1721|[Bertil Wennström](https://lichess.org/study/Rm3Ybt3C/dYozU3Da)|
 |0|2026-04-08| |V|1713|[Roland Eriksson]()|
 |1|2026-04-22| |S|1661|[Onni Aikio]()|
 
