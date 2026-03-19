@@ -44,6 +44,7 @@ T = Tendens
 |7|14|Ornstein   |JOHANSSON C|½|   |
 |7|15|Pettersson |SAHLIN     |½|   |
 |8| 3|Löwgren    |LUNDQUIST  |½|   |
+|8|10|Kaminski   |Cederfeldt |½|   |
 |8|13|JOHANSSON C|Hellman    |½|   |
 
 Tendens: eloskillnad <= 200 ger remi  
