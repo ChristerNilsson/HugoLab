@@ -34,18 +34,18 @@ T = Tendens
 |R|B |Vit        |Svart      |T|Res|
 |-|-:|-          |-          |-|:-:|
 |2| 9|Viklund    |ORNSTEIN   | | ½ |
-|3| 1|JOVIC      |Hedin      |½|   |
+|3| 1|JOVIC      |Hedin      | | 0 |
 |3|11|Hellman    |PETTERSSON | | 1 |
 |4|13|Ring       |STUMPF     | | ½ |
 |5|10|Löwgren    |CEDERFELDT | |1wo|
 |5|19|Jansson    |BERGSTRÖM  | | 0 |
 |6|10|Ring       |LÄNDIN     | | 0 |
-|7|12|KARLSSON M |Ring       |½|   |
+|7|12|KARLSSON M |Ring       | | ½ |
 |7|14|Ornstein   |JOHANSSON C|½|   |
-|7|15|Pettersson |SAHLIN     |½|   |
-|8| 3|Löwgren    |LUNDQUIST  |½|   |
-|8|10|Kaminski   |Cederfeldt |½|   |
-|8|13|JOHANSSON C|Hellman    |½|   |
+|7|15|Pettersson |SAHLIN     | | 1 |
+|8| 3|Löwgren    |LUNDQUIST  | | ½ |
+|8|10|Kaminski   |Cederfeldt | | 0 |
+|8|13|JOHANSSON C|Hellman    | | 0 |
 
 Tendens: eloskillnad <= 200 ger remi  
 Versaler: Spelaren som initierade uppskjutandet  
