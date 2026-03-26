@@ -4,16 +4,18 @@ title: Home
 
 <img class="home-logo" src="/HugoLabServer/img/logga2.svg" alt="">
 
-[Arkiv](arkiv)
-• [Klubben](klubben)
-• [Kontakt](kontakt)
-• [Länkar](lankar)
-• [Program](program)
-• [Rating](rating)
-• [Resultat](resultat)
-• [Senaste](senaste)
-• [Setup](setup)
-• [Webkarta](webkarta)
+<nav class="home-quicklinks">
+  <a href="arkiv">Arkiv</a>
+  <a href="klubben">Klubben</a>
+  <a href="kontakt">Kontakt</a>
+  <a href="lankar">Länkar</a>
+  <a href="program">Program</a>
+  <a href="rating">Rating</a>
+  <a href="resultat">Resultat</a>
+  <a href="senaste">Senaste</a>
+  <a href="setup">Setup</a>
+  <a href="webkarta">Webkarta</a>
+</nav>
 
 ### Meddelanden ([äldre](meddelanden))
 {{< meddelanden >}}
