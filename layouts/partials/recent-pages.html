@@ -1,0 +1,12 @@
+{{ $pages := where site.Pages "Kind" "in" (slice "page" "section") }}
+{{ $pages = where $pages "IsHome" "!=" true }}
+{{ $pages = where $pages "RelPermalink" "!=" .RelPermalink }}
+{{ $recentPages := first 30 ($pages.ByLastmod.Reverse) }}
+{{ if gt (len $recentPages) 0 }}
+	<ul>
+		{{ range $recentPages }}
+			{{ $title := .LinkTitle | default .Title | default .File.ContentBaseName }}
+			<li><old>{{ .Lastmod.Format "2006-01-02" }}</old> <a href="{{ .RelPermalink }}">{{ $title }}</a></li>
+		{{ end }}
+	</ul>
+{{ end }}

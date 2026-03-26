@@ -11,6 +11,7 @@ title: Home
 • [Program](program)
 • [Rating](rating)
 • [Resultat](resultat)
+• [Senaste](senaste)
 • [Setup](setup)
 • [Webkarta](webkarta)
 
