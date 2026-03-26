@@ -19,11 +19,12 @@ auto: false
 3. Utskrift av Ställning 
 4. Ladda upp till Chess Results (Standings)
 5. Före lottning: sätt resultat = tendens
-6. Lottning
-7. Efter lottning: sätt resultat = Empty
-8. Utskrift av Bordslista
-9. Ladda upp till Chess Results (Lottning)
-10. Spara turneringen
+6. Exkludera spelare med personlig frirond
+7. Lottning
+8. Efter lottning: sätt resultat = Empty
+9. Utskrift av Bordslista
+10. Ladda upp till Chess Results (Lottning)
+11. Spara turneringen
 
 ### Uppskjutna partier
 
@@ -67,7 +68,7 @@ Printa Bordlista och Ställning **efter att** tendensen nollställts.
 |   6|Lindblad     |½|
 |   8|Karlsson M   |½|
 |   9|Ålgars       | |
-|  10|Johansson LB | |
+|   9|Johansson LB | |
 
 ½ poäng delas ut efter att ronden spelats.  
 Max två frironder per spelare.  
@@ -134,7 +135,7 @@ Observera att filen måste skickas minst tre dagar före månadsskiftet.
 
 ### Datumhantering
 
-Gäller partier som missat deadline.
+Gäller partier som skulle spelats tidigare månad.
 
 * Välj rond
 * Input | Enter dates for players pairing

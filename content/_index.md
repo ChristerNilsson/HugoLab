@@ -5,7 +5,6 @@ title: Home
 <img class="home-logo" src="/HugoLabServer/img/logga2.svg" alt="">
 
 [Arkiv](arkiv)
-• [Chatt](chatt)
 • [Klubben](klubben)
 • [Kontakt](kontakt)
 • [Länkar](lankar)
