@@ -1,56 +1,30 @@
 rows:
-  - datum: 2026-02-05 11:00
-    meddelande: rond 3 Schweizer KM
-  - datum: 2026-02-10 10:00
-    meddelande: Möte Christer Nilsson och Henrik Strömbäck
-  - datum: 2026-02-15 23:59
-    meddelande: Sista dag för motion till årsmötet
-  - datum: 2026-02-17 14:30
-    meddelande: Möte Christer Nilsson och Anders Flärdh
-  - datum: 2026-02-18 11:00
-    meddelande: rond 5 Berger
-  - datum: 2026-02-19 11:00
-    meddelande: rond 5 Schweizer KM
-  - datum: 2026-02-25 11:00
-    meddelande: Uppskjutna partier Berger
-  - datum: 2026-02-26 11:00
-    meddelande: Uppskjutna partier Schweizer KM
-  - datum: 2026-02-26 11:00
-    meddelande: FairPair - Snabbschacksturnering
-  - datum: 2026-03-03 11:00
-    meddelande: Årsmöte
-  - datum: 2026-03-04 11:00
-    meddelande: rond 6 Berger
-  - datum: 2026-03-05 11:00
-    meddelande: rond 6 Schweizer KM
-  - datum: 2026-03-10 10:00
-    meddelande: Film; Queen of Chess
-  - datum: 2026-03-11 11:00
-    meddelande: rond 7 Berger
-  - datum: 2026-03-12 11:00
-    meddelande: rond 7 Schweizer KM
-  - datum: 2026-03-17 11:00
-    meddelande: Möte Christer Nilsson och Dan Israel
-  - datum: 2026-03-18 11:00
-    meddelande: rond 8 Berger
-  - datum: 2026-03-19 11:00
-    meddelande: rond 8 Schweizer KM
-  - datum: 2026-03-31 10:00
-    meddelande: Anders Nystrand; Vår hjärna är lat...
-  - datum: 2026-04-01 11:00
-    meddelande: rond 9 Berger
-  - datum: 2026-04-02 11:00
-    meddelande: rond 9 Schweizer KM
-  - datum: 2026-04-08 11:00
-    meddelande: rond 10 Berger
-  - datum: 2026-04-09 11:00
-    meddelande: rond 10 Schweizer KM
-  - datum: 2026-04-16 11:00
-    meddelande: FairPair - Snabbschacksturnering
-  - datum: 2026-04-22 11:00
-    meddelande: rond 11 Berger
-  - datum: 2026-04-23 11:00
-    meddelande: rond 11 Schweizer KM
-  - datum: 2026-04-18
-    meddelande: Tusenmannaschacket 
+  - {datum: 2026-02-05 11:00, meddelande: rond 3 Schweizer KM}
+  - {datum: 2026-02-10 10:00, meddelande: Möte Christer Nilsson och Henrik Strömbäck}
+  - {datum: 2026-02-15 23:59, meddelande: Sista dag för motion till årsmötet}
+  - {datum: 2026-02-17 14:30, meddelande: Möte Christer Nilsson och Anders Flärdh}
+  - {datum: 2026-02-18 11:00, meddelande: rond 5 Berger}
+  - {datum: 2026-02-19 11:00, meddelande: rond 5 Schweizer KM}
+  - {datum: 2026-02-25 11:00, meddelande: Uppskjutna partier Berger}
+  - {datum: 2026-02-26 11:00, meddelande: Uppskjutna partier Schweizer KM}
+  - {datum: 2026-02-26 11:00, meddelande: FairPair - Snabbschacksturnering}
+  - {datum: 2026-03-03 11:00, meddelande: Årsmöte}
+  - {datum: 2026-03-04 11:00, meddelande: rond 6 Berger}
+  - {datum: 2026-03-05 11:00, meddelande: rond 6 Schweizer KM}
+  - {datum: 2026-03-10 10:00, meddelande: Film; Queen of Chess}
+  - {datum: 2026-03-11 11:00, meddelande: rond 7 Berger}
+  - {datum: 2026-03-12 11:00, meddelande: rond 7 Schweizer KM}
+  - {datum: 2026-03-17 11:00, meddelande: Möte Christer Nilsson och Dan Israel}
+  - {datum: 2026-03-18 11:00, meddelande: rond 8 Berger}
+  - {datum: 2026-03-19 11:00, meddelande: rond 8 Schweizer KM}
+  - {datum: 2026-03-31 10:00, meddelande: Anders Nystrand; Vår hjärna är lat...}
+  - {datum: 2026-04-01 11:00, meddelande: rond 9 Berger}
+  - {datum: 2026-04-02 11:00, meddelande: rond 9 Schweizer KM}
+  - {datum: 2026-04-08 11:00, meddelande: rond 10 Berger}
+  - {datum: 2026-04-09 11:00, meddelande: rond 10 Schweizer KM}
+  - {datum: 2026-04-16 11:00, meddelande: FairPair - Snabbschacksturnering}
+  - {datum: 2026-04-18,       meddelande: Tusenmannaschacket }
+  - {datum: 2026-04-22 11:00, meddelande: rond 11 Berger}
+  - {datum: 2026-04-23 11:00, meddelande: rond 11 Schweizer KM}
+  
 
