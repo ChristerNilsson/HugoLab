@@ -2,6 +2,6 @@
 title: Aktuellt
 ---
 
-### 30 aktuellaste sidorna
+### 64 aktuellaste sidorna
 
 {{< aktuellt >}}

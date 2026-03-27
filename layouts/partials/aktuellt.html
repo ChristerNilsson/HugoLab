@@ -1,7 +1,7 @@
 {{ $pages := where site.Pages "Kind" "in" (slice "page" "section") }}
 {{ $pages = where $pages "IsHome" "!=" true }}
 {{ $pages = where $pages "RelPermalink" "!=" .RelPermalink }}
-{{ $recentPages := first 30 ($pages.ByLastmod.Reverse) }}
+{{ $recentPages := first 64 ($pages.ByLastmod.Reverse) }}
 {{ if gt (len $recentPages) 0 }}
 	<ul>
 		{{ range $recentPages }}
