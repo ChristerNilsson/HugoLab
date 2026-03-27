@@ -41,3 +41,13 @@ I Berger och FairPair behövs inte tendenslottning, eftersom lottningen enbart b
 ## Observera
 
 Vid Frirondsdagen (uppskjutna partier), vänta tills den dagen passerat, innan Standings och Bordslista publiceras.
+
+## Ospelat parti
+
+Då man ska skicka in rapporten, får inga partier vara ospelade.  
+Flytta datum för ospelat parti till nästa dag för uppskjutna partier.  
+Detta innebär att rapport kommer att lämna den cellen blank.  
+Dvs ingen motspelare, ingen färg, inget resultat.  
+Nästa månadsrapport kommer att ta med partiet.  
+Har partiet inte spelats upprepar man proceduren.  
+Domaren sätter ett resultat i slutet av turneringen, om det inte hunnit spelas.  
