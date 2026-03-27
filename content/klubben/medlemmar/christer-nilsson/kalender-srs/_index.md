@@ -7,29 +7,6 @@ title: Kalender SRS
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FStockholm&mode=WEEK&hl=sv&src=ZjgxZDZjYTU2MWU3M2RmZDE1YzYzNmQyODA3NGE5YTAyZjdmNDhhNDAzZjczYTc4N2FiMjlhM2YxMDg2ZTk4M0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Yzk1ZGYwZGVlNzQ2YTcyMjUzYWMzMGIwMjQ5NmI4NWJjODdhZTY5ODljZGVkNmIwYWEzMmY5YTU1ZjhhZTE2MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=bGEzcjIyYWsyYXZlMmxoZXBhcmdxOGkyamZxcGl2N2JAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23d50000&color=%23d81b60&color=%23ef6c00" style="border:solid 1px #777" width="800" height="1000" frameborder="0" scrolling="no"></iframe>
 
 * [schack.se kalender](https://schack.se/kalender/manad/)
-* [schack.se screen dump](kalender.png)
-* Frontend
-  * 13857 rader för att visa en kalender i WP
-  * 4656 rader innehåller ordet *calendar*
-  * 2881 rader innehåller ordet *schack*
-  * 60 javascriptfiler behövs för att visa kalendern
-* Backend
-  * databas
-  * okänt antal rader kod
-
-### Jämförelse
-
-|Egenskap|Wordpress|Google Calendar|
-|-|:-:|:-:|
-|Multipla kalendrar|Ja|Ja|
-|Dag  |Ja|Ja|
-|Vecka|Ja|Ja|
-|Månad|Ja|Ja|
-|Lista|Ja|Ja|
-|Sökning|Ja|Ja|
-|Rader|13857|1|
-
-[screen dump](jamforelse.png)
 
 ### Integration
 
