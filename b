@@ -6,7 +6,7 @@ A=$(pwd)
 # Katalogen där repo B ligger
 B="C:/github/HugoLabServer"
 
-hugo
+hugo --cleanDestinationDir
 npx -y pagefind --site public
 
 cp -r public/* "$B/"
