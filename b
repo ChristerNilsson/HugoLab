@@ -7,6 +7,7 @@ A=$(pwd)
 B="C:/github/HugoLabServer"
 
 hugo
+npx -y pagefind --site public
 
 cp -r public/* "$B/"
 # rsync ej installerat

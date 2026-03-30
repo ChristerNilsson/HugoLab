@@ -1,0 +1,83 @@
+<div class="search-panel" data-pagefind-ignore="all">
+  <div id="pagefind-search"></div>
+  <p id="pagefind-status" class="search-status">Sökindex laddas.</p>
+</div>
+<script>
+(() => {
+  const stylesheet = document.querySelector('link[href$="styles.css"]');
+  const baseUrl = stylesheet
+    ? stylesheet.getAttribute("href").replace(/styles\.css$/, "")
+    : "/";
+  const bundlePath = `${baseUrl.replace(/\/?$/, "/")}pagefind/`;
+  const scriptUrl = `${bundlePath}pagefind-ui.js`;
+  const cssUrl = `${bundlePath}pagefind-ui.css`;
+
+  function ensureCss() {
+    if (document.querySelector(`link[href="${cssUrl}"]`)) return;
+    const link = document.createElement("link");
+    link.rel = "stylesheet";
+    link.href = cssUrl;
+    document.head.appendChild(link);
+  }
+
+  function ensureScript() {
+    if (window.PagefindUI) return Promise.resolve();
+    if (window.__pagefindUiPromise) return window.__pagefindUiPromise;
+
+    window.__pagefindUiPromise = new Promise((resolve, reject) => {
+      const script = document.createElement("script");
+      script.src = scriptUrl;
+      script.onload = resolve;
+      script.onerror = () => reject(new Error("Pagefind UI kunde inte laddas."));
+      document.head.appendChild(script);
+    });
+
+    return window.__pagefindUiPromise;
+  }
+
+  function init() {
+    const mount = document.getElementById("pagefind-search");
+    const status = document.getElementById("pagefind-status");
+    if (!mount || mount.dataset.pagefindReady === "true") return;
+
+    mount.dataset.pagefindReady = "true";
+    status.hidden = true;
+
+    new window.PagefindUI({
+      element: "#pagefind-search",
+      baseUrl,
+      showSubResults: true,
+      excerptLength: 20,
+      resetStyles: false,
+      translations: {
+        placeholder: "Sök på webbplatsen",
+        clear_search: "Rensa sökningen",
+        load_more: "Visa fler resultat",
+        search_label: "Sök",
+        zero_results: "Inga träffar för [SEARCH_TERM]",
+        many_results: "[COUNT] träffar för [SEARCH_TERM]",
+        one_result: "[COUNT] träff för [SEARCH_TERM]",
+        alt_search: "Sökresultat för [SEARCH_TERM]"
+      }
+    });
+  }
+
+  function fail() {
+    const status = document.getElementById("pagefind-status");
+    if (!status) return;
+    status.hidden = false;
+    status.textContent = "Sökindex finns inte i den här previewn ännu. Kör publiceringsbygget för att skapa Pagefind-indexet.";
+  }
+
+  function boot() {
+    ensureCss();
+    ensureScript().then(init).catch(fail);
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", boot, { once: true });
+  } else {
+    boot();
+  }
+})();
+</script>

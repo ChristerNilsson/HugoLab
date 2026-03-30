@@ -2,6 +2,6 @@
 title: Aktuellt
 ---
 
-### 64 aktuellaste sidorna
+### De senaste 64 sidorna
 
 {{< aktuellt >}}

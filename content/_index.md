@@ -14,6 +14,7 @@ title: Home
   <a href="rating">Rating</a>
   <a href="resultat">Resultat</a>
   <a href="setup">Setup</a>
+  <a href="sok">Sök</a>
   <a href="webkarta">Webkarta</a>
 </nav>
 
