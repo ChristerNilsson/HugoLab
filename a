@@ -1,3 +1,7 @@
 #!/usr/bin/env bash
 
+hugo --cleanDestinationDir || exit 1
+npx -y pagefind --site public || exit 1
+rm -rf static/pagefind
+cp -r public/pagefind static/pagefind
 hugo server
