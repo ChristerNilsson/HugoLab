@@ -2,7 +2,7 @@
 	{{ partial "js.html" . }}
 	<div>
 		{{ partial "breadcrumbs.html" . }}
-		<h1>{{ .CurrentSection.Title }}</h1>
+		{{ if and .CurrentSection.Title (not .Params.hide_title) }}<h1>{{ .CurrentSection.Title }}</h1>{{ end }}
 		{{ .Content }}
 		{{ if .Params.auto }}
 			<ul>{{ range .CurrentSection.Sections }}<li><a href="{{ .RelPermalink }}" >{{ .Title }}</a></li>{{ end }}</ul>

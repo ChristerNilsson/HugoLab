@@ -173,7 +173,7 @@
     renderLegend(terms);
 
     if (!query.trim()) {
-      setStatus("Skriv ett eller flera ord för att söka.");
+      setStatus("");
       renderResults([]);
       return;
     }
@@ -265,7 +265,7 @@
 
     const initialQuery = getQueryFromLocation();
     input.value = initialQuery;
-    setStatus("Skriv ett eller flera ord för att söka.");
+    setStatus("");
 
     if (initialQuery.trim()) {
       suppressHistoryUpdate = true;
