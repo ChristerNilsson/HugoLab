@@ -47,6 +47,8 @@ T = Tendens
 |8| 3|Löwgren    |LUNDQUIST  | | ½ |
 |8|10|Kaminski   |Cederfeldt | | 0 |
 |8|13|JOHANSSON C|Hellman    | | 0 |
+|9|18|Jansson    |LIISTAMO   |½|   |
+
 
 Tendens: eloskillnad <= 200 ger remi  
 Versaler: Spelaren som initierade uppskjutandet  
@@ -67,8 +69,8 @@ Printa Bordlista och Ställning **efter att** tendensen nollställts.
 |   5|Häggvik      |½|
 |   6|Lindblad     |½|
 |   8|Karlsson M   |½|
-|   9|Ålgars       | |
-|   9|Johansson LB | |
+|   9|Ålgars       |½|
+|   9|Johansson LB |½|
 
 ½ poäng delas ut efter att ronden spelats.  
 Max två frironder per spelare.  
@@ -101,8 +103,8 @@ OK
 * Import Rating Lists
 * Import Rating List
 * FIDE
-* Ok
 * Start import
+* Ok
 
 ### Uppdatera spelarnas rating
 
