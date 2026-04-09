@@ -47,7 +47,7 @@ T = Tendens
 |8| 3|Löwgren    |LUNDQUIST  | | ½ |
 |8|10|Kaminski   |Cederfeldt | | 0 |
 |8|13|JOHANSSON C|Hellman    | | 0 |
-|9|18|Jansson    |LIISTAMO   |½|   |
+|9|18|Jansson    |LIISTAMO   |½|15/4|
 
 
 Tendens: eloskillnad <= 200 ger remi  
