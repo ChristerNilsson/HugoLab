@@ -7,7 +7,7 @@ Dec                      1689
 Jan                           1694
 Feb 1668
 Mar                                1699
-Apr
+Apr                          1693
 Maj
 ```
 
@@ -24,7 +24,7 @@ Maj
 |7|2026-03-11|1|S|1700|[Görgen Antonsson](https://lichess.org/study/Lt6JU7Je/tbFpCOeO)|
 |9|2026-03-17|0|S|1732|[Dan Israel](https://lichess.org/study/X8B5sM5c/cdR0WnY2)|
 |8|2026-03-18|1|V|1721|[Bertil Wennström](https://lichess.org/study/Rm3Ybt3C/dYozU3Da)|
-|0|2026-04-08| |V|1713|[Roland Eriksson]()|
+|0|2026-04-08|0|V|1713|[Roland Eriksson](https://lichess.org/study/INFRlKb1/Joo72Brb)|
 |1|2026-04-22| |S|1661|[Onni Aikio]()|
 
 [Seniorschack Stockholm KM Klassiskt](https://s3.chess-results.com/tnr1316880.aspx?art=4)
@@ -38,8 +38,8 @@ Maj
 |5|2026-02-19|1|S|1500|[Jouko Liistamo](https://lichess.org/study/AgzTp9sx/IsGN3xsW)|
 |6|2026-03-05|0|V|1791|[Hans Weström](https://lichess.org/study/Rm3Ybt3C/KqeGQafK)|
 |7|2026-03-12|0|V|1753|[Veine Gustavsson](https://lichess.org/study/TXV9aZnl/f2PVi7Xy)|
-|8|2026-03-19| ||||
-|9|2026-04-02| ||||
-|0|2026-04-09| ||||
+|8|2026-03-19|1|||frirond|
+|9|2026-04-02|1|||wo|
+|0|2026-04-09|0|S|1729|[Sten Hellman](https://lichess.org/study/GFuwxt03/w77DGzlm)|
 |1|2026-04-23| ||||
 
