@@ -42,12 +42,12 @@ T = Tendens
 |5|19|Jansson    |BERGSTRÖM  | | 0 |
 |6|10|Ring       |LÄNDIN     | | 0 |
 |7|12|KARLSSON M |Ring       | | ½ |
-|7|14|Ornstein   |JOHANSSON C|½|   |
+|7|14|Ornstein   |JOHANSSON C| |0wo|
 |7|15|Pettersson |SAHLIN     | | 1 |
 |8| 3|Löwgren    |LUNDQUIST  | | ½ |
 |8|10|Kaminski   |Cederfeldt | | 0 |
 |8|13|JOHANSSON C|Hellman    | | 0 |
-|9|18|Jansson    |LIISTAMO   |½|15/4|
+|9|18|Jansson    |LIISTAMO   | | 0 |
 
 
 Tendens: eloskillnad <= 200 ger remi  
