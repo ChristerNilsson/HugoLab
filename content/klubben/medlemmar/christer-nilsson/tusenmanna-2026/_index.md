@@ -16,7 +16,7 @@ Ledare: Birger Wentzel, Eric Thörn, Karl Dingertz osv.
 * Skiss över var borden är placerade i lokalen borde finnas uppsatt.
 * Borden i semin saknade nummer. Fanns varken bordsnummer eller seminummer. Partikorten skrivna med liten text.
 * Kings & Queen ej skyltad.
-* Bättre handikappsystem, t ex intervall 100 istf 300. Tolv nivåer istf fem. Eventuellt inkrement till den svagare
+* [Bättre](../handikapp/) handikappsystem, t ex intervall 100 istf 300. Tolv nivåer istf fem. Eventuellt inkrement till den svagare
 * Oacceptabelt att GM kan slås ut av E-spelare. Minsta tid 2 minuter?
 * Kolla upp oratade spelare. Troligen spelar de upp sin styrka anonymt och kan upprepa tricket nästa år.
 * Förslag: Så fort en oratad spelare slår en högre klassad spelare ska den oratade erhålla samma klass. Gäller upprepat.
