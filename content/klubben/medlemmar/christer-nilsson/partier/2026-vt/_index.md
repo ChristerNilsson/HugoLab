@@ -25,7 +25,7 @@ Maj
 |9|2026-03-17|0|S|1732|[Dan Israel](https://lichess.org/study/X8B5sM5c/cdR0WnY2)|
 |8|2026-03-18|1|V|1721|[Bertil Wennström](https://lichess.org/study/Rm3Ybt3C/dYozU3Da)|
 |0|2026-04-08|0|V|1713|[Roland Eriksson](https://lichess.org/study/INFRlKb1/Joo72Brb)|
-|1|2026-04-22| |S|1661|[Onni Aikio]()|
+|1|2026-04-22| |S|1661|[Onni Aikio](1 wo)|
 
 [Seniorschack Stockholm KM Klassiskt](https://s3.chess-results.com/tnr1316880.aspx?art=4)
 
@@ -41,5 +41,5 @@ Maj
 |8|2026-03-19|1|||frirond|
 |9|2026-04-02|1|||wo|
 |0|2026-04-09|0|S|1729|[Sten Hellman](https://lichess.org/study/GFuwxt03/w77DGzlm)|
-|1|2026-04-23| ||||
+|1|2026-04-23|0|S|1547|[Ali Koc](https://lichess.org/study/GekXVRi0/LKaIs0at)|
 
