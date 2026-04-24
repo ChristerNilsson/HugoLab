@@ -5,6 +5,13 @@ auto: false
 
 2026 VT
 
+[M](https://member.schack.se/ShowTournamentServlet?id=17773)
+[1](https://member.schack.se/ShowTournamentServlet?id=17774)
+[2](https://member.schack.se/ShowTournamentServlet?id=17775)
+[3](https://member.schack.se/ShowTournamentServlet?id=17776)
+[4](https://member.schack.se/ShowTournamentServlet?id=17777)
+[KM](https://s3.chess-results.com/tnr1316880.aspx?lan=6&art=4&turdet=YES&SNode=S0)
+
 [FairPair 2026-04-16](https://christernilsson.github.io/2025/035-FairPair/?TITLE=FairPair+2026-04-16&CITY=Stockholm&FED=SWE&ARB=&GAMES=1&ROUNDS=4&currSort=R&currRound=3&ONE=1&A=1&B=1&C=1&SPEED=0&p=1810|STERNER+Johan|1704427&p=1722|JOHANSSON+Christer+1960|1739247&p=1713|ERIKSSON+Roland|1799720&p=1699|NILSSON+Christer+1954|1786911&p=1626|HALLSTEDT+Leif|1749838&p=1623|VIVALL+Lars-Erik|1760416&p=1594|ZIVIC+Miroljub|1719955&p=1511|KOC+Ali+1956|563002787&r1=1202&r2=2020&r3=0202&r4=2200)
 
 [FairPair 2026-03-26](https://christernilsson.github.io/2025/035-FairPair/?TITLE=2026-03-26&CITY=&FED=SWE&ARB=&GAMES=1&ROUNDS=4&currSort=R&currRound=3&ONE=1&A=1&B=1&C=1&SPEED=0&p=2018|STROMBACK+Henrik|1724738&p=1906|SILINS+Peter|1711024&p=1810|STERNER+Johan|1704427&p=1721|WENNSTROM+Bertil|1727729&p=1713|ERIKSSON+Roland|1799720&p=1699|NILSSON+Christer+1954|1786911&p=1694|ANDERSSON+Lars-Owe|1715208&p=1687|RAZAVI+Abbas|1774417&p=1670|ANTONSSON+Gorgen|1747347&p=1651|STUMPF+Friedemann|1774310&p=1623|VIVALL+Lars-Erik|1760416&p=1600|LUNDBERG+Mikael|563004194&p=1511|KOC+Ali+1956|563002787&p=1400|LIND+Thomas|0001400&r1=2200020&r2=2022002&r3=0100020&r4=2211122)
