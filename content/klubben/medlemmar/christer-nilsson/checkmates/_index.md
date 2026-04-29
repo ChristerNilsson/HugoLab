@@ -19,25 +19,25 @@ Sista pjäsen används att matta med.
 
 |Nr|Namn|Pjäser|
 |-|-|-|
-|1|Back Rank Mate|R|
-|1|Boden Mate|B+B|
-|1|Arabian Mate|N+R|
-|2|Anastasias Mate|N+R|
-|2|Smothered Mate|N|
-|2|Opera's Mate|B+R|
-|3|Epaulette Mate|Q|
-|3|Dovetail Mate|Q|
+|1|[Back Rank Mate](https://lichess.org/training/backRankMate)|R|
+|1|[Boden Mate](https://lichess.org/training/bodenMate)|B+B|
+|1|[Arabian Mate](https://lichess.org/training/arabianMate)|N+R|
+|2|[Anastasias Mate](https://lichess.org/training/anastasiaMate)|N+R|
+|2|[Smothered Mate](https://lichess.org/training/smotheredMate)|N|
+|2|[Opera's Mate](https://lichess.org/training/operaMate)|B+R|
+|3|[Epaulette Mate](https://lichess.org/training/epauletteMate)|Q|
+|3|[Dovetail Mate](https://lichess.org/training/dovetailMate)|Q|
 |3|Lolli's Mate|P+Q|
 |4|Pawn's Mate|P+P|
 |4|Legal's Mate|B+N+N|
-|4|Vukovic's Mate|N+B+R|
-|5|Morphy's Mate|R+B|
+|4|[Vukovic's Mate](https://lichess.org/training/vukovicMate)|N+B+R|
+|5|[Morphy's Mate](https://lichess.org/training/morphysMate)|R+B|
 |5|Damiano's Mate|P+Q|
 |5|Greco's Mate|R+B|
-|6|Blind Swine's Mate|R+R|
+|6|[Blind Swine's Mate](https://lichess.org/training/blindSwineMate)|R+R|
 |6|Fool's Mate|Q|
-|6|Hook Mate|N+R|
-|7|Railroad (Triangle) Mate|Q+R|
+|6|[Hook Mate](https://lichess.org/training/hookMate)|N+R|
+|7|[Railroad (Triangle) Mate](https://lichess.org/training/triangleMate)|Q+R|
 |7|Reti's Mate|R+B|
 |7|Max Lange's Mate|B+Q|
 
