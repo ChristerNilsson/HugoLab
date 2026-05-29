@@ -8,8 +8,16 @@ Jan                           1694
 Feb 1668
 Mar                                1699
 Apr                          1693
-Maj
+Maj 1668
+Jun
 ```
+
+[Juniturneringen](https://member.schack.se/ShowTournamentServlet?id=18723)
+
+|R|Datum     |P|F|Elo |Motståndare|
+|-|-         |-|-|-   |-          |
+|1|2026-05-28|=|V|1668|[Mikael Ekbom](https://lichess.org/study/INFRlKb1/PKuZbkhq)|
+
 
 [Seniorserien Klass 1](https://member.schack.se/ShowTournamentServlet?id=17774)
 
@@ -25,7 +33,7 @@ Maj
 |9|2026-03-17|0|S|1732|[Dan Israel](https://lichess.org/study/X8B5sM5c/cdR0WnY2)|
 |8|2026-03-18|1|V|1721|[Bertil Wennström](https://lichess.org/study/Rm3Ybt3C/dYozU3Da)|
 |0|2026-04-08|0|V|1713|[Roland Eriksson](https://lichess.org/study/INFRlKb1/Joo72Brb)|
-|1|2026-04-22| |S|1661|[Onni Aikio](1 wo)|
+|1|2026-04-22|1|S|1661|Onni Aikio wo|
 
 [Seniorschack Stockholm KM Klassiskt](https://s3.chess-results.com/tnr1316880.aspx?art=4)
 
