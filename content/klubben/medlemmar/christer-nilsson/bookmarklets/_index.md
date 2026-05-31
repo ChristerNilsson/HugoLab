@@ -17,6 +17,8 @@ Eventuella parametrar skrivs i slutet av urlen.
 [Exempel](https://member.schack.se/ShowTournamentServlet?id=16696&n=6&filter=2)  
 [Exempel pdf](sm-2026-klass-iii.pdf)  
 
+[Instruktioner](instructions.md)
+
 ### Namnlista (Sorterad alfabetisk lista, alternativ till bordslistan)
 
 Fungerar med Schweizer, normal tabell, i medlemssystemet.  
