@@ -1,3 +1,7 @@
+---
+title: Instruktioner
+---
+
 ### Instruktioner till dig som ankommer till turneringen
 
 1. Se till att du har **betalat** och är **avprickad**. Kontrollera på skärmen!

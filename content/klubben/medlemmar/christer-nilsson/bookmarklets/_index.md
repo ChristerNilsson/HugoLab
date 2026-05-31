@@ -3,21 +3,20 @@ title: Bookmarklets
 ---
 
 För alla dessa gäller att du måste stå på en korrekt sida.  
-Eventuella parametrar skrivs i slutet av urlen.  
 
 ### BBS (Indelning i Berger-grupper + en Schweizer på slutet)
 ```javascript:(()=>{const s=document.createElement('script');s.src='https://christernilsson.github.io/2026/119-BBS/sketch.js';document.head.appendChild(s)})()```  
   
-* &n=8: grupper om åtta deltagare (8=default)
-* &filter saknas: Alla tas med (default)
-* &filter=1: Avprickad
-* &filter=2: Betalt
-* &filter=3: Avprickad och Betalt
+Kommandon:
+* `+` : Öka gruppstorleken med 2
+* `-` : Minska gruppstorleken med 2
+* `B` : Toggla Betalat
+* `A` : Toggla Avprickad
 
-[Exempel](https://member.schack.se/ShowTournamentServlet?id=16696&n=6&filter=2)  
+[Exempel](https://member.schack.se/ShowTournamentServlet?id=16696)  
 [Exempel pdf](sm-2026-klass-iii.pdf)  
 
-[Instruktioner](instructions.md)
+[Instruktioner](instruktioner)
 
 ### Namnlista (Sorterad alfabetisk lista, alternativ till bordslistan)
 
