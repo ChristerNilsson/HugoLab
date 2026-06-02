@@ -7,7 +7,7 @@ title: Instruktioner
 1. Se till att du har **betalat** och är **avprickad**. Kontrollera på skärmen!
 1. Planerad starttid benämns **K**. T ex 11:00.
 1. __Lottningen__ sker **K** minus 10 minuter. T ex 10:50.
-1. Endast de som har **betalat** och är **avprickad** placeras i en Berger-grupp.
+1. Endast de som har **betalat** och är **avprickade** placeras i en Berger-grupp.
 
 
 ### _Instructions for Participants Arriving at the Tournament_

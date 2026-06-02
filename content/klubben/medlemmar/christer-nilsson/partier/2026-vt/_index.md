@@ -3,13 +3,13 @@ title: 2026 VT
 ---
 
 ```
-Dec                      1689
-Jan                           1694
-Feb 1668
-Mar                                1699
-Apr                          1693
-Maj 1668
-Jun
+Dec                                          1689
+Jan                                               1694
+Feb                     1668
+Mar                                                    1699
+Apr                                              1693
+Maj                     1668
+Jun 1648
 ```
 
 [Juniturneringen](https://member.schack.se/ShowTournamentServlet?id=18723)
@@ -17,6 +17,8 @@ Jun
 |R|Datum     |P|F|Elo |Motståndare|
 |-|-         |-|-|-   |-          |
 |1|2026-05-28|=|V|1668|[Mikael Ekbom](https://lichess.org/study/INFRlKb1/PKuZbkhq)|
+|2|2026-06-01|0|S|1685|[Fred Kjellberg](https://lichess.org/study/GekXVRi0/sHbSbB3I)|
+
 
 
 [Seniorserien Klass 1](https://member.schack.se/ShowTournamentServlet?id=17774)
