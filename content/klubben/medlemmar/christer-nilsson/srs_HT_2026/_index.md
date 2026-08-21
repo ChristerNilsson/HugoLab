@@ -1,5 +1,5 @@
 ---
-title: Seniorschack KM 2026
+title: Seniorschack HT 2026
 auto: false
 ---
 
@@ -62,15 +62,7 @@ Printa Bordlista och Ställning **efter att** tendensen nollställts.
 
 |Rond|Spelare      |Bonus|
 |:-: |-            |:-:|
-|   1|Johansson LB |½|
-|   2|Karlsson SÅ  |½|
-|   4|Pettersson   |½|
-|   5|Gustavsson   |½|
-|   5|Häggvik      |½|
-|   6|Lindblad     |½|
-|   8|Karlsson M   |½|
-|   9|Ålgars       |½|
-|   9|Johansson LB |½|
+|   1|Berg Susanna |½|
 
 ½ poäng delas ut efter att ronden spelats.  
 Max två frironder per spelare.  
