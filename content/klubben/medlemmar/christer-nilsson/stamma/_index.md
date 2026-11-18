@@ -100,3 +100,6 @@ Först 1980 bestämde FIDE att algebraisk notation skulle bli standard.
 ```
 
 [Thank You, Phil Stamma](https://tartajubow.blogspot.com/2019/03/thank-you-phil-stamma.html?lr=1726509521249)
+
+[Addendum](https://www.chess.com/article/view/notation-1)
+Varken Cartesius eller Stamma var först med koordinater. En artikel på chess.com anger en källa från elvahundratalet.
